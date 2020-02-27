@@ -1,0 +1,367 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}  
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage[font=small,skip=0pt]{caption}
+\usepackage{subcaption}
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\captionsetup[table]{skip=10pt}
+\usepackage{arydshln}
+\usepackage{booktabs}
+\usepackage{rotating}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage[space]{grffile}
+\usepackage[clearempty]{titlesec}
+\usepackage{setspace}
+\usepackage{adjustbox}
+\usepackage{booktabs}
+\usepackage{pdfpages}
+\usepackage[a4paper,top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
+%\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage[autostyle]{csquotes} %new
+\usepackage{lscape}
+\usepackage{titlesec}
+\usepackage{sectsty}
+\usepackage[toc,page]{appendix}
+\usepackage{enumitem}
+\usepackage{indentfirst}
+\usepackage[style=authoryear, dashed=false, citestyle = apa, backend=biber ,maxbibnames=3, maxcitenames=1, doi=false,url=false,isbn=false]{biblatex} %sets format for referencing throughout document 
+\addbibresource{references.bib}
+\usepackage{float}
+\usepackage[none]{hyphenat}
+\usepackage{booktabs}
+
+%RELEVANT PAPERS
+%http://www.diva-portal.org/smash/get/diva2:539706/FULLTEXT02
+% cultural distance and firm internationalisation https://journals.sagepub.com/doi/pdf/10.1177/0149206317729027
+
+% research about market expansion - go back to it perhaps for additional factors 
+%https://www.researchgate.net/profile/Bent_Petersen/publication/313598562_The_internet_and_foreign_market_expansion_by_firms/links/59b66d430f7e9bd4a7fbdba5/The-internet-and-foreign-market-expansion-by-firms.pdf
+
+
+
+
+
+\sloppy
+
+
+
+\newcommand{\source}[1]{\vspace{-7pt}\caption*{\hfill \footnotesize Source: {#1}} }
+%\titlespacing*{\section}{0pt}{0pt}{0pt}
+%\titlespacing*{\subsection}{0pt}{0pt}{0pt}
+
+\newcommand*{\captionsource}[2]{%
+  \caption[{#1}]{%
+    #1%
+    \\\hspace{\linewidth}%
+    \textbf{Source:} #2%
+  }%
+}
+
+\begin{document}
+\pagenumbering{gobble}
+  
+  
+  %% REMARKS
+  %% get rid of hyphens
+  %% write acronyms 
+ 
+ 
+%----------------------------------------------------------------------------------------------------------- 
+%-------------------------------------------- Title Page -------------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+\begin{titlepage}    
+\begin{center} 
+
+\vspace*{2cm}
+
+{\Huge{The Age of Digitalisation}} \\
+\vspace*{0.4cm} 
+\LARGE{Market Entry in the Era of Financial Technology}
+
+\vspace*{1.5cm} 
+
+\Large{David Ohayon}\\
+
+
+\vspace*{1.5cm}
+
+\large{
+\textbf{Bachelor's Thesis}\\
+} 
+      
+\vspace*{1cm}
+
+\large{Submitted to\\
+Prof. Tine Lehmann\\}
+
+\vspace*{1.0cm}
+\large{Hochschule für Technik und Wirtschaft\\}
+\large{University of Applied Sciences\\}
+\large{FB03}
+\vspace*{1.0cm}
+
+\vspace*{2cm}
+\small{In partial fulfillment of the requirements\\
+for the degree of \\
+\vspace{4mm}
+\normalsize \textbf{Master of Science (M.Sc.) \\
+Economics and Management Science}\\
+\vspace{2mm}
+Major Macroeconomics}\\
+\vspace{1cm}
+\large{October 13\textsuperscript{th} 2017}\\
+\large{Student ID 570635}\\
+      
+\end{center}
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------------------------- 
+%----------------------------------------- Content Pages ----------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+% format text of content pages 
+\onehalfspacing
+\setcounter{tocdepth}{4}
+\parindent=0in
+\parskip=8pt  % this is variable, choose the number you want
+\setlength{\belowcaptionskip}{-10pt}
+%\raggedright
+%\parindent=1.5em % for indented paragraphs
+\pagenumbering{Roman} 
+
+\newpage
+\tableofcontents
+
+\newpage
+
+\pagebreak
+\listoffigures
+\newpage
+\section*{List of Abbreviations}
+
+\begin{tabular}{rp{0.2cm}lp{1cm}p{7cm}l}
+    ETF     & &  \small Exchange-Traded Fund   & &      \\
+    BI     & &  \small Business Intelligence   & & \\
+    KPI     & &  \small Key Performance Indicator   & & \\
+    ETL     & &  \small Extract, Transform, Load   & & \\
+    SQL     & &  \small Structured Query Language  & & \\
+    SEO     & &  \small Search Engine Optimization  & & \\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------------------------- 
+%------------------------------------------- Motivation -------------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+\captionsetup{justification=justified,singlelinecheck=false}
+
+\pagebreak
+\pagenumbering{arabic}
+\newgeometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
+\flushbottom
+\doublespacing
+\parindent=1cm
+
+\section{Introduction}
+Define E-Commerce according to the paper of working student and 
+%https://s3.amazonaws.com/academia.edu.documents/54636375/Patelli2004.pdf?response-content-disposition=inline%3B%20filename%3DA_research_framework_for_analysing_eBusi.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200223T140357Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=70d6a4a6c5c2ba13c9f8bf7beed4239e635b1be861d9a19d096fa20f057ede01
+
+\section{Theoretical Frameworks}
+test
+
+
+
+%----------------------------------------------------------------------------------------------------------- 
+%------------------------------------- Analytical Framework------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+\newpage
+\section{The Fintech Industry} %
+\label{fintech_industry}
+
+Financial Technology, often shortened to FinTech, describes the use of technology in the financial sector in order to provide applied financial solutions.  It is important to note that FinTech, albeit an industry that is seemingly rather new, has actually been around since the 1800s. \citeauthor{buckleyEvolutionFintechNew2016} (\citeyear{buckleyEvolutionFintechNew2016}) define three key periods in the evolution of FinTech: Fintech 1.0, Fintech 2.0 and FinTech 3.0.\par
+FinTech 1.0 can be traced back to 1866 and is characterised by the implementation of the first Trans-Atlantic transmission cable that significantly reduced the communication time between North America and Europe from 10 days to as low as 17 hours. This in turn resulted in the development of the global telex which then improved financial services. Other applications during the period of FinTech 1.0 include the first handheld financial calculator (\cite{thibodeauTIFirstHandheld2007}) and the introduction of credit cards in America (\cite{markhamFinancialHistoryUnited2015}). \par
+Looking back to FinTech 1.0 a clear and noticeable pattern is noticeable and that the primary attribute that associated with FinTech is that technology acts as an enabler for certain processes that were previously either complex or not available. Thus, FinTech 2.0, which took part between 1967 to 2008, was primarily defined by the emergence of the internet and by 2001 "eight banks in the US had at least one million customers online"  (\cite{buckleyEvolutionFintechNew2016}, p. 11). \par 
+FinTech 3.0 commenced in 2008, post-financial crisis. A survey from 2015 dug into the question of how much confidence does one hold when being confronted with different names of institutions in the American society,  the following figure displays the results of the study:
+%PERHAPS ADD MORE TEXT HERE TO MAKE UP FOR THE EMPTY SPACE BEFORE THE FIGURE
+
+% check if sourcing this way is fine, dugan for gallop !!! 
+
+\newpage
+  \vspace{5mm}
+\begin{figure}[H]
+	\centering
+  \includegraphics[width=90mm]{figures/fig1_america_survey_trust_banks}
+  \vspace{5mm}
+    \captionsetup{justification=centering,margin=2cm}
+      \captionsource{Americans' Confidence in Banks (1979-2015)}{Dugan for GALLUP, 2015}
+	\label{fig:bank_trust_survey}
+\end{figure}
+
+As illustrated in figure \ref{fig:bank_trust_survey}, only 28 percent of the people expressed a "great deal" of confidence in banks and the decreasing trend displayed since the financial crisis is evident (\cite{andrewConfidenceBanksLow2015}). \par  
+The crisis resulted in traditional banks perceived as less reliable which saw the rise of start-ups in the financial sector (\cite{arner150YearsFintech2016}). This period revolves around applications emphasising the power of data and the ability to leverage and harness its benefits. As previously mentioned, figure \ref{fig:bank_trust_survey}  demonstrates a clear change in the loyalty of the society. An additional research born out of cooperation between Instantly Brand Monitor and Statista (2015) displays previous statistics regarding the level of trust Americans display towards different types of firm. 
+
+  \vspace{5mm}
+\begin{figure}[H]
+	\centering
+  \includegraphics[width=0.8\textwidth, scale=0.1]{figures/fig2_breakdown_american_survey}
+  \vspace{5mm}
+    \captionsetup{justification=centering,margin=2cm}
+      \captionsource{Americans' Confidence in Different Organisations)}{Instantly Brand Monitor \& Statista, 2015}
+	\label{fig:org_trust_breakdown}
+\end{figure}
+
+Figure \ref{fig:org_trust_breakdown} depicts a clear distribution between tech firms and banks, and as previously shown in figure \ref{fig:bank_trust_survey}, the trust placed in traditional banks had been reduced, while in comparison, financial tech firms are awarded with a significant and greater degree of trust. \par
+The progress from FinTech 1.0 to FinTech 3.0 clearly shows how change in technology changed the rules of the game and how traditional institutions are not the only and unique entity existing any longer. Furthermore, this same understanding applies to the fact that the same theoretical frameworks previously applied in regard to the internationalisation processes of firms, possibly no longer applies as a one size fits all kind of solution. 
+
+
+
+% add periods
+
+
+%Financial Technology, short for Fintech, describes the recent emerging development in the financial sector where solutions are enabled by the use of technology. The phenomenon itself 
+
+
+%----------------------------------------------------------------------------------------------------------- 
+%------------------------------------- Range of Products ------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+%% GO BACK TO THIS - COVER THE CONCEPT OF DISTANCE BEFORE PSYCHIC
+\section{Previous Studies of Internationalisation}
+\label{lit_review}
+  \vspace{-5mm}
+Exploring existing approaches or seeking newer directions of inquiry are among the reasons of why  literature can assist to improve, shape and give form to a research topic in mind. Rowley and Slack (\citeyear{rowleyConductingLiteratureReview2004}) argue that such reviews play a meaningful role in the identification of relevant literature to the research in question, while giving it context or seeking ways to provide added value. Additional aspects include constructing a better understanding of theories, concepts and terminology. Hart (\citeyear{hartDoingLiteratureReview1998}) contributes further benefits, among them are shedding light on any significant variables that may provide additional understanding to the topic while attempting to relate certain concepts, ideas and theory to applications. Therefore, this chapter will explore previous studies in the field of internationalisation in regard to E-Commerce companies and traditional theories  in the field, while putting emphasis on assumptions, conclusions and key points. 
+\par Considerable amount of existing research demonstrates the benefits derived from using the internet as an enabler for breaking barriers previously set on the internationalisation borders (\cite{chaiAncientModernCross2004}; \cite{shneorInternetenabledInternationalizationProcess2008}; \cite{areniusRapidInternationalisationEnabled2005}). %borders is right to use as a term here?
+An exploratory research by Loane and Bell (\citeyear{loaneCrossnationalComparisonInternationalisation2002}) was set to inspect the internationalisation process of E-Commerce companies originating in New Zealand, Australia and the European Union. Eight firms were chosen and demographically analysed using measures including firm age, firm size, number of founders and the personal relationship between them (close family or not) and the speed in which those firms internationalised in terms of time. Many if not most of the case firms in the aforementioned research have undergone a rapid internationalisation, if not from their inception, in order to gain a competitive advantage. It was revealed that the case firms have used the means of internet technology across the organisation's departments and as a sales channel for their products and thus set themselves on the international stage in ways never possible pre-internet era as "The 'old' rules of business are not obsolete for internet-enabled firms" (\cite{loaneCrossnationalComparisonInternationalisation2002}, p.1965).   \par 
+A study by Fang et al.\ (\citeyear{fangParachutingInternationalizationStudy2017}) explores the internationalisation process of Scandinavian firms as they attempt to enter the Chinese market. The study integrates two commonly known and dominant approaches used to describe internationalisation, The Uppsala Model and the Born Global Model. However, instead of applying each theoretical approach separately, the authors attempt to unite both into a hybrid, or as mentioned in the paper "parachuting internationalisation". Out of the four firms, one is an E-Commerce company that followed the Born Global approach from inception and harnessed the full power of the internet in its internationalisation process. The internet accelerated the company's expansion across different markets and even allowed for simultaneous market entries. Furthermore, the experiences the four Scandinavian firms underwent in their entrance to China revealed several common factors with great impact: knowledge is of great importance and learning is of the essence; geographic locations are outshined by customer focus and psychic distance is not as promising as previously thought. \par
+In contrast to Fang's finding in regard to psychic distance no longer being in the internationalisation stage limelight, \citeauthor{forsgrenIgnorantImpatientInternationalization2007} (\citeyear{forsgrenIgnorantImpatientInternationalization2007})  find in their study focusing on E-Commerce companies, that at the beginning of the expansion process, firms choose markets of relative distance in the sense of psychic distance. \par
+Psychic Distance is a concept introduced in \citeauthor{johansonInternationalizationProcessFirm1977}  study (\citeyear{johansonInternationalizationProcessFirm1977}, p.24) regarding the internationalisation process of firms and describes it as "the sum of factors preventing the flow of information from and to the market". The factors preventing the flow of information include differences in culture, business , language, education and how developed is the industry.  This approach was empirically analysed by \citeauthor{kogutEffectNationalCulture1988} (\citeyear{kogutEffectNationalCulture1988}) using Hoftsede's cultural dimensions. The analysis revealed that the mode chosen by firms to enter different markets is influenced by various cultural factors. 
+\citeauthor{karakayaBarriersEntryInternational1993} (\citeyear{karakayaBarriersEntryInternational1993}) further contributes  by indicating another aspect that can shape and raise hurdles in the path of expansion. \citeauthor{karakayaBarriersEntryInternational1993} describes market entry barriers and their impact on firms. These barriers include but are not exclusive to cultural, language, political, economic and governmental aspects. \par
+Further emphasis is put on knowledge being a strong factor in the pattern of internationalisation of firms. Petersen's study (\citeyear{petersenInternetForeignMarket2002}) concludes that due to the internet, processes conducted during the internationalisation of a firm are awarded with improved efficiency of market transactions. Moreover, with the access to a lake of data provided by the online horizon, firms can react to market changes and improve their learning processes and knowledge, which in turn propels firms into the global business arena. \par 
+\citeauthor{johansonInternationalizationProcessFirm1977} (\citeyear{johansonInternationalizationProcessFirm1977}) describe internationalisation as an iterative and gradual process and distinguishes between four different factors: Market knowledge, market commitment, commitment decisions and current activities. The study highlights that a firm's market entry process will be influenced by how committed and invested it is in the target destination. Normally, a firm will enter a market while committing as little as possible and expand from that point onwards. Additionally, a corporation will usually enter markets that are familiar to it in terms of a higher psychic distance. The model created in this study describes a process where market knowledge shapes commitment decisions and how current internationalisation activities follow.  \par
+Generally speaking, distance has been a widely researched and explored aspect in the internationalisation process of firms and as previously mentioned, psychic distance is an application of the broader concept that is distance. It was found that distance plays a major factor in the selection of location, entry mode and knowledge transfer (\cite{xuInstitutionalDistanceMultinational2002}; \cite{kostovaTransnationalTransferStrategic1999}; \cite{tihanyiEffectCulturalDistance2005}). It was further concluded that "essentially, international management is management of distance" (\cite{zaheerDistanceDirectionRestoring2012}, p.19). Therefore, distance is a concept that is of the essence when discussing factors that might play a role in internationalisation processes and cannot be disregarded. \par
+\citeauthor{terziImpactEcommerceInternational2011} (\citeyear{terziImpactEcommerceInternational2011}) accentuates the added value that is derived by the use of internet and electronic means. In this study, the author describes how the use of e-commerce applications can bear fruit in the form of reduced costs, speed, improved communication, reduced significance of physical geographic distance and business networks. Factors including historical linkages, managerial structure and fitness to target industry continue to have impact withal. Moreover, the study sheds light on the fact that trade barriers which normally reshape a company's internationalisation, no longer pose such of a big problem with the introduction of E-Commerce activities. \par
+Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor,Stick another paragraph regarding a factor, Stick another paragraph regarding a factor, Stick another paragraph regarding a factor,  \par
+This dissertation author's review of extensive academical work finds certain factors that appear in a consistent manner across the broad scope of research explored. The following table provides a recap of factors, result of the studies covered in this chapter, that play a role in the internationalisation process of E-Commerce firms:
+
+\vspace{8mm}
+\begin{table}[H] \centering 
+\begin{tabular}{p{6cm}p{10cm}}
+  \toprule
+  \emph{Factors} & \emph{Authors} \\ 
+    \midrule
+  Market Entry Barriers    & \cite{chaiAncientModernCross2004}; \cite{shneorInternetenabledInternationalizationProcess2008}; \cite{areniusRapidInternationalisationEnabled2005};
+  \cite{karakayaBarriersEntryInternational1993};
+  \cite{terziImpactEcommerceInternational2011}
+  \\ 
+  Firm Size    &  \cite{loaneCrossnationalComparisonInternationalisation2002} \\ 
+Firm Age    &  \cite{loaneCrossnationalComparisonInternationalisation2002}  \\ 
+The Internet    & \cite{loaneCrossnationalComparisonInternationalisation2002}; 
+\cite{fangParachutingInternationalizationStudy2017}; \cite{petersenInternetForeignMarket2002};
+\cite{terziImpactEcommerceInternational2011} \\ 
+Managerial Structure & \cite{loaneCrossnationalComparisonInternationalisation2002};
+\cite{terziImpactEcommerceInternational2011} \\
+Knowledge & \cite{fangParachutingInternationalizationStudy2017};
+\cite{petersenInternetForeignMarket2002}; 
+\cite{johansonInternationalizationProcessFirm1977};  \\
+Relative Distance (i.e.Psychic Distance) &  \cite{forsgrenIgnorantImpatientInternationalization2007}; 
+\cite{johansonInternationalizationProcessFirm1977}; \cite{kogutEffectNationalCulture1988};
+\cite{xuInstitutionalDistanceMultinational2002};
+\cite{kostovaTransnationalTransferStrategic1999};
+ \cite{tihanyiEffectCulturalDistance2005};
+ \cite{zaheerDistanceDirectionRestoring2012}\\
+Cultural Differences & \cite{loaneCrossnationalComparisonInternationalisation2002};
+\cite{johansonInternationalizationProcessFirm1977} \\
+
+\end{tabular}
+\vspace{5mm}
+\captionsetup{width=0.8\linewidth}
+\caption{Factors Impacting Internationalisation: Previous Studies} 
+\end{table} 
+
+\newpage
+
+
+
+
+%Porter's Five Forces (\cite{porterPortersFiveForces1980}) is a framework breaking down the structure of competition in a certain market. Among the forces indicated is the threat of new entrants which is influenced by barriers to entry, however, an additional study by Porter (\cite{porterFiveCompetitiveForces2008}) describes how the internet lowered those same barriers and made the marketplace more accessible. However, 
+
+  \vspace{5mm}
+\begin{figure}[H]
+	\centering
+  \includegraphics[width=0.8\textwidth, scale=0.1]{figures/fig_pull_push_forces}
+  \vspace{5mm}
+    \captionsetup{justification=centering,margin=2cm}
+      \captionsource{Push, Pull and Intermediating Forces in the Internationalisation Process)}{\cite{etemadInternationalizationSmallMediumsized2004}, p.5.}
+	\label{fig:pull_push_forces}
+\end{figure}
+
+Figure \ref{fig:pull_push_forces} depicts a model covered in a study by Etemad (\citeyear{etemadInternationalizationSmallMediumsized2004}) that is set to bind three general measures in the internationalisation process: push, pull and mediating forces. Push factors are composed of internal (in most cases) factors that force a firm to internationalise due to the firm/ organisation being at a certain risk or conflict. Thus, these factors are in nature pushing or encouraging the internationalisation process in order to realise international opportunities. In contrast to push factors that drive a firm to move from the local stage to the international stage, pull factors are forces existing in the destination country that attract and incentivise the firm to enter its market. These forces are usually external and are composed of opportunities that may answer a certain need or market demand not existing at the time. The mediating forces are composed of a firm's general profile, characteristics and managerial orientation. These forces interact with both the push and pull forces and are influenced by a firm's internal dynamics.
+
+
+
+
+%----------------------------------------------------------------------------------------------------------- 
+%------------------------------------- BI Department ------------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+\section{The E-Market Environment}
+\label{emarket_env}
+  \vspace{-5mm}
+  %EXPLAIN ABOUT THE NATURE OF DIGITAL GOODS BEING INTANGIBLE
+The internet changed the rules and supplied different conditions for companies operating online and digitalising their products. This chapter attempts to point out how the internet has made things easier and more accessible for businesses. \par
+Physical products, services or processes, can nowadays be digitised and communicated through networks. Examples can include the addition of electronic interfaces in smart cars and other smart appliances, visiting a website to shop instead of visiting a physical shop and even opening bank accounts or depositing money in savings accounts all over the world. Digital products can be distinguished from their physical counterparts using different measures. If a product can be sold using the Internet as a medium for its marketing, advertising and performing inbound and outbound transactions (payments tied to purchasing), then it can be defined as a digital good. This can be even further extended to the claim that anything sent and received over the internet is possibly a digital product or can be turned into one (\cite{choiEconomicsElectronicCommerce1997}). 
+Furthermore, unlike physical products, digital products are harder to experience, or in other words, it is harder to know how good something is until you have experienced it in its tangible form (\cite{shapiroInformationRulesStrategic1998}).  Due to the nature of such transactions over the internet, it results in a situation where the buyer is in a riskier position in comparison to the seller, who is familiar with the product in question. The theory of reasoned action (\cite{fishbeinBeliefAttitudeIntention1977}) explains how consumers take specific actions when there is a specific result expected, while depending on the available information. Therefore, the quality of information and its reliability can greatly impact a customer's buying decision, customer retention and customer loyalty. Trust issues aside, using the internet as a sales channel results in a high worldwide penetration and reaches a broad audience. A study made by Statista (\citeyear{clementGlobalDigitalBuyer2019}) presented that by 2017, 60.2 percent of global internet users executed a purchase online. The data further presents forecasts up to 2021, where the percentage is expected to rise to 65.2 percent. \par
+An additional distinguishing feature of the electronic marketplace is that the internet significantly reduces costs. First, the costs of exchanging information while making decisions, also known as transaction costs, are greatly reduced by the use of internet technology. The internet accelerates communication and lowers its cost, optimises product selection process, mitigates errors, and improves the link between buyers and suppliers (\cite{bunduchiBusinessRelationshipsInternetbased2005}). Furthermore, the development of a digital product or digital unit in the purpose of profit, often results in high initial costs, however, additional copies cost virtually nothing or are very easily reproduced. This can also be described in economic terms whereas fixed costs are large, while the variable costs of reproducing the item are small (\cite{shapiroInformationRulesStrategic1998a}). Therefore, bigger volume of customers will lead to higher profitability.
+%FIND MORE ABOUT THE E-MARKET ENVIRONMENT - PERHAPS ABOUT WORKING CAPITAL NOT NEEDED
+
+
+
+\section{Projects and Tools}
+\label{project_tools}
+
+
+\newpage
+
+\section{Conclusion and Key Takeaways}
+\label{conclusion}
+
+
+\newpage
+
+%Further Research ------------------------------------------------------------------------------------
+ 
+%----------------------------------------------------------------------------------------------------------- 
+%------------------------------------ References & Appendix ----------------------------------------
+%-----------------------------------------------------------------------------------------------------------
+\pagebreak
+
+
+\nocite{mccarthyAmericansTrustTech}
+\addcontentsline{toc}{section}{References}
+\printbibliography
+
+
+% with \nocite you can add references to the bibliography without referencing them in your text-body (for example R packages)
+
+%\nocite{ghalanos_r_2015}
+%\nocite{zeiles_r_2013}
+%\nocite{peterson_r_2015}
+%\nocite{wickham_r_2009}
+
+%\newpage
+%\section*{Declaration of Authorship}
+
+%I hereby confirm that I have authored this Master's
+%thesis independently and without use of others than the indicated
+%sources. All passages which are literally or in general matter
+%taken out of publications or other sources are marked as such. 
+%The thesis represents original work that has not been submitted for 
+%examination purposes elsewhere. I am aware of the plagiarism and examination rules that apply. 
+%\vspace{1cm}
+
+%Berlin, October 13, 2017 \vspace{0.5cm}
+
+%Anastasia Krasimirova Stoyanova     
+
+
+\newgeometry{top=2.5cm,bottom=2.5cm,left=3cm,right=2.5cm} % with this you can change the layout/borders of the document. I did this, because my tables where big and didn't fit.
+\end{document}

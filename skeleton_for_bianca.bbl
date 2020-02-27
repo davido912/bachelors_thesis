@@ -1,0 +1,541 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{allemanAgileProjectManagement2002}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=112a9998ace918fab4702bf18f3ec9c6}{%
+           family={Alleman},
+           familyi={A\bibinitperiod},
+           given={Glen\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{112a9998ace918fab4702bf18f3ec9c6}
+      \strng{fullhash}{112a9998ace918fab4702bf18f3ec9c6}
+      \strng{bibnamehash}{112a9998ace918fab4702bf18f3ec9c6}
+      \strng{authorbibnamehash}{112a9998ace918fab4702bf18f3ec9c6}
+      \strng{authornamehash}{112a9998ace918fab4702bf18f3ec9c6}
+      \strng{authorfullhash}{112a9998ace918fab4702bf18f3ec9c6}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Conference on {{Extreme Programming}} and {{Agile Methods}}}
+      \field{shorttitle}{Agile Project Management Methods for {{ERP}}}
+      \field{title}{Agile Project Management Methods for {{ERP}}: How to Apply Agile Processes to Complex {{COTS}} Projects and Live to Tell about It}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{70\bibrangedash 88}
+      \range{pages}{19}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/RPYJ2MNH/Alleman - 2002 - Agile project management methods for ERP how to a.pdf;/Users/davidohayon/Zotero/storage/DNBVS6VZ/3-540-45672-4_8.html
+      \endverb
+    \endentry
+    \entry{ApacheAirflow}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Platform created by community to programmatically author, schedule and monitor workflows.}
+      \field{langid}{english}
+      \field{title}{Apache {{Airflow}}}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/76LSUHHA/airflow.apache.org.html
+      \endverb
+      \verb{urlraw}
+      \verb https://airflow.apache.org/
+      \endverb
+      \verb{url}
+      \verb https://airflow.apache.org/
+      \endverb
+    \endentry
+    \entry{atlassianJiraIssueProject}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a8fd8cd0b6d2cfda939a8ef257e60192}{%
+           family={Atlassian},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{fullhash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{bibnamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authorbibnamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authornamehash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \strng{authorfullhash}{a8fd8cd0b6d2cfda939a8ef257e60192}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Plan, track, and manage your agile and software development projects in Jira. Customize your workflow, collaborate, and release great software.}
+      \field{journaltitle}{Atlassian}
+      \field{langid}{english}
+      \field{title}{Jira | {{Issue}} \& {{Project Tracking Software}}}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/4BETL99S/jira.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.atlassian.com/software/jira
+      \endverb
+      \verb{url}
+      \verb https://www.atlassian.com/software/jira
+      \endverb
+    \endentry
+    \entry{bellJointForcesMHBBank}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4fbfa6f777941a9f8da31fd76f5ccc64}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Maggie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \strng{fullhash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \strng{bibnamehash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \strng{authorbibnamehash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \strng{authornamehash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \strng{authorfullhash}{4fbfa6f777941a9f8da31fd76f5ccc64}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Focus on banking-as-a-service for fintechs points to future of financial services The Berlin-based fintech Raisin continues to expand. Following the successful conclusion of ownership control procedures by Germany’s Federal Financial Supervisory Authority (known as BaFin), Raisin has taken over MHB-Bank as sole owner, thus becoming the first fintech in Germany to buy a bank. Since …}
+      \field{journaltitle}{Raisin}
+      \field{langid}{american}
+      \field{shorttitle}{Raisin}
+      \field{title}{Joint Forces: {{MHB}}-{{Bank}} Becomes {{Raisin Bank}} – {{Focus}} on {{Banking}}-as-a-{{Service}} for {{Fintechs}}}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/Z8QTNNL5/mhb-bank-becomes-raisin-bank.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.raisin.com/press/mhb-bank-becomes-raisin-bank/
+      \endverb
+      \verb{url}
+      \verb https://www.raisin.com/press/mhb-bank-becomes-raisin-bank/
+      \endverb
+    \endentry
+    \entry{caplingerWhatETF2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c4d0fe400878a662b10d40137105733d}{%
+           family={Caplinger},
+           familyi={C\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4d0fe400878a662b10d40137105733d}
+      \strng{fullhash}{c4d0fe400878a662b10d40137105733d}
+      \strng{bibnamehash}{c4d0fe400878a662b10d40137105733d}
+      \strng{authorbibnamehash}{c4d0fe400878a662b10d40137105733d}
+      \strng{authornamehash}{c4d0fe400878a662b10d40137105733d}
+      \strng{authorfullhash}{c4d0fe400878a662b10d40137105733d}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Exchange-traded funds have become one of the most popular ways to invest. Find out why.}
+      \field{day}{9}
+      \field{hour}{13}
+      \field{journaltitle}{The Motley Fool}
+      \field{langid}{english}
+      \field{minute}{46}
+      \field{month}{1}
+      \field{second}{0}
+      \field{timezone}{-05\bibtzminsep 00}
+      \field{title}{What {{Is}} an {{ETF}}?}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/UQD84KE3/what-is-an-etf-exchange-traded-fund.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.fool.com/investing/etf/what-is-an-etf-exchange-traded-fund.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.fool.com/investing/etf/what-is-an-etf-exchange-traded-fund.aspx
+      \endverb
+    \endentry
+    \entry{hayesProgrammingLanguagesMost}{online}{}
+      \name{author}{1}{}{%
+        {{hash=341f9490c3034eff8d0d5c07ddf1f563}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Bob},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \strng{fullhash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \strng{bibnamehash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \strng{authorbibnamehash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \strng{authornamehash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \strng{authorfullhash}{341f9490c3034eff8d0d5c07ddf1f563}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A recent survey of nearly 24,000 data professionals by Kaggle revealed that Python, SQL and R are the most popular programming languages.}
+      \field{langid}{american}
+      \field{title}{Programming {{Languages Most Used}} and {{Recommended}} by {{Data Scientists}} |}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/GDFNNCQU/programming-languages-most-used-and-recommended-by-data-scientists.html
+      \endverb
+      \verb{urlraw}
+      \verb https://businessoverbroadway.com/2019/01/13/programming-languages-most-used-and-recommended-by-data-scientists/
+      \endverb
+      \verb{url}
+      \verb https://businessoverbroadway.com/2019/01/13/programming-languages-most-used-and-recommended-by-data-scientists/
+      \endverb
+    \endentry
+    \entry{marazziBuildingDataPipeline2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b91c086d5a342f626f6a85d0065a9a4e}{%
+           family={Marazzi},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \strng{fullhash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \strng{bibnamehash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \strng{authorbibnamehash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \strng{authornamehash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \strng{authorfullhash}{b91c086d5a342f626f6a85d0065a9a4e}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{What’s a Data Pipeline and why you want one as well}
+      \field{journaltitle}{Medium}
+      \field{langid}{english}
+      \field{title}{Building a {{Data Pipeline}} from {{Scratch}}}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/SN9Y9J4R/building-a-data-pipeline-from-scratch-32b712cfb1db.html
+      \endverb
+      \verb{urlraw}
+      \verb https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
+      \endverb
+      \verb{url}
+      \verb https://medium.com/the-data-experience/building-a-data-pipeline-from-scratch-32b712cfb1db
+      \endverb
+      \warn{\item Entry 'marazziBuildingDataPipeline2016' (references.bib): Invalid format '2016-07-13T19:16:29.351Z' of date field 'date' - ignoring}
+    \endentry
+    \entry{parmenterKeyPerformanceIndicators2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a880a9d73c78b8801ed6b1cfab8aefce}{%
+           family={Parmenter},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \strng{fullhash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \strng{bibnamehash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \strng{authorbibnamehash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \strng{authornamehash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \strng{authorfullhash}{a880a9d73c78b8801ed6b1cfab8aefce}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Streamline KPIs to craft a simpler, more effective system of performance measurement Key Performance Indicators provides an in-depth look at how KPIs can be most effectively used to assess and drive organizational performance. Now in its third edition, this bestselling guide provides a model for simplifying KPIs and avoiding the pitfalls ready to trap the unprepared organization. New information includes guidance toward defining critical success factors, project leader essentials, new tools including worksheets and questionnaires, and real-world case studies that illustrate the practical application of the strategies presented. The book includes a variety of templates, checklists, and performance measures to help streamline processes, and is fully supported by the author’s website to provide even more in-depth information. Key Performance Indicators are a set of measures that focus on the factors most critical to an organization’s success. Most companies have too many, rendering the strategy ineffective due to overwhelming complexity. Key Performance Indicators guides readers toward simplification, paring down to the most fundamental issues to better define and measure progress toward goals. Readers will learn to: separate out performance measures between those that can be tied to a team and result in a follow-up phone call (performance measures) and those that are a summation of a number of teams working together (result indicators) look for and eradicate those measures that have a damaging unintended consequence, a major darkside Sell a KPI project to the Board, the CEO, and the senior management team using best practice leading change techniques Develop and use KPIs effectively with a simple five stage ~model Ascertain essential performance measures, and develop a reporting strategy Learn the things that a KPI project leader needs to know A KPI project is a chance at a legacy – the project leader, facilitator, or coordinator savvy enough to craft a winning strategy can affect the organization for years to come. KPI projects entail some risk, but this book works to minimize that risk by arming stakeholders with the tools and information they need up front. Key Performance Indicators helps leaders shape a performance measurement initiative that works.}
+      \field{day}{13}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-1-118-92510-2}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{pagetotal}{448}
+      \field{shorttitle}{Key {{Performance Indicators}}}
+      \field{title}{Key {{Performance Indicators}}: {{Developing}}, {{Implementing}}, and {{Using Winning KPIs}}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb bKkxBwAAQBAJ
+      \endverb
+      \keyw{Business & Economics / Management,Business & Economics / Strategic Planning}
+    \endentry
+    \entry{Raisin}{online}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We are a young, successful and quickly growing FinTech startup company based in Berlin that brings European customers and banks together.}
+      \field{langid}{american}
+      \field{shorttitle}{Raisin in Numbers and Pictures}
+      \field{title}{Raisin}
+      \field{urlday}{19}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/IRWRLCQZ/careers.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.raisin.com/careers/
+      \endverb
+      \verb{url}
+      \verb https://www.raisin.com/careers/
+      \endverb
+    \endentry
+    \entry{sciforceWhatETL2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=36dac3d3117c0faf099f8800d37a828f}{%
+           family={Sciforce},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{36dac3d3117c0faf099f8800d37a828f}
+      \strng{fullhash}{36dac3d3117c0faf099f8800d37a828f}
+      \strng{bibnamehash}{36dac3d3117c0faf099f8800d37a828f}
+      \strng{authorbibnamehash}{36dac3d3117c0faf099f8800d37a828f}
+      \strng{authornamehash}{36dac3d3117c0faf099f8800d37a828f}
+      \strng{authorfullhash}{36dac3d3117c0faf099f8800d37a828f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In our articles related to AI and Big Data in healthcare, we always talk about ETL as the core of the core process. We do not write a lot…}
+      \field{journaltitle}{Medium}
+      \field{langid}{english}
+      \field{title}{What Is {{ETL}}?}
+      \field{urlday}{22}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/F64WRLVE/what-is-etl-1df5305bb341.html
+      \endverb
+      \verb{urlraw}
+      \verb https://medium.com/sciforce/what-is-etl-1df5305bb341
+      \endverb
+      \verb{url}
+      \verb https://medium.com/sciforce/what-is-etl-1df5305bb341
+      \endverb
+      \warn{\item Entry 'sciforceWhatETL2019' (references.bib): Invalid format '2019-09-27T12:48:33.283Z' of date field 'date' - ignoring}
+    \endentry
+    \entry{ScreamingFrog}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We are a UK based search marketing agency and the creators of the famous website crawler and log file analyser tools.}
+      \field{langid}{english}
+      \field{title}{Screaming {{Frog}}}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/2JJ9PJKV/www.screamingfrog.co.uk.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.screamingfrog.co.uk/
+      \endverb
+      \verb{url}
+      \verb https://www.screamingfrog.co.uk/
+      \endverb
+    \endentry
+    \entry{SheetsAPI}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Sheets API gives you full control over the content and appearence of your spreadsheet data.}
+      \field{journaltitle}{Google Developers}
+      \field{langid}{english}
+      \field{title}{Sheets {{API}}}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/NVP3C4EE/api.html
+      \endverb
+      \verb{urlraw}
+      \verb https://developers.google.com/sheets/api
+      \endverb
+      \verb{url}
+      \verb https://developers.google.com/sheets/api
+      \endverb
+    \endentry
+    \entry{siddiqiGettingStartedApache2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e45b0c6a5d5aaffb734c10cca990368f}{%
+           family={Siddiqi},
+           familyi={S\bibinitperiod},
+           given={Adnan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \strng{fullhash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \strng{bibnamehash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \strng{authorbibnamehash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \strng{authornamehash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \strng{authorfullhash}{e45b0c6a5d5aaffb734c10cca990368f}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this post, I am going to discuss Apache Airflow, a workflow management system developed by Airbnb.}
+      \field{journaltitle}{Medium}
+      \field{langid}{english}
+      \field{title}{Getting Started with {{Apache Airflow}}}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/T55F8KMY/getting-started-with-apache-airflow-df1aa77d7b1b.html
+      \endverb
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b
+      \endverb
+      \warn{\item Entry 'siddiqiGettingStartedApache2018' (references.bib): Invalid format '2018-09-25T12:54:30.636Z' of date field 'date' - ignoring}
+    \endentry
+    \entry{WhatAmazonRedshift}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{title}{What {{Is Amazon Redshift}}? - {{Amazon Redshift}}}
+      \field{urlday}{30}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/Q4IW3TDF/welcome.html
+      \endverb
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/redshift/latest/mgmt/welcome.html
+      \endverb
+    \endentry
+    \entry{WhatBusinessIntelligence}{online}{}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Business Intelligence (BI) refers to technologies, applications and practices for the collection, integration, analysis, and presentation of business information. The purpose of Business Intelligence is to support better business decision making.}
+      \field{journaltitle}{OLAP.com}
+      \field{langid}{american}
+      \field{shorttitle}{What Is {{Business Intelligence}}?}
+      \field{title}{What Is {{Business Intelligence}}? {{BI Definition}}}
+      \field{urlday}{11}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/FLEG8RF3/business-intelligence.html
+      \endverb
+      \verb{urlraw}
+      \verb https://olap.com/learn-bi-olap/olap-bi-definitions/business-intelligence/
+      \endverb
+      \verb{url}
+      \verb https://olap.com/learn-bi-olap/olap-bi-definitions/business-intelligence/
+      \endverb
+    \endentry
+    \entry{YourPensionETFs}{online}{}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jeder kann selbst­bestimmt fürs Alter vorsorgen. Regelmäßig sparen, staatliche Benefits mitnehmen, Geld intelligent anlegen.}
+      \field{langid}{german}
+      \field{title}{Your pension with ETFs - fairr}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/A5VUGQRH/en.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.fairr.de/en/
+      \endverb
+      \verb{url}
+      \verb https://www.fairr.de/en/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,15 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Raisin (WeltSparen)}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Range of Products}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Business Intelligence Department}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Projects and Tools}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Conclusion and Key Takeaways}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{4}% 
