@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  28 FEB 2020 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  28 FEB 2020 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -841,4 +841,250 @@ Package biblatex Info: Reference segment=0 on input line 64.
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=702.783
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ [1
+
+] [2]
+<figures/fig1_america_survey_trust_banks.png, id=25, 709.65125pt x 303.1325pt>
+File: figures/fig1_america_survey_trust_banks.png Graphic file (type png)
+<use figures/fig1_america_survey_trust_banks.png>
+Package pdftex.def Info: figures/fig1_america_survey_trust_banks.png  used on i
+nput line 194.
+(pdftex.def)             Requested size: 256.0748pt x 109.38663pt.
+<figures/fig2_breakdown_american_survey.png, id=27, 772.8875pt x 407.5225pt>
+File: figures/fig2_breakdown_american_survey.png Graphic file (type png)
+<use figures/fig2_breakdown_american_survey.png>
+Package pdftex.def Info: figures/fig2_breakdown_american_survey.png  used on in
+put line 207.
+(pdftex.def)             Requested size: 77.29327pt x 40.75462pt.
+ [3 <./figures/fig1_america_survey_trust_banks.png> <./figures/fig2_breakdown_a
+merican_survey.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]\OT1/cmr/m/n/12 PERHAPS ADD AN-OTHER PARA-GRAPH HERE TALK-ING
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 ABOUT THIS CHAP-TER IS GO-ING TO BE STRUC-TURE
+ []
+
+
+Overfull \hbox (348.98106pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 NOTENOT-NEON-TOEN-TOEN-TOE-TOE-NOENOT-NEON-TEON-TOENOTENON-TEON
+-TOEN-TOENONEONTOENTONETONEOTNEOTNOETNOETN 
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 238--239
+[]\OT1/cmr/m/n/12 Considerable amount of ex-ist-ing re-search demon-strates the
+ ben-e-fits de-rived
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 1270) in paragraph at lines 240--240
+[]\OT1/cmr/m/n/12 A study by Fang et al. (2017) ex-plores the in-ter-na-tion-al
+-i-sa-tion pro-cess of
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 3240) in paragraph at lines 263--266
+[]\OT1/cmr/m/n/12 Loane and Bell, 2002; Fang, Tung, Berg, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+[]\OT1/cmr/m/n/12 Relative Dis-tance (i.e.Psychic
+ []
+
+
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 253--284
+ [][] 
+ []
+
+[8]
+
+LaTeX Warning: Citation 'eclectic_paradigm_dunning_extension' on page 9 undefin
+ed on input line 294.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]\OT1/cmr/m/n/12 The eclec-tic ap-proach first rose to aware-ness in 1976 by
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 294--294
+\OT1/cmr/m/n/12 Dunning,([]) who de-fines the func-tion-al-ity
+ []
+
+
+LaTeX Warning: Citation 'eclectic_paradigm_dunning' on page 9 undefined on inpu
+t line 295.
+
+
+LaTeX Warning: Citation 'Dunning_moremore' on page 9 undefined on input line 29
+5.
+
+[9]
+Overfull \hbox (7.54723pt too wide) in paragraph at lines 303--318
+ [][] 
+ []
+
+[10] [11]
+<figures/fig_pull_push_forces.jpeg, id=61, 569.2467pt x 325.215pt>
+File: figures/fig_pull_push_forces.jpeg Graphic file (type jpg)
+<use figures/fig_pull_push_forces.jpeg>
+Package pdftex.def Info: figures/fig_pull_push_forces.jpeg  used on input line 
+358.
+(pdftex.def)             Requested size: 56.928pt x 32.52339pt.
+ [12 <./figures/fig_pull_push_forces.jpeg>]
+Underfull \hbox (badness 3428) in paragraph at lines 378--379
+[]\OT1/cmr/m/n/12 Physical prod-ucts, ser-vices or pro-cesses, can nowa-days be
+ digi-tised and
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[][]\OT1/cmr/m/n/12 Forsgren, Mats and Pe-ter Hagstr^^?om (2007). \  Ig-no-rant
+ and Im-pa-tient
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 408--408
+[][]\OT1/cmr/m/n/12 Johanson, Jan and Jan-Erik Vahlne (1977). \  The In-ter-na-
+tion-al-iza-tion Pro-cess of
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 408--408
+[][]\OT1/cmr/m/n/12 Loane, Sharon and Jim Bell (2002). \  A Cross-National Com-
+par-i-son of the
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 408--408
+\OT1/cmr/m/n/12 In-ter-na-tion-al-i-sa-tion Tra-jec-to-ries of In-ter-net Start
+-Ups". In: \OT1/cmr/m/it/12 Irish Jour-nal of
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[][]\OT1/cmr/m/n/12 Shneor, Rotem and Bj^^\rn-Tore Flaeten (2008). \  The Inter
+net-Enabled
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 408--408
+[][]\OT1/cmr/m/n/12 Terzi, Nu-ray (2011). \  The Im-pact of E-Commerce on In-te
+r-na-tional Trade and
+ []
+
+[18]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+Package caption Warning: Unused \captionsetup[sub] on input line 15.
+See the caption package documentation for explanation.
+
+(./thesis_bachelors.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                thesis_bachelors
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
+\openout1 = `thesis_bachelors.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15960 strings out of 492616
+ 270351 string characters out of 6129481
+ 724702 words of memory out of 5000000
+ 19647 multiletter control sequences out of 15000+600000
+ 11657 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,11n,71p,1292b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis_bachelors.pdf (22 pages, 457944 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
