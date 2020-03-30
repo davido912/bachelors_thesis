@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  28 FEB 2020 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  30 MAR 2020 22:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -933,43 +933,62 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 253--284
  [][] 
  []
 
-[8]
+[8] [9]
+<figures/fig4_uppsala_core_concepts.png, id=55, 1104.125pt x 475.7775pt>
+File: figures/fig4_uppsala_core_concepts.png Graphic file (type png)
+<use figures/fig4_uppsala_core_concepts.png>
+Package pdftex.def Info: figures/fig4_uppsala_core_concepts.png  used on input 
+line 302.
+(pdftex.def)             Requested size: 256.0748pt x 110.34125pt.
+ [10 <./figures/fig4_uppsala_core_concepts.png>]
+Underfull \hbox (badness 1681) in paragraph at lines 313--314
+\OT1/cmr/m/n/12 Additionally, the knowl-edge can also be dis-tin-guished in ter
+ms of gen-eral and
+ []
 
-LaTeX Warning: Citation 'eclectic_paradigm_dunning_extension' on page 9 undefin
-ed on input line 294.
+
+LaTeX Warning: Citation 'eclectic_paradigm_dunning_extension' on page 11 undefi
+ned on input line 323.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
 []\OT1/cmr/m/n/12 The eclec-tic ap-proach first rose to aware-ness in 1976 by
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 294--294
+Underfull \hbox (badness 7397) in paragraph at lines 323--323
 \OT1/cmr/m/n/12 Dunning,([]) who de-fines the func-tion-al-ity
  []
 
 
-LaTeX Warning: Citation 'eclectic_paradigm_dunning' on page 9 undefined on inpu
-t line 295.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+
+LaTeX Warning: Citation 'eclectic_paradigm_dunning' on page 12 undefined on inp
+ut line 324.
 
 
-LaTeX Warning: Citation 'Dunning_moremore' on page 9 undefined on input line 29
-5.
+LaTeX Warning: Citation 'Dunning_moremore' on page 12 undefined on input line 3
+24.
 
-[9]
-Overfull \hbox (7.54723pt too wide) in paragraph at lines 303--318
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (7.54723pt too wide) in paragraph at lines 332--347
  [][] 
  []
 
-[10] [11]
-<figures/fig_pull_push_forces.jpeg, id=61, 569.2467pt x 325.215pt>
+[13] [14]
+<figures/fig_pull_push_forces.jpeg, id=73, 569.2467pt x 325.215pt>
 File: figures/fig_pull_push_forces.jpeg Graphic file (type jpg)
 <use figures/fig_pull_push_forces.jpeg>
 Package pdftex.def Info: figures/fig_pull_push_forces.jpeg  used on input line 
-358.
+387.
 (pdftex.def)             Requested size: 56.928pt x 32.52339pt.
- [12 <./figures/fig_pull_push_forces.jpeg>]
-Underfull \hbox (badness 3428) in paragraph at lines 378--379
+ [15 <./figures/fig_pull_push_forces.jpeg>]
+Underfull \hbox (badness 3428) in paragraph at lines 407--408
 []\OT1/cmr/m/n/12 Physical prod-ucts, ser-vices or pro-cesses, can nowa-days be
  digi-tised and
  []
@@ -977,44 +996,44 @@ Underfull \hbox (badness 3428) in paragraph at lines 378--379
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-[14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+ [16]
+[17] [18] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
 [][]\OT1/cmr/m/n/12 Forsgren, Mats and Pe-ter Hagstr^^?om (2007). \  Ig-no-rant
  and Im-pa-tient
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 408--408
+Underfull \hbox (badness 1226) in paragraph at lines 437--437
 [][]\OT1/cmr/m/n/12 Johanson, Jan and Jan-Erik Vahlne (1977). \  The In-ter-na-
 tion-al-iza-tion Pro-cess of
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 408--408
+Underfull \hbox (badness 5374) in paragraph at lines 437--437
 [][]\OT1/cmr/m/n/12 Loane, Sharon and Jim Bell (2002). \  A Cross-National Com-
 par-i-son of the
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 408--408
+Underfull \hbox (badness 3058) in paragraph at lines 437--437
 \OT1/cmr/m/n/12 In-ter-na-tion-al-i-sa-tion Tra-jec-to-ries of In-ter-net Start
 -Ups". In: \OT1/cmr/m/it/12 Irish Jour-nal of
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 437--437
 [][]\OT1/cmr/m/n/12 Shneor, Rotem and Bj^^\rn-Tore Flaeten (2008). \  The Inter
 net-Enabled
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 408--408
+Underfull \hbox (badness 2080) in paragraph at lines 437--437
 [][]\OT1/cmr/m/n/12 Terzi, Nu-ray (2011). \  The Im-pact of E-Commerce on In-te
 r-na-tional Trade and
  []
 
-[18]
+[21]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1066,25 +1085,26 @@ Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15960 strings out of 492616
- 270351 string characters out of 6129481
+ 15967 strings out of 492616
+ 270577 string characters out of 6129481
  724702 words of memory out of 5000000
- 19647 multiletter control sequences out of 15000+600000
- 11657 words of font info for 42 fonts, out of 8000000 for 9000
+ 19653 multiletter control sequences out of 15000+600000
+ 12016 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,71p,1292b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,78p,1292b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis_bachelors.pdf (22 pages, 457944 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis_bachelors.pdf (25 pages, 524608 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 129 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
