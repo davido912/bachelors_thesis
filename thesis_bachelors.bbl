@@ -556,6 +556,7 @@
       \strng{authorbibnamehash}{e1f90cfe6dece3344727c64394eb343e}
       \strng{authornamehash}{a9480c51617db2480bde3e4c0ad46bf3}
       \strng{authorfullhash}{e1f90cfe6dece3344727c64394eb343e}
+      \field{extraname}{1}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
       \field{extradatescope}{labelyear}
@@ -572,6 +573,45 @@
       \range{pages}{10}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/WFT5JMC5/Johanson and Vahlne - 1977 - The internationalization process of the firm—a mod.pdf;/Users/davidohayon/Zotero/storage/D2CUJ8XD/palgrave.jibs.html
+      \endverb
+    \endentry
+    \entry{johansonUppsalaInternationalizationProcess2009}{article}{}
+      \name{author}{2}{}{%
+        {{hash=23a1479a15226f3a16b721893b9e3793}{%
+           family={Johanson},
+           familyi={J\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=30ec8ecc652e3917af4ec16e8475d3f3}{%
+           family={Vahlne},
+           familyi={V\bibinitperiod},
+           given={Jan-Erik},
+           giveni={J\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9480c51617db2480bde3e4c0ad46bf3}
+      \strng{fullhash}{e1f90cfe6dece3344727c64394eb343e}
+      \strng{bibnamehash}{e1f90cfe6dece3344727c64394eb343e}
+      \strng{authorbibnamehash}{e1f90cfe6dece3344727c64394eb343e}
+      \strng{authornamehash}{a9480c51617db2480bde3e4c0ad46bf3}
+      \strng{authorfullhash}{e1f90cfe6dece3344727c64394eb343e}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of international business studies}
+      \field{number}{9}
+      \field{shorttitle}{The {{Uppsala}} Internationalization Process Model Revisited}
+      \field{title}{The {{Uppsala}} Internationalization Process Model Revisited: {{From}} Liability of Foreignness to Liability of Outsidership}
+      \field{volume}{40}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{1411\bibrangedash 1431}
+      \range{pages}{21}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/9EICQYPQ/Johanson and Vahlne - 2009 - The Uppsala internationalization process model rev.pdf;/Users/davidohayon/Zotero/storage/3EVQJ547/jibs.2009.html
       \endverb
     \endentry
     \entry{karakayaBarriersEntryInternational1993}{article}{}
@@ -1130,6 +1170,9 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{Dunning_moremore}
+  \missing{eclectic_paradigm_dunning}
+  \missing{eclectic_paradigm_dunning_extension}
   \missing{shapiroInformationRulesStrategic1998a}
 \endrefsection
 \endinput
