@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  2 APR 2020 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  5 APR 2020 20:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -779,12 +779,12 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -868,12 +868,12 @@ Package biblatex Info: Reference segment=0 on input line 64.
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -886,13 +886,13 @@ Package biblatex Info: Reference segment=0 on input line 64.
  [1
 
 ] [2]
-<figures/fig1_america_survey_trust_banks.png, id=25, 709.65125pt x 303.1325pt>
+<figures/fig1_america_survey_trust_banks.png, id=27, 709.65125pt x 303.1325pt>
 File: figures/fig1_america_survey_trust_banks.png Graphic file (type png)
 <use figures/fig1_america_survey_trust_banks.png>
 Package pdftex.def Info: figures/fig1_america_survey_trust_banks.png  used on i
 nput line 194.
 (pdftex.def)             Requested size: 256.0748pt x 109.38663pt.
-<figures/fig2_breakdown_american_survey.png, id=27, 772.8875pt x 407.5225pt>
+<figures/fig2_breakdown_american_survey.png, id=29, 772.8875pt x 407.5225pt>
 File: figures/fig2_breakdown_american_survey.png Graphic file (type png)
 <use figures/fig2_breakdown_american_survey.png>
 Package pdftex.def Info: figures/fig2_breakdown_american_survey.png  used on in
@@ -901,52 +901,40 @@ put line 207.
  [3 <./figures/fig1_america_survey_trust_banks.png> <./figures/fig2_breakdown_a
 merican_survey.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 234--235
-[]\OT1/cmr/m/n/12 PERHAPS ADD AN-OTHER PARA-GRAPH HERE TALK-ING
+[]\OT1/cmr/m/n/10.95 PERHAPS ADD AN-OTHER PARA-GRAPH HERE TALK-ING
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 234--235
-\OT1/cmr/m/n/12 ABOUT THIS CHAP-TER IS GO-ING TO BE STRUC-TURE
+\OT1/cmr/m/n/10.95 ABOUT THIS CHAP-TER IS GO-ING TO BE STRUC-TURE
  []
 
 
-Overfull \hbox (348.98106pt too wide) in paragraph at lines 234--235
-\OT1/cmr/m/n/12 NOTENOT-NEON-TOEN-TOEN-TOE-TOE-NOENOT-NEON-TEON-TOENOTENON-TEON
--TOEN-TOENONEONTOENTONETONEOTNEOTNOETNOETN 
+Overfull \hbox (294.3758pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10.95 NOTENOT-NEON-TOEN-TOEN-TOE-TOE-NOENOT-NEON-TEON-TOENOTENON-T
+EON-TOEN-TOENONEONTOENTONETONEOTNEOTNOETNOETN 
  []
 
-
-Underfull \hbox (badness 1533) in paragraph at lines 239--240
-[]\OT1/cmr/m/n/12 Considerable amount of ex-ist-ing re-search demon-strates the
- ben-e-fits de-rived
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 1270) in paragraph at lines 241--241
-[]\OT1/cmr/m/n/12 A study by Fang et al. (2017) ex-plores the in-ter-na-tion-al
--i-sa-tion pro-cess of
- []
-
-
+[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-Underfull \hbox (badness 3240) in paragraph at lines 264--267
-[]\OT1/cmr/m/n/12 Loane and Bell, 2002; Fang, Tung, Berg, and
+Underfull \hbox (badness 1448) in paragraph at lines 245--245
+[]\OT1/cmr/m/n/10.95 Further em-pha-sis is put on knowl-edge be-ing a strong fa
+c-tor in the pat-tern of
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
 Underfull \hbox (badness 10000) in paragraph at lines 272--272
-[]\OT1/cmr/m/n/12 Relative Dis-tance (i.e.Psychic
+[]\OT1/cmr/m/n/10.95 Relative Dis-tance (i.e.Psychic
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 272--278
+[]\OT1/cmr/m/n/10.95 Forsgren and Hagstr^^?om, 2007; Jo-han-son and Vahlne,
  []
 
 
@@ -954,47 +942,44 @@ Overfull \hbox (23.99997pt too wide) in paragraph at lines 254--285
  [][] 
  []
 
-[8] [9]
-<figures/fig4_uppsala_core_concepts.png, id=55, 1104.125pt x 475.7775pt>
+[7]
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+ [8]
+<figures/fig4_uppsala_core_concepts.png, id=52, 1104.125pt x 475.7775pt>
 File: figures/fig4_uppsala_core_concepts.png Graphic file (type png)
 <use figures/fig4_uppsala_core_concepts.png>
 Package pdftex.def Info: figures/fig4_uppsala_core_concepts.png  used on input 
 line 303.
 (pdftex.def)             Requested size: 256.0748pt x 110.34125pt.
- [10 <./figures/fig4_uppsala_core_concepts.png>]
-Underfull \hbox (badness 1681) in paragraph at lines 314--315
-\OT1/cmr/m/n/12 Additionally, the knowl-edge can also be dis-tin-guished in ter
-ms of gen-eral and
+
+Underfull \vbox (badness 4060) has occurred while \output is active []
+
+ [9 <./figures/fig4_uppsala_core_concepts.png>]
+Underfull \hbox (badness 1221) in paragraph at lines 318--319
+[]\OT1/cmr/bx/it/10.95 Commitment De-ci-sions \OT1/cmr/m/n/10.95 are pre-sum-ab
+ly made in the pres-ence of prob-lems or
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]\OT1/cmr/m/n/10.95 The eclec-tic ap-proach first rose to aware-ness in 1976 b
+y
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \hbox (badness 4084) in paragraph at lines 322--323
-[]\OT1/cmr/m/n/12 The fol-low-ing ta-ble con-sol-i-dates the core in-flu-en-tia
-l fac-tors in a firm's
+Underfull \hbox (badness 2042) in paragraph at lines 349--349
+[]\OT1/cmr/m/n/10.95 Also re-ferred to as the own-er-ship, lo-ca-tion and in-te
+r-nal-i-sa-tion (OLI) ap-proach
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 330--331
-[]\OT1/cmr/m/n/12 Amount of re-sources in-vested, that are not eas-ily
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 348--348
-[]\OT1/cmr/m/n/12 The eclec-tic ap-proach first rose to aware-ness in 1976 by
- []
-
-
-Underfull \hbox (badness 7397) in paragraph at lines 348--348
-\OT1/cmr/m/n/12 Dunning,([]) who de-fines the func-tion-al-ity
- []
-
-[13]
 Overfull \hbox (7.54723pt too wide) in paragraph at lines 357--372
  [][] 
  []
@@ -1002,64 +987,42 @@ Overfull \hbox (7.54723pt too wide) in paragraph at lines 357--372
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
+ [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-[16]
+ [13]
+<figures/fig5_rbv_model.png, id=71, 615.29875pt x 300.12125pt>
+File: figures/fig5_rbv_model.png Graphic file (type png)
+<use figures/fig5_rbv_model.png>
+Package pdftex.def Info: figures/fig5_rbv_model.png  used on input line 411.
+(pdftex.def)             Requested size: 256.0748pt x 124.9052pt.
+
+[14] [15 <./figures/fig5_rbv_model.png>]
 <figures/fig_pull_push_forces.jpeg, id=80, 569.2467pt x 325.215pt>
 File: figures/fig_pull_push_forces.jpeg Graphic file (type jpg)
 <use figures/fig_pull_push_forces.jpeg>
 Package pdftex.def Info: figures/fig_pull_push_forces.jpeg  used on input line 
-412.
+438.
 (pdftex.def)             Requested size: 56.928pt x 32.52339pt.
- [17 <./figures/fig_pull_push_forces.jpeg>]
-Underfull \hbox (badness 3428) in paragraph at lines 432--433
-[]\OT1/cmr/m/n/12 Physical prod-ucts, ser-vices or pro-cesses, can nowa-days be
- digi-tised and
- []
+ [16 <./figures/fig_pull_push_forces.jpeg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 457.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 457.
+ [17]
+Underfull \vbox (badness 1102) has occurred while \output is active []
 
  [18]
-[19] [20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 462--462
-[][]\OT1/cmr/m/n/12 Forsgren, Mats and Pe-ter Hagstr^^?om (2007). \  Ig-no-rant
- and Im-pa-tient
+[19] [20] [21] [22]
+Underfull \hbox (badness 1454) in paragraph at lines 528--528
+[][]\OT1/cmr/m/n/10.95 McCarthy, Niall (2019). \OT1/cmr/m/it/10.95 Amer-i-cans 
+Trust Tech Firms More Than Banks For Fi-nance
  []
 
-
-Underfull \hbox (badness 1226) in paragraph at lines 462--462
-[][]\OT1/cmr/m/n/12 Johanson, Jan and Jan-Erik Vahlne (1977). \  The In-ter-na-
-tion-al-iza-tion Pro-cess of
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 462--462
-[][]\OT1/cmr/m/n/12 Loane, Sharon and Jim Bell (2002). \  A Cross-National Com-
-par-i-son of the
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 462--462
-\OT1/cmr/m/n/12 In-ter-na-tion-al-i-sa-tion Tra-jec-to-ries of In-ter-net Start
--Ups". In: \OT1/cmr/m/it/12 Irish Jour-nal of
- []
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 462--462
-[][]\OT1/cmr/m/n/12 Shneor, Rotem and Bj^^\rn-Tore Flaeten (2008). \  The Inter
-net-Enabled
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 462--462
-[][]\OT1/cmr/m/n/12 Terzi, Nu-ray (2011). \  The Im-pact of E-Commerce on In-te
-r-na-tional Trade and
- []
-
-[23]
+[23] [24] [25]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1077,12 +1040,12 @@ r-na-tional Trade and
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=50.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1098,6 +1061,10 @@ Package caption Warning: Unused \captionsetup[sub] on input line 15.
 See the caption package documentation for explanation.
 
 (./thesis_bachelors.aux)
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
 \openout1 = `thesis_bachelors.run.xml'.
 
@@ -1107,11 +1074,11 @@ Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
 ### simple group (level 1) entered at line 320 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15973 strings out of 492616
- 270796 string characters out of 6129481
- 726702 words of memory out of 5000000
- 19659 multiletter control sequences out of 15000+600000
- 12016 words of font info for 43 fonts, out of 8000000 for 9000
+ 16033 strings out of 492616
+ 272833 string characters out of 6129481
+ 726704 words of memory out of 5000000
+ 19716 multiletter control sequences out of 15000+600000
+ 11490 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,78p,1292b,1641s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
@@ -1121,13 +1088,15 @@ m/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
-12.pfb>
-Output written on thesis_bachelors.pdf (27 pages, 528131 bytes).
+mr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
+pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on thesis_bachelors.pdf (29 pages, 799360 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 151 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

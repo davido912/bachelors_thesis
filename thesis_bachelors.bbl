@@ -19,6 +19,29 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{2019ListGlobal2019}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{2019 List of Global Systemically Important Banks ({{G}}-{{SIBs}}) - {{Financial Stability Board}}}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/26TXEA3L/2019-list-of-global-systemically-important-banks-g-sibs.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.fsb.org/2019/11/2019-list-of-global-systemically-important-banks-g-sibs/
+      \endverb
+      \verb{url}
+      \verb https://www.fsb.org/2019/11/2019-list-of-global-systemically-important-banks-g-sibs/
+      \endverb
+    \endentry
     \entry{andrewConfidenceBanksLow2015}{online}{}
       \name{author}{1}{}{%
         {{hash=78a53f25b82881f23ddae0ebeea17107}{%
@@ -144,6 +167,119 @@
       \range{pages}{1}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/PWDATV2V/documentSummary\;dn=419780653701585\;res=IELAPA.html
+      \endverb
+    \endentry
+    \entry{barneyFirmResourcesSustained1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f7a0d993981ce99514d10dfdbd4c698d}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \strng{fullhash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \strng{bibnamehash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \strng{authorbibnamehash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \strng{authornamehash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \strng{authorfullhash}{f7a0d993981ce99514d10dfdbd4c698d}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of management}
+      \field{number}{1}
+      \field{title}{Firm Resources and Sustained Competitive Advantage}
+      \field{volume}{17}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{pages}{99\bibrangedash 120}
+      \range{pages}{22}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/VZS95M7D/Barney - 1991 - Firm resources and sustained competitive advantage.pdf;/Users/davidohayon/Zotero/storage/YT5TJE7B/014920639101700108.html
+      \endverb
+    \endentry
+    \entry{barneyResourcebasedViewFirm2001}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f7a0d993981ce99514d10dfdbd4c698d}{%
+           family={Barney},
+           familyi={B\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7060580641467d554ca768f8719b6625}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0b1815ebebf5bfc345a3255d5776e2e6}{%
+           family={Ketchen\bibnamedelima Jr},
+           familyi={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5088e59e6a9319a9ae333780cc80e8ef}
+      \strng{fullhash}{d21e9170da8107ddf72fbe494cfcbe5e}
+      \strng{bibnamehash}{d21e9170da8107ddf72fbe494cfcbe5e}
+      \strng{authorbibnamehash}{d21e9170da8107ddf72fbe494cfcbe5e}
+      \strng{authornamehash}{5088e59e6a9319a9ae333780cc80e8ef}
+      \strng{authorfullhash}{d21e9170da8107ddf72fbe494cfcbe5e}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of management}
+      \field{number}{6}
+      \field{shorttitle}{The Resource-Based View of the Firm}
+      \field{title}{The Resource-Based View of the Firm: {{Ten}} Years after 1991}
+      \field{volume}{27}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{625\bibrangedash 641}
+      \range{pages}{17}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/L6RTFB6D/Barney et al. - 2001 - The resource-based view of the firm Ten years aft.pdf;/Users/davidohayon/Zotero/storage/SQBCA7B5/014920630102700601.html
+      \endverb
+    \endentry
+    \entry{baxterQualitativeCaseStudy2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=865e431d517c634b85897fd5da4d4b73}{%
+           family={Baxter},
+           familyi={B\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0acf699ea205902663e662bdf888a1d6}{%
+           family={Jack},
+           familyi={J\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d4d4c6aa5fdb2470ccd095278cee819}
+      \strng{fullhash}{01795935c9bbb4dd0440212df31c9cd5}
+      \strng{bibnamehash}{01795935c9bbb4dd0440212df31c9cd5}
+      \strng{authorbibnamehash}{01795935c9bbb4dd0440212df31c9cd5}
+      \strng{authornamehash}{1d4d4c6aa5fdb2470ccd095278cee819}
+      \strng{authorfullhash}{01795935c9bbb4dd0440212df31c9cd5}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{The qualitative report}
+      \field{number}{4}
+      \field{shorttitle}{Qualitative Case Study Methodology}
+      \field{title}{Qualitative Case Study Methodology: {{Study}} Design and Implementation for Novice Researchers}
+      \field{volume}{13}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{pages}{544\bibrangedash 559}
+      \range{pages}{16}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/ES3MC57P/Baxter and Jack - 2008 - Qualitative case study methodology Study design a.pdf
       \endverb
     \endentry
     \entry{buckleyEvolutionFintechNew2016}{article}{}
@@ -823,6 +959,71 @@
       \verb https://www.forbes.com/sites/niallmccarthy/2015/06/24/americans-trust-tech-firms-more-than-banks-for-finance-infographic/
       \endverb
     \endentry
+    \entry{merriamQualitativeResearchCase1998}{book}{}
+      \name{author}{1}{}{%
+        {{hash=55bbb1cbe8a4c0a98171f660860fd119}{%
+           family={Merriam},
+           familyi={M\bibinitperiod},
+           given={Sharan\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ERIC}%
+      }
+      \strng{namehash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \strng{fullhash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \strng{bibnamehash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \strng{authorbibnamehash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \strng{authornamehash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \strng{authorfullhash}{55bbb1cbe8a4c0a98171f660860fd119}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qualitative {{Research}} and {{Case Study Applications}} in {{Education}}. {{Revised}} and {{Expanded}} from" {{Case Study Research}} in {{Education}}.".}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/TMJB8G7C/eric.ed.gov.html
+      \endverb
+    \endentry
+    \entry{penroseTheoryGrowthFirm2009}{book}{}
+      \name{author}{2}{}{%
+        {{hash=10cd4ec7ed3baa917d9be6f8fde1d0cb}{%
+           family={Penrose},
+           familyi={P\bibinitperiod},
+           given={Edith},
+           giveni={E\bibinitperiod}}}%
+        {{hash=55e9a14f46cfd0c1ff5e1cb02e31b227}{%
+           family={Penrose},
+           familyi={P\bibinitperiod},
+           given={Edith\bibnamedelima Tilton},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford university press}%
+      }
+      \strng{namehash}{0a1927d3c66d25d864fedd519bba43d8}
+      \strng{fullhash}{51f20f61398b81a6e17c77f606a52454}
+      \strng{bibnamehash}{51f20f61398b81a6e17c77f606a52454}
+      \strng{authorbibnamehash}{51f20f61398b81a6e17c77f606a52454}
+      \strng{authornamehash}{0a1927d3c66d25d864fedd519bba43d8}
+      \strng{authorfullhash}{51f20f61398b81a6e17c77f606a52454}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Theory}} of the {{Growth}} of the {{Firm}}}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/QY8T87ML/books.html
+      \endverb
+    \endentry
     \entry{petersenInternetForeignMarket2002}{article}{}
       \name{author}{3}{}{%
         {{hash=557a963b8ff809b2e7827292e2b781c1}{%
@@ -863,6 +1064,37 @@
       \verb /Users/davidohayon/Zotero/storage/B4H8EIUL/Petersen et al. - 2002 - The Internet and foreign market expansion by firms.pdf;/Users/davidohayon/Zotero/storage/NLXH4JT5/40835918.html
       \endverb
     \endentry
+    \entry{ridderCaseStudyResearch2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=12d7d4f330102cd90f3f1aff9fccda16}{%
+           family={Ridder},
+           familyi={R\bibinitperiod},
+           given={Hans-Gerd},
+           giveni={H\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rainer Hampp Verlag}%
+      }
+      \strng{namehash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \strng{fullhash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \strng{bibnamehash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \strng{authorbibnamehash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \strng{authornamehash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \strng{authorfullhash}{12d7d4f330102cd90f3f1aff9fccda16}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Case Study Research}
+      \field{title}{Case Study Research: {{Approaches}}, Methods, Contribution to Theory}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/NBNK5SVR/books.html
+      \endverb
+    \endentry
     \entry{rowleyConductingLiteratureReview2004}{article}{}
       \name{author}{2}{}{%
         {{hash=401c627611b4a845dd408473acf59efe}{%
@@ -894,6 +1126,49 @@
       \field{dateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/UP6Z383F/Rowley and Slack - 2004 - Conducting a literature review.pdf
+      \endverb
+    \endentry
+    \entry{ruzzierResourcebasedApproachInternationalisation2006}{article}{}
+      \name{author}{3}{}{%
+        {{hash=745ddbe1c99fc09bf0442e9ac2855391}{%
+           family={Ruzzier},
+           familyi={R\bibinitperiod},
+           given={Mitja},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3c40bf1312f3bea5fb1581199e7d9b2a}{%
+           family={Antončič},
+           familyi={A\bibinitperiod},
+           given={Bostjan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d91d0460ce1cdb30e61f037b34012df3}{%
+           family={Konečnik},
+           familyi={K\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b3dfd489f7545d0fe68dc764baaa713}
+      \strng{fullhash}{4eb5e6a364fbc3478d4804d5ae574cec}
+      \strng{bibnamehash}{4eb5e6a364fbc3478d4804d5ae574cec}
+      \strng{authorbibnamehash}{4eb5e6a364fbc3478d4804d5ae574cec}
+      \strng{authornamehash}{7b3dfd489f7545d0fe68dc764baaa713}
+      \strng{authorfullhash}{4eb5e6a364fbc3478d4804d5ae574cec}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Zagreb International Review of Economics \& Business}
+      \field{number}{2}
+      \field{shorttitle}{The Resource-Based Approach to the Internationalisation of {{SMEs}}}
+      \field{title}{The Resource-Based Approach to the Internationalisation of {{SMEs}}: {{Differences}} in Resource Bundles between Internationalised and Non-Internationalised Companies}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{95\bibrangedash 116}
+      \range{pages}{22}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/26P9LK2F/Ruzzier et al. - 2006 - The resource-based approach to the internationalis.pdf;/Users/davidohayon/Zotero/storage/2C4GHNYU/index.html
       \endverb
     \endentry
     \entry{shapiroInformationRulesStrategic1998}{book}{}
@@ -973,6 +1248,36 @@
       \range{pages}{8}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/KFC4QWIV/papers.html
+      \endverb
+    \endentry
+    \entry{stakeArtCaseStudy1995}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6aea72511e53982fb35f72d3ee8d43c3}{%
+           family={Stake},
+           familyi={S\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {sage}%
+      }
+      \strng{namehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{fullhash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{bibnamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authorbibnamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authornamehash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \strng{authorfullhash}{6aea72511e53982fb35f72d3ee8d43c3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Art of Case Study Research}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/WCSPIC62/books.html
       \endverb
     \endentry
     \entry{terziImpactEcommerceInternational2011}{article}{}
@@ -1088,6 +1393,38 @@
       \verb /Users/davidohayon/Zotero/storage/43YJSAT8/Tihanyi et al. - 2005 - The effect of cultural distance on entry mode choi.pdf;/Users/davidohayon/Zotero/storage/5UYK54VD/palgrave.jibs.html
       \endverb
     \endentry
+    \entry{tulungResourceAvailabilityFirm2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b67d4d180dc16374c33b271db0f76249}{%
+           family={Tulung},
+           familyi={T\bibinitperiod},
+           given={Joy\bibnamedelima Elly},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b67d4d180dc16374c33b271db0f76249}
+      \strng{fullhash}{b67d4d180dc16374c33b271db0f76249}
+      \strng{bibnamehash}{b67d4d180dc16374c33b271db0f76249}
+      \strng{authorbibnamehash}{b67d4d180dc16374c33b271db0f76249}
+      \strng{authornamehash}{b67d4d180dc16374c33b271db0f76249}
+      \strng{authorfullhash}{b67d4d180dc16374c33b271db0f76249}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jurnal Aplikasi Manajemen}
+      \field{number}{1}
+      \field{title}{Resource {{Availability}} and {{Firm}}’s {{International Strategy}} as {{Key Determinants Of Entry Mode Choice}}}
+      \field{volume}{15}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{160\bibrangedash 168}
+      \range{pages}{9}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/V929XXD4/Tulung - 2017 - Resource Availability and Firm’s International Str.pdf;/Users/davidohayon/Zotero/storage/VS8HI94C/916.html
+      \endverb
+    \endentry
     \entry{xuInstitutionalDistanceMultinational2002}{article}{}
       \name{author}{2}{}{%
         {{hash=3f6b9a7e85186efad94d5b1b16945aa7}{%
@@ -1125,6 +1462,34 @@
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/HHCPSGUQ/Xu and Shenkar - 2002 - Note Institutional distance and the multinational.pdf;/Users/davidohayon/Zotero/storage/KHAB8DJW/amr.2002.html
       \endverb
+    \endentry
+    \entry{yinCaseStudyResearch2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=bf7eb9dbb747f641a5083488354145d6}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Robert\bibnamedelima K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage publications}%
+      }
+      \strng{namehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{fullhash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{bibnamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authorbibnamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authornamehash}{bf7eb9dbb747f641a5083488354145d6}
+      \strng{authorfullhash}{bf7eb9dbb747f641a5083488354145d6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Case Study Research and Applications}
+      \field{title}{Case Study Research and Applications: {{Design}} and Methods}
+      \field{year}{2017}
+      \field{dateera}{ce}
     \endentry
     \entry{zaheerDistanceDirectionRestoring2012}{article}{}
       \name{author}{3}{}{%
