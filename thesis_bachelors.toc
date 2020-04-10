@@ -26,14 +26,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3}Data Collection}{19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}Interview Structure}{19}% 
+\contentsline {subsection}{\numberline {5.4}Interview Structure}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5}Limitations and Constraints}{19}% 
+\contentsline {subsection}{\numberline {5.5}Limitations and Constraints}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}The E-Market Environment}{19}% 
+\contentsline {section}{\numberline {6}Empirical Findings}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Projects and Tools}{20}% 
+\contentsline {subsection}{\numberline {6.1}Deutsche Bank AG}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Conclusion and Key Takeaways}{21}% 
+\contentsline {subsubsection}{\numberline {6.1.1}Internationalisation}{22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{22}% 
+\contentsline {subsubsection}{\numberline {6.1.2}Barriers and Hurdles}{22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {6.1.3}Possible Drivers}{22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}The E-Market Environment}{22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Projects and Tools}{23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Conclusion and Key Takeaways}{24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{25}% 

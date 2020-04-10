@@ -2080,14 +2080,22 @@
     <bcf:citekey order="82">merriamQualitativeResearchCase1998</bcf:citekey>
     <bcf:citekey order="83">yinCaseStudyResearch2017</bcf:citekey>
     <bcf:citekey order="84">yinCaseStudyResearch2017</bcf:citekey>
-    <bcf:citekey order="85">2019ListGlobal2019</bcf:citekey>
-    <bcf:citekey order="86">choiEconomicsElectronicCommerce1997</bcf:citekey>
-    <bcf:citekey order="87">shapiroInformationRulesStrategic1998</bcf:citekey>
-    <bcf:citekey order="88">fishbeinBeliefAttitudeIntention1977</bcf:citekey>
-    <bcf:citekey order="89">clementGlobalDigitalBuyer2019</bcf:citekey>
-    <bcf:citekey order="90">bunduchiBusinessRelationshipsInternetbased2005</bcf:citekey>
-    <bcf:citekey order="91">shapiroInformationRulesStrategic1998a</bcf:citekey>
-    <bcf:citekey order="92" nocite="1">mccarthyAmericansTrustTech</bcf:citekey>
+    <bcf:citekey order="85">yinCaseStudyResearch2017</bcf:citekey>
+    <bcf:citekey order="86">2019ListGlobal2019</bcf:citekey>
+    <bcf:citekey order="87">deutschebankagDeutscheBank1870</bcf:citekey>
+    <bcf:citekey order="88">deutschebankagDeutscheBankUnited</bcf:citekey>
+    <bcf:citekey order="89">deutschebankagDeutscheBankItaly</bcf:citekey>
+    <bcf:citekey order="90">deutschebankagDeutscheBankUS</bcf:citekey>
+    <bcf:citekey order="91">slagerInternationalizationBanksStrategic2005</bcf:citekey>
+    <bcf:citekey order="92">slagerInternationalizationBanksStrategic2005</bcf:citekey>
+    <bcf:citekey order="93">slagerInternationalizationBanksStrategic2005</bcf:citekey>
+    <bcf:citekey order="94">choiEconomicsElectronicCommerce1997</bcf:citekey>
+    <bcf:citekey order="95">shapiroInformationRulesStrategic1998</bcf:citekey>
+    <bcf:citekey order="96">fishbeinBeliefAttitudeIntention1977</bcf:citekey>
+    <bcf:citekey order="97">clementGlobalDigitalBuyer2019</bcf:citekey>
+    <bcf:citekey order="98">bunduchiBusinessRelationshipsInternetbased2005</bcf:citekey>
+    <bcf:citekey order="99">shapiroInformationRulesStrategic1998a</bcf:citekey>
+    <bcf:citekey order="100" nocite="1">mccarthyAmericansTrustTech</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

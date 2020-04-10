@@ -499,6 +499,137 @@
       \verb https://www.statista.com/statistics/261676/digital-buyer-penetration-worldwide/
       \endverb
     \endentry
+    \entry{deutschebankagDeutscheBank1870}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0428ef39b87091d1f2741a0aeee99011}{%
+           family={{Deutsche Bank AG}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{fullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{bibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorbibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authornamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorfullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Deutsche {{Bank}} from 1870 until Today}
+      \field{pages}{11}
+      \range{pages}{1}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/5CVQI4AY/Delbrück - When the idea of founding Deutsche Bank became rea.pdf
+      \endverb
+    \endentry
+    \entry{deutschebankagDeutscheBankItaly}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0428ef39b87091d1f2741a0aeee99011}{%
+           family={{Deutsche Bank AG}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{fullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{bibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorbibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authornamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorfullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deutsche {{Bank Italy}} - {{History}}}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/7NXKUP9Y/history.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.db.com/italia/en/content/history.html
+      \endverb
+      \verb{url}
+      \verb https://www.db.com/italia/en/content/history.html
+      \endverb
+    \endentry
+    \entry{deutschebankagDeutscheBankUnited}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0428ef39b87091d1f2741a0aeee99011}{%
+           family={{Deutsche Bank AG}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{fullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{bibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorbibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authornamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorfullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deutsche {{Bank United Kingdom}} - {{History}}}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/YSTTMIFQ/history.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.db.com/unitedkingdom/content/en/history.html
+      \endverb
+      \verb{url}
+      \verb https://www.db.com/unitedkingdom/content/en/history.html
+      \endverb
+    \endentry
+    \entry{deutschebankagDeutscheBankUS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0428ef39b87091d1f2741a0aeee99011}{%
+           family={{Deutsche Bank AG}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{fullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{bibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorbibnamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authornamehash}{0428ef39b87091d1f2741a0aeee99011}
+      \strng{authorfullhash}{0428ef39b87091d1f2741a0aeee99011}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deutsche {{Bank US}} - {{History}}}
+      \field{urlday}{10}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/K4H4DJNG/history.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.db.com/usa/content/en/history.html
+      \endverb
+      \verb{url}
+      \verb https://www.db.com/usa/content/en/history.html
+      \endverb
+    \endentry
     \entry{etemadInternationalizationSmallMediumsized2004}{article}{}
       \name{author}{1}{}{%
         {{hash=7e1c12653ad5bf54344db01030348395}{%
@@ -1248,6 +1379,38 @@
       \range{pages}{8}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/KFC4QWIV/papers.html
+      \endverb
+    \endentry
+    \entry{slagerInternationalizationBanksStrategic2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b167e0a1f3598bdfb0f353ce7844dd08}{%
+           family={Slager},
+           familyi={S\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SUERF Studies}%
+      }
+      \strng{namehash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \strng{fullhash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \strng{bibnamehash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \strng{authorbibnamehash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \strng{authornamehash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \strng{authorfullhash}{b167e0a1f3598bdfb0f353ce7844dd08}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{2005/4}
+      \field{shorttitle}{Internationalization of Banks}
+      \field{title}{Internationalization of Banks: {{Strategic}} Patterns and Performance}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/C3CNFKG5/Slager - 2005 - Internationalization of banks Strategic patterns .pdf;/Users/davidohayon/Zotero/storage/HZ2I5HM8/163469.html
       \endverb
     \endentry
     \entry{stakeArtCaseStudy1995}{book}{}
