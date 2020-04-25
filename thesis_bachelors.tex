@@ -33,6 +33,11 @@
 \usepackage{float}
 \usepackage[none]{hyphenat}
 \usepackage{booktabs}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+
 
 %RELEVANT PAPERS
 %http://www.diva-portal.org/smash/get/diva2:539706/FULLTEXT02
@@ -44,10 +49,10 @@
 
 % for the literature review, sum up the chapters as literature review and then speak about conceptual framework using the push and pull
 
-
+% 13 APRIL WRITE ABOUT HOW EVERYTIME I REFER TO THE FINANCIAL SECTOR IT INCLUDES FINTECH, FINTECHS ARE FINANCIAL COMPANIES IN THE FINANCIAL SECTOR
 \sloppy
 
-
+% DAVID ------- 25 APRIL CANCEL THE INDENTATION OF FIRST LINES ON ALL CHAPTERS
 
 \newcommand{\source}[1]{\vspace{-7pt}\caption*{\hfill \footnotesize Source: {#1}} }
 %\titlespacing*{\section}{0pt}{0pt}{0pt}
@@ -168,10 +173,6 @@ Major Macroeconomics}\\
 Define E-Commerce according to the paper of working student and 
 %https://s3.amazonaws.com/academia.edu.documents/54636375/Patelli2004.pdf?response-content-disposition=inline%3B%20filename%3DA_research_framework_for_analysing_eBusi.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200223T140357Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=70d6a4a6c5c2ba13c9f8bf7beed4239e635b1be861d9a19d096fa20f057ede01
 
-\section{Theoretical Frameworks}
-test
-adding a row test git
-
 
 %----------------------------------------------------------------------------------------------------------- 
 %------------------------------------- Analytical Framework------------------------------------------
@@ -223,16 +224,13 @@ The progress from FinTech 1.0 to FinTech 3.0 clearly shows how change in technol
 %Financial Technology, short for Fintech, describes the recent emerging development in the financial sector where solutions are enabled by the use of technology. The phenomenon itself 
 
 
-%----------------------------------------------------------------------------------------------------------- 
-%------------------------------------- Range of Products ------------------------------------------
-%-----------------------------------------------------------------------------------------------------------
 %% GO BACK TO THIS - COVER THE CONCEPT OF DISTANCE BEFORE PSYCHIC
 %\section{Previous Studies of Internationalisation}
 \section{Literature Review}
 \label{lit_review}
   \vspace{-5mm}
-Exploring existing approaches or seeking newer directions of inquiry are among the reasons of why  literature can assist to improve, shape and give form to a research topic in mind. Rowley and Slack (\citeyear{rowleyConductingLiteratureReview2004}) argue that such reviews play a meaningful role in the identification of relevant literature to the research in question, while giving it context or seeking ways to provide added value. Additional aspects include constructing a better understanding of theories, concepts and terminology. Hart (\citeyear{hartDoingLiteratureReview1998}) contributes further benefits, among them are shedding light on any significant variables that may provide additional understanding to the topic while attempting to relate certain concepts, ideas and theory to applications. Therefore, this chapter will explore previous studies in the field of internationalisation in regard to E-Commerce companies and traditional theories  in the field, while putting emphasis on assumptions, conclusions and key points. \par
-PERHAPS ADD ANOTHER PARAGRAPH HERE TALKING ABOUT THIS CHAPTER IS GOING TO BE STRUCTURE NOTENOTNEONTOENTOENTOETOENOENOTNEONTEONTOENOTENONTEONTOENTOENONEONTOENTONETONEOTNEOTNOETNOETN
+Exploring existing approaches or seeking newer directions of inquiry are among the reasons of why  literature can assist to improve, shape and give form to a research topic in mind. Rowley and Slack (\citeyear{rowleyConductingLiteratureReview2004}) argue that such reviews play a meaningful role in the identification of relevant literature to the research in question, while giving it context or seeking ways to provide added value. Additional aspects include constructing a better understanding of theories, concepts and terminology. Hart (\citeyear{hartDoingLiteratureReview1998}) contributes further benefits, among them are shedding light on any significant variables that may provide additional understanding to the topic while attempting to relate certain concepts, ideas and theory to applications. Therefore, this chapter will explore previous studies in the field of internationalisation in regard to E-Commerce companies and traditional theories  in the field, while putting emphasis on assumptions, conclusions and key points.
+
 
 \subsection{Previous Studies in the field of Internationalisation}
 \label{prev_studies}
@@ -293,6 +291,7 @@ Cultural Differences & \cite{loaneCrossnationalComparisonInternationalisation200
 Review of literature covered in the previous parts of this dissertations and other academical work imply that while internationalisation belongs to a broad scope of research fields, they mostly are based on theories that are dominant in the field. Each of these theories attempts to explain why firms expand and engage in activities overseas.  Through the exploration of these academical works and theories, a set of factors that impact the internationalisation process will be noted in order to produce a set of factors, shared among the theories or not, that will assist in consolidating information scattered across the vast variety of existing research. 
 
 \subsubsection{Uppsala Model of Internationalisation}
+\label{uppsala_frame}
 Empirical studies involving Swedish firms and the observation of their international development have laid the grounds for the emergence of this theory. The Uppsala model of internationalisation describes the process in which firms incrementally increase foreign market commitment by using and integrating acquired knowledge in a way that shapes the way they internationalise. This behavioural approach was first brought to light by Johanson and Valhne (\citeyear{johansonInternationalizationProcessFirm1977}), and was consequently integrated in many other theoretical frameworks of internationalisation (PERHAPS SOURCE HERE SOME). \par
 In their study, Johanson and Valhne (\citeyear{johansonInternationalizationProcessFirm1977}) describe the process and order in which several Swedish firms proceeded in the expansion of their business abroad. The behaviour, as previously indicated, was seen to be as one of an iterative nature, where the companies in question had enacted in actions and initiatives that further increased their commitment to the markets of interest. For example, one of the firms mentioned, a firm dealing in the pharmaceutical industry and operating in nine different countries, seemed to follow a certain pattern in which after every certain period of time, the firm would further extend its reach and operations. Among these operations, it was said the firm had received orders from the foreign markets, and after some time and sense of establishment, continued to make agreements with agents and brokers, up until commencing in actual manufacturing activities and thus further committing to the target markets. The Uppsala model sets a clear target, to find explanation behind the iterative pattern of firms. \par
 The model uses four core concepts: market commitment, market knowledge, current activities and commitment decisions. These core concepts are further categorised into two groups, one being state aspects, while the other is change aspects. 
@@ -342,6 +341,27 @@ The following table consolidates the core influential factors in a firm's intern
 \caption{The Uppsala Model of Internationalisation: Consolidated Representation of Factors (Author's Compilation)} 
 \label{table:uppsala_factors}
 \end{table} 
+	
+\subsubsection{Born Globals}
+\label{born_global_th}
+The Born Globals (BG) model of internationalisation (\cite{rennieGlobalCompetitivenessBorn1993}) comes from a similar stream to the one the Uppsala model belongs to. However, whereas the Uppsala model sees internationalisation as an incremental and time consuming process enveloped by learning and skill development, the BG model notes exceptional cases where firms aim internationally and globally from their inception. Furthermore, the approach had been explored extensively in several different studies (\cite{madsenInternationalizationBornGlobals1997}; \cite{knightBornGlobalFirm1996}) and accordingly, the studies conclude the most common and relevant factors that give rise to the emergence of BG firms and the existence of this phenomenon. Among these factors are: market conditions, development of technology, global networks and partnerships, and the capabilities of people, which includes the managerial approach of the founders. \par
+
+  \vspace{5mm}
+\begin{figure}[H]
+	\centering
+  \includegraphics[width=90mm]{figures/fig_born_global_frm}
+  \vspace{5mm}
+    \captionsetup{justification=centering,margin=2cm}
+      \captionsource{Born Globals - Conceptual Framework)}{Author's Own Construction}
+	\label{fig:born_globals_frame}
+\end{figure}
+
+
+\textit{Market Conditions} are described by \citeauthor{madsenInternationalizationBornGlobals1997} ({\citeyear{madsenInternationalizationBornGlobals1997}) as factors that push a firm into having to sell its product or service outside of the country. An example of such factor can be low demand for a product in the local market. This process can be seen as a two sided coin, where on one hand the low local demand is acting as a factor that pushes the into internationalising, and on the other, a higher demand in a target market acts as a factor pulling the firm to internationalise. \par
+\textit{Technology Development} is deemed to be a major key factor rooted in the BG theory as it is what actually kickstarts the companies into internationalisation faster and easier. It is no surprise that a large portion of current literature dealing with born global firms focuses on technology-intensive corporations, as the use of technology broke down barriers and reduced communication costs in such way that the ability to discover and take advantage of business opportunities in a variety of countries is enhanced (\cite{oviattTheoryInternationalNew1994}; \cite{knightInternationalizationIncrementalBorn2016}). \par
+\textit{Global Networks} are used by rapidly growing BG firms and are referred to as partners, distributors or the internet itself to achieve wider reach and easier internationalisation. This part of the BG theory puts emphasis on how the relationships a firm or the founders can create, or are available, play an important role and are vital for international endeavours (\cite{fletcherInternationalEntrepreneurshipBorn2011}). \par
+\textit{Capabilities} are described as the ability of people to take advantage of opportunities to foster and drive internationalisation. In recent years, people have gained significant experience in the international arena due to travelling becoming easier and technology connecting people across countries, and thus, this results in competence to operate and handle oneself in foreign situations. These capabilities also include those of the founders of the firm, and due to these competences being attained easier in comparison to the past, managers tend to look outwards in terms of business, and perceive the world as the marketplace, instead of remaining in their domicile (\cite{madsenInternationalizationBornGlobals1997}; \cite{rialpBornglobalPhenomenonComparative2005}). \par
+To conclude, Born Globals is a relatively young theory in comparison to other internationalisation theories. It is, however, important to note, that this approach describes a phenomenon becoming common over the last couple of decades due to the onset of modernisation and technological advancement. Therefore, it can assist in explaining internationalisation behaviour of firms characterised with heavy use of technology and the internet itself as a channel. 
 
 
 
@@ -510,9 +530,6 @@ http://www.diva-portal.org/smash/get/diva2:1064378/FULLTEXT01.pdf
 
 http://lnu.diva-portal.org/smash/get/diva2:1337264/FULLTEXT01.pdf
 
-
-\subsection{Interview Structure}
-sss
 \subsection{Limitations and Constraints}
 
 as
@@ -543,15 +560,165 @@ A study by \citeauthor{slagerInternationalizationBanksStrategic2005} (\citeyear{
 	\label{fig:db_international}
 \end{figure}
 
-
-\subsubsection{Internationalisation}
-
-\subsubsection{Barriers and Hurdles}
-
-\subsubsection{Possible Drivers}
+As covered throughout this case study, DB's activities were described in a way that the company set up branches in financial hubs and continued expanding by acquisitions, and thus, it is possible to see the intensifying degree of internationalisation in figure \ref{fig:db_international} as time progresses.
 
 
+\subsection{Company X}
+Originally founded in 2013, based in Berlin, Company X deals in the investment and savings finance sector. The company aims to take over the competitive market of savings and investment in Europe by using advanced financial technology to assist private customers making the smartest and most efficient financial decisions. Since being founded, the company managed to raise hundred millions of euros from credible investors, including Goldman Sachs, the American multinational investment bank. Currently, the company is just shy of 310 employees, which means it is out of the Small-Medium Enterprise (SME) scope and is considered a large enterprise (\cite{majocchiFirmSizeBusiness2005}).
+ \par Company X acts as a bank and a platform that consolidates financial offers all over the EU and also in the US. The company offers the possibility for its customers to invest their money in term deposits across different banks in Europe (OR THE US?) while offering very attractive interest rates in comparison to their local providers. This service was previously not available and the traditional way was for a customer to go to its local servicing bank in a physical branch and deposit money in a fixed account, however, the interest rates were usually relatively low. \par 
+Due to the FinTech era shining light on new and advanced technologies, Company X made it it possible to build bridges between customers in their domicile to banks far out of their reach, while trimming down the bureaucratic requirements on the customer side that would otherwise be required when dealing with money and economic means across different countries. Therefore, partnerships play an important role in the company's expansion and reach and it is thus one of its main strategies, as it builds partnerships with small and middle sized banks.  \par
+The business model of Company X is structured in such way that when a customer decides to purchase a financial product offered on Company X's platform, after identity validation and proper registration, the customer is required transferring the relevant funds to a servicing bank hosted and owned by Company X. This servicing bank effectively acts as a "middleman" and transfers the funds to the target partner bank offering the financial product purchased by the customer. When the relevant period defined for the product reaches its expiration, the customer can claim his funds and earned interest back, which are then transferred back from the partner bank to the servicing bank and eventually to the customer. \par 
+Company X undertook a global view from its onset and planned for rapid consistent, continuous and rapid expansion. The platform first launched in Germany in 2013 and successfully integrated itself into the German market, being able to offer higher interest rates than its competitors, German banks, and thus earning a clear competitive advantage. \par
+In 2016, Company X made its services and products offered on its platform accessible across Europe. This move transformed Company X's status from being a local provider of savings and investment in Germany to owning the first pan-European marketplace for savings. \par
+On the same year Company X opened its pan-European savings market, it launched a separate platform dedicated to the Austrian, French and Spanish market. The decision behind opening platforms dedicated to specific markets was to be able to cater to the different cultures, while improving communication and marketing by using the language relevant to the country. Furthermore, market-specific platforms allowed for the diversification of promotions and products tailored to fit that country. \par 
+The years following 2016, Company X continued on launching separate platforms for different countries across Europe. In 2018 a dedicated platform for the UK and the Netherlands was launched. In 2019, the Irish platform was launched, and alongside it, plans to launch in the US ensued. WRITE ABOUT THE US, WRITE ABOUT SPAIN. \par
+Additional significant moves were taken by Company X. One of them was the acquisition of a bank. As already mentioned, Company X uses a servicing bank as a middle-man between the partner bank and the company itself. However, in 2019, Company X acquired the servicing bank and is now the sole owner of it. This not only reduced holding costs but also increased the control the company has over its assets. Moreover, an additional acquisition took place in the same year as Company X acquired a FinTech offering pension products. By doing so, Company X continued diversifying its product portfolio and could now cater to a wider crowd while offering additional financial services. \par
 
+The following figure exhibits the current distribution of Company X's partnerships across Europe:
+
+  \vspace{5mm}
+\begin{figure}[H]
+	\centering
+  \includegraphics[width=90mm]{figures/fig_partner_dist}
+  \vspace{5mm}
+    \captionsetup{justification=centering,margin=2cm}
+      \captionsource{Europe - Company X's Partner Bank Distribution}{Company X's Data (2020) - Self Constructed}
+	\label{fig:raisin_partnerbank_dist}
+\end{figure}
+
+As seen in figure \ref{fig:raisin_partnerbank_dist}, Company X holds a significant amount of partnerships in Europe, 133 to be exact. It is no surprise that partnerships are a key factor and leading strategy that influences the company's expansion, market penetration and extension of commitment. Nevertheless, partnerships, as seen in the last couple of years, are not the only strategies Company X enacted as it also makes business acquisitions. This is an aspect Company X will continue to put emphasis on as it has future plans for further acquisitions. 
+
+\section{Comparison of Findings}
+\label{findings_comparison}
+This section of the study aims to observe the juxtaposition of the two firms thoroughly covered in chapter \ref{emp_findings}. By pointing out similarities and differences in the companies' behaviour towards and during internationalisation, it is possible to draw important conclusions or make meaningful propositions that can assist in answering this study's research question. Therefore, the approach used to analyse the case study findings in this paper is a cross-case analysis. \par
+Cross-case analysis describes the process of transforming and simplifying findings in a comparative manner to detect commonalities, contradictions and differences. This approach is best used and encouraged in studies composed of two cases. This type of analysis requires the researcher to explore the empirical data gathered and question the meaning of things, while identifying patterns, explanations and causal relationships (\cite{cruzesCaseStudiesSynthesis2015}; \cite{yinCaseStudyResearch2017}). \par
+For the purpose of this study, the analysis encompasses three main aspects: market entry drivers, internationalisation strategy and internationalisation barriers. 
+
+\subsection{Internationalisation Drivers}
+\label{entry_motives}
+In order to be able to distinguish between possible differences in internationalisation drivers, this section attempts to distinguish what drove either of the companies reviewed to internationalise. \par
+Since its inception, Company X aimed to become the first pan-European marketplace for savings. Therefore, remaining in its domicile was already out of the question. Company X first wished to take advantage of the fact that there was a market gap in its local market, therefore, launching such service may reward it with a competitive advantage. However, the market gap was not the only source of competitive advantage, but also the use of technology, special capabilities and knowledge Company X has access to. This stands in line with the Resource Based View ({\cite{barneyResourcebasedViewFirm2001}) that discusses competitive advantage as an internationalisation driver and performance enhancer. Consequent to the successful launch, Company X took off the fill this market gap all over Europe, performing a cross-country internationalisation. \par
+The use of the internet, advanced analytics and state of the art technology and infrastructure enabled Company X's internationalisation. This aligns with Dunning's (\citeyear{dunningEclecticTheoryInternational1980}) theoretical approach in the sense of whether to remain domestic or go international. Dunning speaks of three advantages covered in the literature review that are achieved by Company X: ownership advantages by owning advanced technology which results in enhanced market access; locational advantages due to the market gap existing and internationalisation advantages by the possibility to exploit said technology and reduce transaction costs.  \par
+
+In the case of DB, similar to Company X, management approach to internationalisation did push the company into expansion. However, unlike Company X's use of technology, DB pursued a strategy of entering main financial hubs and centres to obtain knowledge, while having access to a new currency and a bigger client base. One of the variables identified by Dunning (\cite{dunningEclecticParadigmEnvelope2000}) that foster internationalisation is market seeking. Market seeking was defined by \citeauthor{mulderDeterminantsBankInternationalisation2015} (\citeyear{mulderDeterminantsBankInternationalisation2015}) in the context of bank internationalisation in such way, that banks expand in the attempt to attract, acquire and serve new clientele. This bears a close resemblance to DB's internationalisation. Additionally, DB's tendency to move into locations where capital is available can be associated with Dunning's (\citeyear{dunningEclecticParadigmEnvelope2000}) concept of strategic asset seeking, where firms would search for gaining access to resources. This was also addressed in a study by \citeauthor{buchFDIExportsEvidence2007} (\citeyear{buchFDIExportsEvidence2007}), which described access to primary and main financial hubs as a motive for bank internationalisation.  \par
+
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+
+\vspace{8mm}
+\begin{table}[H] \centering 
+\begin{tabular}{p{8cm}P{3cm}P{3.5cm}}
+  \toprule
+  \emph{Driver} & \emph{Company X} & \emph{Deutsche Bank AG}  \\ 
+    \midrule
+Management approach &  x & x\\
+Advanced technology  &  x &  \\              
+The internet &  x &  \\              
+Access to financial resources  &  x & x \\              
+Acquire customers and increase customer base &  x & x \\              
+\bottomrule
+\end{tabular}
+\vspace{5mm}
+\captionsetup{width=0.85\linewidth}
+\caption{Case Study Comparison: Internationalisation Drivers (Author's Compilation)} 
+\label{table:int_drivers_comp}
+\end{table} 
+
+Table \ref{table:int_drivers_comp} illustrates commonalities and differences observed when discussing drivers to internationalisation between Company X and DB. As previously mentioned, both of the firms' management contributed to its decision to internationalise. However, the competitive advantage resulting from the use of technology, the internet, and the opportunity to fill an existing market gap, played a significant role in driving Company X to go abroad. Additional common drivers to both firms include the wish of both firms to have access to more financial  resources while acquiring more customers to derive more value and profit. Therefore, the following propositions are suggested:
+\begin{center}
+\textbf{\textit{Proposition 1}}: The use of technology and internet fosters internationalisation in EBCs, while allowing EBCs to enjoy of significant competitive advantage.
+\end{center}
+
+
+\subsection{Internationalisation Strategy}
+\label{int_strategy}
+This section reviews what sort of strategy both of the companies undertook or in other words \textbf{how} did they internationalise. This study's literature review thoroughly covered two dominant theories in the academical world trying to explain internationalisation: The Uppsala and Born Globals models of internationalisation. Both of these theoretical frameworks describe the firm's orientations and its approach to expansion.  \par
+When discussing DB, a clear strategy using partnerships and wholly owned subsidiaries in forms of acquisitions and greenfield investments. DB's internationalisation process can be described as rather iterative. When looking at the period before the wars, DB operated in its domicile, and slowly expanded to selected target markets. In the period after the way, after DB was reconstructed, it presented a rather conservative approach in the sense that it left its operations mostly in its domicile. However, when it resumed internationalisation, it again began entering markets in an iterative manner, one by one. The markets entries done by DB in that time can be described as cautious. One of the Uppsala's model (\citeyear{johansonInternationalizationProcessFirm1977}) core concepts is market commitment, which describes the iterative process a company goes through, slowly dedicating more resources to the target market until it is fully established. This approach aligns with DB internationalisation as it slowly opens representative office in the target markets to reach a position of stability and gain knowledge and important know-hows, which were deemed important in the scope of the Uppsala framework. Each different market entry assists DB in gaining knowledge about the local community, culture and important traits that can assist it to penetrate the market deeper. It is then that DB proceeded on making key acquisitions and establishment it's own branches in the markets it had already entered. \par 
+In comparison, when looking at Company X, a clear strategy was evident from the get-go. The company first established itself locally but had already looked over the international horizon. It was no surprise when the company, with the use of advanced technologies, had skipped many of the traditional steps a company would usually go through. Company X moved from being a local player in Germany to entering all the European markets all in one year, while increasing its presence in selected markets in which it already internationalised into. Furthermore, Company X employed heavy use of technology to assist it in its process of internationalisation, using electronic platforms to specifically reach foreign markets. Unlike DB, Company X did was not physically present at any of the foreign locations it operated in and handled most of its operations using electronic means. This not only reduced costs greatly but also allowed for Company X to internationalise in a faster pace with less risk. However, similar to DB, Company X did need to acquire cultural knowledge specific to the markets which it developed specific platforms for.   
+
+
+\vspace{8mm}
+\begin{table}[H] \centering 
+\begin{tabular}{P{4cm}P{5cm}P{7cm}}
+  \toprule
+  \emph{Criteria} & \emph{Company X} & \emph{Deutsche Bank AG}  \\ 
+    \midrule
+  Market Entry Strategy & Partnerships and acquisitions & Partnerships, wholly owned subsidiaries\\\\
+                  Internationalisation Pace & Globalisation from inception & Iterative and gradual internationalisation \\
+    Physical Presence & No physical presence & Fully owned branches and representative offices \\              
+\bottomrule
+\end{tabular}
+\vspace{5mm}
+\captionsetup{width=0.85\linewidth}
+\caption{Case Study Comparison: Internationalisation Strategy (Author's Compilation)} 
+\label{table:int_strategy_comp}
+\end{table} 
+
+According to the aforementioned criteria in table \ref{table:int_strategy_comp} and in consideration of the cases reviewed, the following propositions are suggested:
+% due to technology prop 1
+\begin{center}
+\textbf{\textit{Proposition 2.1}}: Traditional companies in the financial sector internationalise gradually in comparison to EBCs rapid globalisation approach. 
+\end{center}
+\begin{center}
+\textbf{\textit{Proposition 2.2}}: In contrast to EBCs, traditional companies in the financial sector establish physical presence in the respective target market.
+\end{center}
+
+
+\subsection{Internationalisation Barriers}
+\label{int_barriers}
+\noindent{Both Company X and DB were susceptible to market entry barriers. This section will describe the main barriers faced by the companies, while putting emphasis on differences and the relative impact the barrier discussed had on either of the companies.} \par
+
+
+%\textbf{\textit{Governmental Regulation}}
+%\textbf{\textit{Investment and Capital}}
+%\textbf{\textit{Customer Trust}} 
+
+ \citeauthor{karakayaBarriersEntryMarket1989} (\citeyear{karakayaBarriersEntryMarket1989}) consider \textbf{\textit{government regulation}} as a significant barrier to entry. In their study (ibid), the authors used several studies basing on economics literature through which they found regulations imposed by the government to be a prominent factor, that is continuously mentioned as a significant burden when a company tries to internationalise.  The financial sector is heavily regulated, both in local markets or when operating in foreign markets.\par
+Both Company X and DB were subject to regulations and were required to comply. Additionally, establishment criteria including licensing requirements, insurances, contractual limitations and minimum capital, were present in both cases. Therefore, neither of the firms present any peculiarities in the sense of differences, or special traits granted to Company X being an electronic company, in comparison to DB. \par
+
+ Porter's (\citeyear{porterCompetitiveStrategyTechniques1980}) study of competitive strategy explores the forces which shape competition; among those are market entry barriers. One of the market entry barriers mentioned is \textbf{\textit{capital requirements}}. Porter (ibid) describes capital requirements as investments made by companies entering markets. These investments include, but are not limited to physical offices/branches, equipment and initial wages paid for workers. Hence, companies require financial capital in order to be able to withstand these expenditures. \par
+In the case of Company X, it does not own or require any physical branches outside of its domicile. Due to the nature of it being a company that conducts its operations online, it is thus able to trim down a significant amount of the costs involved when entering new markets. Company X's main investment was its information technology (IT) infrastructure, rather than buildings and staff.  \par
+On the other side, DB's business model requires for personal interaction as the clients handle their accounts through the physical branches DB had to establish in the markets it entered. These branches also required staffing and maintenance, which in turn resulted in significant financial capital investments. However, it is not only this sort of infrastructure that is required, as traditional banks also require IT for managing their business. \par
+Therefore, it is possible to distinguish between Company X and DB in the sense that the use of the internet as a medium between Company X and its customers significantly reduced the impact a company would normally have by capital requirements. \par
+
+Conducting financial transactions on the internet requires a high level of trust and reliability from the customers. If this trust is in some way lacking or severed, this could restrict the implementation of internet based technology. \citeauthor{leeTrustModelConsumer2001}'s (\citeyear{leeTrustModelConsumer2001}) study of \textbf{\textit{customer trust}} in internet technology indicated that customers are reluctant to make online transactions, due to the uncertainty and risk vis-à-vis security of the system. Therefore, when providing financial services over the internet, security is a prominent challenge. \par
+The difference between the two case companies is thus evident. Company X owns no physical branches, while DB does. The lack of physical interaction and physical presence contributes to the fact that trust is of the essence and can set a barrier as a company attempts to penetrate a market. \par
+
+\vspace{8mm}
+\begin{table}[H] \centering 
+\begin{tabular}{c l c c}
+    \toprule
+    \multirow{2}{*}{\bfseries Barrier} & 
+    \multicolumn{3}{c}{\bfseries Relative Degree of Significance}\\ \cmidrule(lr){3-4}
+    && Company X&Deutsche Bank AG \\ \cmidrule(lr){1-4}
+    %------
+    Governmental Regulation&  & Very significant & Very significant \\
+    Investment and Capital & & Reduced significancy  & Very significant\\
+     Customer Trust &  & Very significant & Reduced significancy\\
+    \bottomrule
+\end{tabular}
+\vspace{5mm}
+\captionsetup{width=0.85\linewidth}
+\caption{Case Study Comparison: Internationalisation Barriers (Author's Compilation)} 
+\label{table:int_barriers_comp}
+\end{table} 
+
+Table \ref{table:int_barriers_comp} is composed of the three main barriers mentioned in this subchapter. The barriers are allocated to the case study companies in a relative manner, one to the other, by using degrees of significance. For example, the barrier investment and capital is of reduced significancy for Company X in comparison to DB; this is due to the fact previously explained, that DB establishes physical branches in the markets which it chooses to enter. \par
+Therefore and according to the barriers discussed in relation to both of the companies, the following propositions are suggested:
+
+\begin{center}
+\textbf{\textit{Proposition 3.1}}: Both traditional companies and EBCs in the financial sector are similarly subject to regulations.
+\end{center}
+\begin{center}
+\textbf{\textit{Proposition 3.2}}: In contrast to traditional companies, EBCs in the financial sector require less capital and investment, due to the absence of physical presence in target markets.
+\end{center}
+\begin{center}
+\textbf{\textit{Proposition 3.3}}: Customer trust is an important construct that can influence EBCs market penetration.
+\end{center}
+
+
+
+\newpage
 %----------------------------------------------------------------------------------------------------------- 
 %------------------------------------- BI Department ------------------------------------------
 %-----------------------------------------------------------------------------------------------------------
@@ -566,11 +733,7 @@ An additional distinguishing feature of the electronic marketplace is that the i
 %FIND MORE ABOUT THE E-MARKET ENVIRONMENT - PERHAPS ABOUT WORKING CAPITAL NOT NEEDED
 
 
-
-\section{Projects and Tools}
-\label{project_tools}
-
-
+	
 \newpage
 
 \section{Conclusion and Key Takeaways}

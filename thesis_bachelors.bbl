@@ -282,6 +282,44 @@
       \verb /Users/davidohayon/Zotero/storage/ES3MC57P/Baxter and Jack - 2008 - Qualitative case study methodology Study design a.pdf
       \endverb
     \endentry
+    \entry{buchFDIExportsEvidence2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=87595c386b5191cbb54ce7e33123686e}{%
+           family={Buch},
+           familyi={B\bibinitperiod},
+           given={Claudia\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ada2ed14ecd4cc15dd8686a84b172a98}{%
+           family={Lipponer},
+           familyi={L\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8e4c6d651d95fbab310714832429b05}
+      \strng{fullhash}{aa4a7937248d6ce928a023609ed82331}
+      \strng{bibnamehash}{aa4a7937248d6ce928a023609ed82331}
+      \strng{authorbibnamehash}{aa4a7937248d6ce928a023609ed82331}
+      \strng{authornamehash}{d8e4c6d651d95fbab310714832429b05}
+      \strng{authorfullhash}{aa4a7937248d6ce928a023609ed82331}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of banking \& Finance}
+      \field{number}{3}
+      \field{shorttitle}{{{FDI}} versus Exports}
+      \field{title}{{{FDI}} versus Exports: {{Evidence}} from {{German}} Banks}
+      \field{volume}{31}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{805\bibrangedash 826}
+      \range{pages}{22}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/AMSQ844F/S0378426606002081.html
+      \endverb
+    \endentry
     \entry{buckleyEvolutionFintechNew2016}{article}{}
       \name{author}{3}{}{%
         {{hash=07ec2c262dd769a134f6129ecd08f055}{%
@@ -499,6 +537,54 @@
       \verb https://www.statista.com/statistics/261676/digital-buyer-penetration-worldwide/
       \endverb
     \endentry
+    \entry{cruzesCaseStudiesSynthesis2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f9821201496583060ea8d9137af0b2cb}{%
+           family={Cruzes},
+           familyi={C\bibinitperiod},
+           given={Daniela\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=12cca8aa75b245a8dbb41959dc56c331}{%
+           family={Dybaa},
+           familyi={D\bibinitperiod},
+           given={Tore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=306f73791e107dd9b83d45ee22e6b523}{%
+           family={Runeson},
+           familyi={R\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4d1752e9463ffc1043c0939de72a9097}{%
+           family={Höst},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{126b9bb5b0d51c9f2e2c09802ff2db3d}
+      \strng{fullhash}{d668fdf3d3be58829cdc6a80baad2b6f}
+      \strng{bibnamehash}{126b9bb5b0d51c9f2e2c09802ff2db3d}
+      \strng{authorbibnamehash}{126b9bb5b0d51c9f2e2c09802ff2db3d}
+      \strng{authornamehash}{126b9bb5b0d51c9f2e2c09802ff2db3d}
+      \strng{authorfullhash}{d668fdf3d3be58829cdc6a80baad2b6f}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Empirical Software Engineering}
+      \field{number}{6}
+      \field{shorttitle}{Case Studies Synthesis}
+      \field{title}{Case Studies Synthesis: A Thematic, Cross-Case, and Narrative Synthesis Worked Example}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{1634\bibrangedash 1665}
+      \range{pages}{32}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/FBG4T7IP/Cruzes et al. - 2015 - Case studies synthesis a thematic, cross-case, an.pdf;/Users/davidohayon/Zotero/storage/G2ZUHVTI/s10664-014-9326-8.html
+      \endverb
+    \endentry
     \entry{deutschebankagDeutscheBank1870}{article}{}
       \name{author}{1}{}{%
         {{hash=0428ef39b87091d1f2741a0aeee99011}{%
@@ -630,6 +716,73 @@
       \verb https://www.db.com/usa/content/en/history.html
       \endverb
     \endentry
+    \entry{dunningEclecticTheoryInternational1980}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5c4b8ebcf2a283566ecafc6f4a25b230}{%
+           family={Dunning},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{fullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{bibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorbibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authornamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorfullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of international business studies}
+      \field{number}{1}
+      \field{shorttitle}{Toward an Eclectic Theory of International Production}
+      \field{title}{Toward an Eclectic Theory of International Production: {{Some}} Empirical Tests}
+      \field{volume}{11}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{pages}{9\bibrangedash 31}
+      \range{pages}{23}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/WBBEQCWC/Dunning - 1980 - Toward an eclectic theory of international product.pdf;/Users/davidohayon/Zotero/storage/SNMMWA27/palgrave.jibs.html
+      \endverb
+    \endentry
+    \entry{dunningEclecticParadigmEnvelope2000}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5c4b8ebcf2a283566ecafc6f4a25b230}{%
+           family={Dunning},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{fullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{bibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorbibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authornamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorfullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International business review}
+      \field{number}{2}
+      \field{title}{The Eclectic Paradigm as an Envelope for Economic and Business Theories of {{MNE}} Activity}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{pages}{163\bibrangedash 190}
+      \range{pages}{28}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/WYKFL6GV/Dunning - 2000 - The eclectic paradigm as an envelope for economic .pdf;/Users/davidohayon/Zotero/storage/RME9S9ML/S0969593199000359.html
+      \endverb
+    \endentry
     \entry{etemadInternationalizationSmallMediumsized2004}{article}{}
       \name{author}{1}{}{%
         {{hash=7e1c12653ad5bf54344db01030348395}{%
@@ -738,6 +891,44 @@
       \field{dateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/MFHKE8AN/Fishbein and Ajzen - 1977 - Belief, attitude, intention, and behavior An intr.pdf
+      \endverb
+    \endentry
+    \entry{fletcherInternationalEntrepreneurshipBorn2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4bc881f9783949f63a0e9d93fc3c71a5}{%
+           family={Fletcher},
+           familyi={F\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+        {{hash=30e5af45eb7ca3ea54ec5cb42d54ed03}{%
+           family={Loane},
+           familyi={L\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae03eaef5c8365c51f62363891618c60}{%
+           family={Andersson},
+           familyi={A\bibinitperiod},
+           given={Svante},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a2f695c0bf7b71de018abcffd3f4009}
+      \strng{fullhash}{418d1b5213cfe2f12aea969e25d33ad1}
+      \strng{bibnamehash}{418d1b5213cfe2f12aea969e25d33ad1}
+      \strng{authorbibnamehash}{418d1b5213cfe2f12aea969e25d33ad1}
+      \strng{authornamehash}{7a2f695c0bf7b71de018abcffd3f4009}
+      \strng{authorfullhash}{418d1b5213cfe2f12aea969e25d33ad1}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Small Business and Enterprise Development}
+      \field{title}{International Entrepreneurship, Born Globals and the Theory of Effectuation}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/GRQ3W2B9/Fletcher et al. - 2011 - International entrepreneurship, born globals and t.pdf;/Users/davidohayon/Zotero/storage/4VABDU73/html.html
       \endverb
     \endentry
     \entry{forsgrenIgnorantImpatientInternationalization2007}{article}{}
@@ -913,6 +1104,118 @@
       \verb /Users/davidohayon/Zotero/storage/92HHAK8B/J042v07n01_02.html
       \endverb
     \endentry
+    \entry{karakayaBarriersEntryMarket1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2c9c0f0bd3c2d2afb393e387e2476131}{%
+           family={Karakaya},
+           familyi={K\bibinitperiod},
+           given={Fahri},
+           giveni={F\bibinitperiod}}}%
+        {{hash=716236ba20c0e2afe89cfd9707cff115}{%
+           family={Stahl},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5732bb83796d7f12d586ddb43a6e6ab8}
+      \strng{fullhash}{d0273647c9cec6b8bc06f603e1e650dc}
+      \strng{bibnamehash}{d0273647c9cec6b8bc06f603e1e650dc}
+      \strng{authorbibnamehash}{d0273647c9cec6b8bc06f603e1e650dc}
+      \strng{authornamehash}{5732bb83796d7f12d586ddb43a6e6ab8}
+      \strng{authorfullhash}{d0273647c9cec6b8bc06f603e1e650dc}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of marketing}
+      \field{number}{2}
+      \field{title}{Barriers to Entry and Market Entry Decisions in Consumer and Industrial Goods Markets}
+      \field{volume}{53}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \field{pages}{80\bibrangedash 91}
+      \range{pages}{12}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/CGPJ6KDF/Karakaya and Stahl - 1989 - Barriers to entry and market entry decisions in co.pdf;/Users/davidohayon/Zotero/storage/JXRHIZV8/002224298905300206.html
+      \endverb
+    \endentry
+    \entry{knightBornGlobalFirm1996}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52d0e85ffc4e49a87694288c76dd4e9b}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0555742f408b1ce27e495fdf305b8978}{%
+           family={Cavusgil},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi Tamer},
+           giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{aed41bb2ce285f09b7e443b74754cf5b}
+      \strng{fullhash}{fd5159e34df2a15f9b4220812e77d2a3}
+      \strng{bibnamehash}{fd5159e34df2a15f9b4220812e77d2a3}
+      \strng{authorbibnamehash}{fd5159e34df2a15f9b4220812e77d2a3}
+      \strng{authornamehash}{aed41bb2ce285f09b7e443b74754cf5b}
+      \strng{authorfullhash}{fd5159e34df2a15f9b4220812e77d2a3}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Advances in international marketing}
+      \field{number}{1}
+      \field{shorttitle}{The Born Global Firm}
+      \field{title}{The Born Global Firm: {{A}} Challenge to Traditional Internationalization Theory}
+      \field{volume}{8}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{11\bibrangedash 26}
+      \range{pages}{16}
+    \endentry
+    \entry{knightInternationalizationIncrementalBorn2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52d0e85ffc4e49a87694288c76dd4e9b}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Gary\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e972d8051135b40c34efd4b2adc7ccb}{%
+           family={Liesch},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima W.},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{aed41bb2ce285f09b7e443b74754cf5b}
+      \strng{fullhash}{1af9ed7a0f030d3b1abafe2d72417442}
+      \strng{bibnamehash}{1af9ed7a0f030d3b1abafe2d72417442}
+      \strng{authorbibnamehash}{1af9ed7a0f030d3b1abafe2d72417442}
+      \strng{authornamehash}{aed41bb2ce285f09b7e443b74754cf5b}
+      \strng{authorfullhash}{1af9ed7a0f030d3b1abafe2d72417442}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of World Business}
+      \field{number}{1}
+      \field{shorttitle}{Internationalization}
+      \field{title}{Internationalization: {{From}} Incremental to Born Global}
+      \field{volume}{51}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{93\bibrangedash 102}
+      \range{pages}{10}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/DTSLQU7B/Knight and Liesch - 2016 - Internationalization From incremental to born glo.pdf;/Users/davidohayon/Zotero/storage/CRHCLUVH/S1090951615000644.html
+      \endverb
+    \endentry
     \entry{kogutEffectNationalCulture1988}{article}{}
       \name{author}{2}{}{%
         {{hash=ac37283c50cb2762288a27bf24b1c80f}{%
@@ -983,6 +1286,43 @@
       \verb /Users/davidohayon/Zotero/storage/SUDTQXX4/Kostova - 1999 - Transnational transfer of strategic organizational.pdf;/Users/davidohayon/Zotero/storage/379X2LNR/amr.1999.html
       \endverb
     \endentry
+    \entry{leeTrustModelConsumer2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3ae7c5ccefe58a5f54c2a7223c47507c}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima KO},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=9b8fdb3166a87b5286b644c5bfcd0dfd}{%
+           family={Turban},
+           familyi={T\bibinitperiod},
+           given={Efraim},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f85231e95b84c6de478f879e4a81dfb0}
+      \strng{fullhash}{ddd336f3e7671f9f31d01a59d1d6b073}
+      \strng{bibnamehash}{ddd336f3e7671f9f31d01a59d1d6b073}
+      \strng{authorbibnamehash}{ddd336f3e7671f9f31d01a59d1d6b073}
+      \strng{authornamehash}{f85231e95b84c6de478f879e4a81dfb0}
+      \strng{authorfullhash}{ddd336f3e7671f9f31d01a59d1d6b073}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of electronic commerce}
+      \field{number}{1}
+      \field{title}{A Trust Model for Consumer Internet Shopping}
+      \field{volume}{6}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{75\bibrangedash 91}
+      \range{pages}{17}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/ATN54F76/Lee and Turban - 2001 - A trust model for consumer internet shopping.pdf;/Users/davidohayon/Zotero/storage/74ENE666/10864415.2001.html
+      \endverb
+    \endentry
     \entry{loaneCrossnationalComparisonInternationalisation2002}{article}{}
       \name{author}{2}{}{%
         {{hash=30e5af45eb7ca3ea54ec5cb42d54ed03}{%
@@ -1018,6 +1358,87 @@
       \range{pages}{1}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/VL3K7H5E/1.html
+      \endverb
+    \endentry
+    \entry{madsenInternationalizationBornGlobals1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=201d22b8e0f6893b0a7f7fb420e1847c}{%
+           family={Madsen},
+           familyi={M\bibinitperiod},
+           given={Tage\bibnamedelima Koed},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=954d4cdc07f4a831e36a3da8989efce3}{%
+           family={Servais},
+           familyi={S\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0564d84b2eccf0c8dfdc52291fbf5715}
+      \strng{fullhash}{f6897e03d7888d1784f3c169a8f77dd2}
+      \strng{bibnamehash}{f6897e03d7888d1784f3c169a8f77dd2}
+      \strng{authorbibnamehash}{f6897e03d7888d1784f3c169a8f77dd2}
+      \strng{authornamehash}{0564d84b2eccf0c8dfdc52291fbf5715}
+      \strng{authorfullhash}{f6897e03d7888d1784f3c169a8f77dd2}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{International business review}
+      \field{number}{6}
+      \field{shorttitle}{The Internationalization of Born Globals}
+      \field{title}{The Internationalization of Born Globals: An Evolutionary Process?}
+      \field{volume}{6}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \field{pages}{561\bibrangedash 583}
+      \range{pages}{23}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/4N43HK6D/Madsen and Servais - 1997 - The internationalization of born globals an evolu.pdf;/Users/davidohayon/Zotero/storage/X4FRNR7X/S0969593197000322.html
+      \endverb
+    \endentry
+    \entry{majocchiFirmSizeBusiness2005}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dffce64b9000c08a25a5060ac8bbcb3e}{%
+           family={Majocchi},
+           familyi={M\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b5cce12a9ec1037023b9815160694a43}{%
+           family={Bacchiocchi},
+           familyi={B\bibinitperiod},
+           given={Emanuele},
+           giveni={E\bibinitperiod}}}%
+        {{hash=22fbca00cdfa0d16b9a860aef2ccc363}{%
+           family={Mayrhofer},
+           familyi={M\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a59c4946a5003f6d6bf65ea438e956c}
+      \strng{fullhash}{630b1818a128bdbb430ae34dc95ea6a7}
+      \strng{bibnamehash}{630b1818a128bdbb430ae34dc95ea6a7}
+      \strng{authorbibnamehash}{630b1818a128bdbb430ae34dc95ea6a7}
+      \strng{authornamehash}{3a59c4946a5003f6d6bf65ea438e956c}
+      \strng{authorfullhash}{630b1818a128bdbb430ae34dc95ea6a7}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{International Business Review}
+      \field{number}{6}
+      \field{shorttitle}{Firm Size, Business Experience and Export Intensity in {{SMEs}}}
+      \field{title}{Firm Size, Business Experience and Export Intensity in {{SMEs}}: {{A}} Longitudinal Approach to Complex Relationships}
+      \field{volume}{14}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{719\bibrangedash 738}
+      \range{pages}{20}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/ISHPW677/Majocchi et al. - 2005 - Firm size, business experience and export intensit.pdf;/Users/davidohayon/Zotero/storage/2JTYUY5I/S0969593105000752.html
       \endverb
     \endentry
     \entry{markhamFinancialHistoryUnited2015}{book}{}
@@ -1120,6 +1541,81 @@
       \verb /Users/davidohayon/Zotero/storage/TMJB8G7C/eric.ed.gov.html
       \endverb
     \endentry
+    \entry{mulderDeterminantsBankInternationalisation2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=03493df582316bda2ee9906a52074f28}{%
+           family={Mulder},
+           familyi={M\bibinitperiod},
+           given={Arjen},
+           giveni={A\bibinitperiod}}}%
+        {{hash=346d101faf69f6717443740efa9eca80}{%
+           family={Westerhuis},
+           familyi={W\bibinitperiod},
+           given={Gerarda},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{75e38d509c237cb6b4f36cf65e6c8e87}
+      \strng{fullhash}{8150a244f42be33da8dbdb6254d0fe29}
+      \strng{bibnamehash}{8150a244f42be33da8dbdb6254d0fe29}
+      \strng{authorbibnamehash}{8150a244f42be33da8dbdb6254d0fe29}
+      \strng{authornamehash}{75e38d509c237cb6b4f36cf65e6c8e87}
+      \strng{authorfullhash}{8150a244f42be33da8dbdb6254d0fe29}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Business History}
+      \field{number}{1}
+      \field{shorttitle}{The Determinants of Bank Internationalisation in Times of Financial Globalisation}
+      \field{title}{The Determinants of Bank Internationalisation in Times of Financial Globalisation: {{Evidence}} from the World's Largest Banks, 1980–2007}
+      \field{volume}{57}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{pages}{122\bibrangedash 155}
+      \range{pages}{34}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/DGUWVKUU/00076791.2014.html
+      \endverb
+    \endentry
+    \entry{oviattTheoryInternationalNew1994}{article}{}
+      \name{author}{2}{}{%
+        {{hash=90c51c33881b1c9962908d28d21ddc01}{%
+           family={Oviatt},
+           familyi={O\bibinitperiod},
+           given={Benjamin\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=75a65a4471e49efc532d9901160f00ee}{%
+           family={McDougall},
+           familyi={M\bibinitperiod},
+           given={Patricia\bibnamedelima Phillips},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cf191791f91ade3113ffb55011f0424}
+      \strng{fullhash}{c043c62d9af19012eaee446fff4b00d3}
+      \strng{bibnamehash}{c043c62d9af19012eaee446fff4b00d3}
+      \strng{authorbibnamehash}{c043c62d9af19012eaee446fff4b00d3}
+      \strng{authornamehash}{5cf191791f91ade3113ffb55011f0424}
+      \strng{authorfullhash}{c043c62d9af19012eaee446fff4b00d3}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of international business studies}
+      \field{number}{1}
+      \field{title}{Toward a Theory of International New Ventures}
+      \field{volume}{25}
+      \field{year}{1994}
+      \field{dateera}{ce}
+      \field{pages}{45\bibrangedash 64}
+      \range{pages}{20}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/BWPJZZ4P/Oviatt and McDougall - 1994 - Toward a theory of international new ventures.pdf;/Users/davidohayon/Zotero/storage/SQTW6KSP/palgrave.jibs.html
+      \endverb
+    \endentry
     \entry{penroseTheoryGrowthFirm2009}{book}{}
       \name{author}{2}{}{%
         {{hash=10cd4ec7ed3baa917d9be6f8fde1d0cb}{%
@@ -1193,6 +1689,119 @@
       \range{pages}{15}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/B4H8EIUL/Petersen et al. - 2002 - The Internet and foreign market expansion by firms.pdf;/Users/davidohayon/Zotero/storage/NLXH4JT5/40835918.html
+      \endverb
+    \endentry
+    \entry{porterCompetitiveStrategyTechniques1980}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fdeac222b784c5b9ecd78ca26838ef71}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \strng{fullhash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \strng{bibnamehash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \strng{authorbibnamehash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \strng{authornamehash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \strng{authorfullhash}{fdeac222b784c5b9ecd78ca26838ef71}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{langid}{american}
+      \field{shorttitle}{Competitive {{Strategy}}}
+      \field{title}{Competitive {{Strategy}}: {{Techniques}} for {{Analyzing Industries}} and {{Competitors}}}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{year}{1980}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/RU5TRDK7/item.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hbs.edu/faculty/Pages/item.aspx?num=195
+      \endverb
+      \verb{url}
+      \verb https://www.hbs.edu/faculty/Pages/item.aspx?num=195
+      \endverb
+    \endentry
+    \entry{rennieGlobalCompetitivenessBorn1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4e8c216b207864fe51fcea00cda25d15}{%
+           family={Rennie},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e8c216b207864fe51fcea00cda25d15}
+      \strng{fullhash}{4e8c216b207864fe51fcea00cda25d15}
+      \strng{bibnamehash}{4e8c216b207864fe51fcea00cda25d15}
+      \strng{authorbibnamehash}{4e8c216b207864fe51fcea00cda25d15}
+      \strng{authornamehash}{4e8c216b207864fe51fcea00cda25d15}
+      \strng{authorfullhash}{4e8c216b207864fe51fcea00cda25d15}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Available from:(accessed December 2013)}
+      \field{shorttitle}{Global Competitiveness}
+      \field{title}{Global Competitiveness: Born Global', {{McKinsey Quarterly}}, No. 4}
+      \field{year}{1993}
+      \field{dateera}{ce}
+    \endentry
+    \entry{rialpBornglobalPhenomenonComparative2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=98b4e21c1b5aea1650941696feda9ac6}{%
+           family={Rialp},
+           familyi={R\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d316d6c41d5ba23a920bc84cdd34c003}{%
+           family={Rialp},
+           familyi={R\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08782054da89160c61afb34e8d909d9c}{%
+           family={Urbano},
+           familyi={U\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b0386278e904ccd06b33afc18694e9ec}{%
+           family={Vaillant},
+           familyi={V\bibinitperiod},
+           given={Yancy},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8e311ebdb85201c3979a0f42dfa7713}
+      \strng{fullhash}{9e2692b1b99dbd581fb8218cf700543a}
+      \strng{bibnamehash}{f8e311ebdb85201c3979a0f42dfa7713}
+      \strng{authorbibnamehash}{f8e311ebdb85201c3979a0f42dfa7713}
+      \strng{authornamehash}{f8e311ebdb85201c3979a0f42dfa7713}
+      \strng{authorfullhash}{9e2692b1b99dbd581fb8218cf700543a}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of International Entrepreneurship}
+      \field{number}{2}
+      \field{shorttitle}{The Born-Global Phenomenon}
+      \field{title}{The Born-Global Phenomenon: {{A}} Comparative Case Study Research}
+      \field{volume}{3}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{pages}{133\bibrangedash 171}
+      \range{pages}{39}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/5RZTWUFW/Rialp et al. - 2005 - The born-global phenomenon A comparative case stu.pdf;/Users/davidohayon/Zotero/storage/6BVIMH97/s10843-005-4202-7.html
       \endverb
     \endentry
     \entry{ridderCaseStudyResearch2019}{book}{}
