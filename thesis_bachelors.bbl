@@ -368,39 +368,6 @@
       \verb /Users/davidohayon/Zotero/storage/8XQHJ9MV/Buckley et al. - 2016 - The Evolution of Fintech A New Post-Crisis Paradi.pdf
       \endverb
     \endentry
-    \entry{bunduchiBusinessRelationshipsInternetbased2005}{article}{}
-      \name{author}{1}{}{%
-        {{hash=2c54f6bf0bcc441eb43805bb27c00fe8}{%
-           family={Bunduchi},
-           familyi={B\bibinitperiod},
-           given={Raluca},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \strng{fullhash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \strng{bibnamehash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \strng{authorbibnamehash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \strng{authornamehash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \strng{authorfullhash}{2c54f6bf0bcc441eb43805bb27c00fe8}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Information Systems Journal}
-      \field{number}{4}
-      \field{shorttitle}{Business Relationships in Internet-Based Electronic Markets}
-      \field{title}{Business Relationships in Internet-Based Electronic Markets: The Role of Goodwill Trust and Transaction Costs}
-      \field{volume}{15}
-      \field{year}{2005}
-      \field{dateera}{ce}
-      \field{pages}{321\bibrangedash 341}
-      \range{pages}{21}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/JR2FF5ZX/Bunduchi - 2005 - Business relationships in internet-based electroni.pdf;/Users/davidohayon/Zotero/storage/T72F3BYG/j.1365-2575.2005.00199.html
-      \endverb
-    \endentry
     \entry{chaiAncientModernCross2004}{article}{}
       \name{author}{2}{}{%
         {{hash=89439587ebe72b338b266d1aaa9b3b22}{%
@@ -456,86 +423,6 @@
       \verb https://doi.org/10.1108/17410390410566706
       \endverb
       \keyw{Consumer behaviour,Cross‐cultural studies,Customer relations,Electronic commerce,Relationship marketing}
-    \endentry
-    \entry{choiEconomicsElectronicCommerce1997}{book}{}
-      \name{author}{3}{}{%
-        {{hash=124b662cb3ab292eca5fb4308de8f1e9}{%
-           family={Choi},
-           familyi={C\bibinitperiod},
-           given={Soon-Yong},
-           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
-        {{hash=3fa878cd5479ea2b9e5a7fe30390b674}{%
-           family={Stahl},
-           familyi={S\bibinitperiod},
-           given={Dale\bibnamedelima O.},
-           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-        {{hash=c19a359123603a868feadf8db66bfc69}{%
-           family={Whinston},
-           familyi={W\bibinitperiod},
-           given={Andrew\bibnamedelima B.},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Macmillan Technical Publ. Indianapolis}%
-      }
-      \strng{namehash}{5053e8a12628d5f5c193e64efff2f1c1}
-      \strng{fullhash}{eb8af513c9b9008d3cb14b0d28570ea1}
-      \strng{bibnamehash}{eb8af513c9b9008d3cb14b0d28570ea1}
-      \strng{authorbibnamehash}{eb8af513c9b9008d3cb14b0d28570ea1}
-      \strng{authornamehash}{5053e8a12628d5f5c193e64efff2f1c1}
-      \strng{authorfullhash}{eb8af513c9b9008d3cb14b0d28570ea1}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Economics of Electronic Commerce}
-      \field{year}{1997}
-      \field{dateera}{ce}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/GXXA6C46/Choi et al. - 1997 - The economics of electronic commerce.pdf
-      \endverb
-    \endentry
-    \entry{clementGlobalDigitalBuyer2019}{online}{}
-      \name{author}{1}{}{%
-        {{hash=b9ad742be475e490663762c287a736c9}{%
-           family={Clement},
-           familyi={C\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{b9ad742be475e490663762c287a736c9}
-      \strng{fullhash}{b9ad742be475e490663762c287a736c9}
-      \strng{bibnamehash}{b9ad742be475e490663762c287a736c9}
-      \strng{authorbibnamehash}{b9ad742be475e490663762c287a736c9}
-      \strng{authornamehash}{b9ad742be475e490663762c287a736c9}
-      \strng{authorfullhash}{b9ad742be475e490663762c287a736c9}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This statistic gives information on the digital buyer penetration worldwide from 2016 to 2021.}
-      \field{journaltitle}{Statista}
-      \field{langid}{english}
-      \field{title}{Global Digital Buyer Reach 2021}
-      \field{urlday}{10}
-      \field{urlmonth}{2}
-      \field{urlyear}{2020}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/X2KXI9XZ/digital-buyer-penetration-worldwide.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.statista.com/statistics/261676/digital-buyer-penetration-worldwide/
-      \endverb
-      \verb{url}
-      \verb https://www.statista.com/statistics/261676/digital-buyer-penetration-worldwide/
-      \endverb
     \endentry
     \entry{cruzesCaseStudiesSynthesis2015}{article}{}
       \name{author}{4}{}{%
@@ -716,6 +603,38 @@
       \verb https://www.db.com/usa/content/en/history.html
       \endverb
     \endentry
+    \entry{dozQualitativeResearchInternational2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=62a3ab12afb9d27b522b17e9a3cd7cec}{%
+           family={Doz},
+           familyi={D\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \strng{fullhash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \strng{bibnamehash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \strng{authorbibnamehash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \strng{authornamehash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \strng{authorfullhash}{62a3ab12afb9d27b522b17e9a3cd7cec}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Business Studies}
+      \field{number}{5}
+      \field{title}{Qualitative Research for International Business}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{582\bibrangedash 590}
+      \range{pages}{9}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/P97M9ZQM/Doz - 2011 - Qualitative research for international business.pdf;/Users/davidohayon/Zotero/storage/B864T3FS/jibs.2011.html
+      \endverb
+    \endentry
     \entry{dunningEclecticTheoryInternational1980}{article}{}
       \name{author}{1}{}{%
         {{hash=5c4b8ebcf2a283566ecafc6f4a25b230}{%
@@ -783,37 +702,39 @@
       \verb /Users/davidohayon/Zotero/storage/WYKFL6GV/Dunning - 2000 - The eclectic paradigm as an envelope for economic .pdf;/Users/davidohayon/Zotero/storage/RME9S9ML/S0969593199000359.html
       \endverb
     \endentry
-    \entry{etemadInternationalizationSmallMediumsized2004}{article}{}
+    \entry{dunningEclecticParadigmInternational2015}{incollection}{}
       \name{author}{1}{}{%
-        {{hash=7e1c12653ad5bf54344db01030348395}{%
-           family={Etemad},
-           familyi={E\bibinitperiod},
-           given={Hamid},
-           giveni={H\bibinitperiod}}}%
+        {{hash=5c4b8ebcf2a283566ecafc6f4a25b230}{%
+           family={Dunning},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
       }
-      \strng{namehash}{7e1c12653ad5bf54344db01030348395}
-      \strng{fullhash}{7e1c12653ad5bf54344db01030348395}
-      \strng{bibnamehash}{7e1c12653ad5bf54344db01030348395}
-      \strng{authorbibnamehash}{7e1c12653ad5bf54344db01030348395}
-      \strng{authornamehash}{7e1c12653ad5bf54344db01030348395}
-      \strng{authorfullhash}{7e1c12653ad5bf54344db01030348395}
-      \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{fullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{bibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorbibnamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authornamehash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \strng{authorfullhash}{5c4b8ebcf2a283566ecafc6f4a25b230}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{journaltitle}{Canadian Journal of Administrative Sciences/Revue Canadienne des Sciences de l'Administration}
-      \field{number}{1}
-      \field{shorttitle}{Internationalization of Small and Medium-Sized Enterprises}
-      \field{title}{Internationalization of Small and Medium-Sized Enterprises: A Grounded Theoretical Framework and an Overview}
-      \field{volume}{21}
-      \field{year}{2004}
+      \field{booktitle}{The {{Eclectic Paradigm}}}
+      \field{shorttitle}{The Eclectic Paradigm of International Production}
+      \field{title}{The Eclectic Paradigm of International Production: A Restatement and Some Possible Extensions}
+      \field{year}{2015}
       \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 21}
-      \range{pages}{21}
+      \field{pages}{50\bibrangedash 84}
+      \range{pages}{35}
       \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/GZUTWKXP/j.1936-4490.2004.tb00319.html
+      \verb /Users/davidohayon/Zotero/storage/6Q7V7DAZ/Dunning - 2015 - The eclectic paradigm of international production.pdf;/Users/davidohayon/Zotero/storage/C85EAU8I/978-1-137-54471-1_3.html
       \endverb
     \endentry
     \entry{fangParachutingInternationalizationStudy2017}{article}{}
@@ -858,39 +779,6 @@
       \field{dateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/8CE6EZ29/Fang et al. - 2017 - Parachuting internationalization a study of four .pdf;/Users/davidohayon/Zotero/storage/D6MVVQ6P/html.html
-      \endverb
-    \endentry
-    \entry{fishbeinBeliefAttitudeIntention1977}{article}{}
-      \name{author}{2}{}{%
-        {{hash=9f7d574254341597b436c1288e4d2976}{%
-           family={Fishbein},
-           familyi={F\bibinitperiod},
-           given={Martin},
-           giveni={M\bibinitperiod}}}%
-        {{hash=12c8413725b85ed91ef550e3139d6e1e}{%
-           family={Ajzen},
-           familyi={A\bibinitperiod},
-           given={Icek},
-           giveni={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{646828e575b3af49f06d104e381870ae}
-      \strng{fullhash}{4bc61f0e814bf98ea4eaeda0fa2a1313}
-      \strng{bibnamehash}{4bc61f0e814bf98ea4eaeda0fa2a1313}
-      \strng{authorbibnamehash}{4bc61f0e814bf98ea4eaeda0fa2a1313}
-      \strng{authornamehash}{646828e575b3af49f06d104e381870ae}
-      \strng{authorfullhash}{4bc61f0e814bf98ea4eaeda0fa2a1313}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Belief, Attitude, Intention, and Behavior}
-      \field{title}{Belief, Attitude, Intention, and Behavior: {{An}} Introduction to Theory and Research}
-      \field{year}{1977}
-      \field{dateera}{ce}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/MFHKE8AN/Fishbein and Ajzen - 1977 - Belief, attitude, intention, and behavior An intr.pdf
       \endverb
     \endentry
     \entry{fletcherInternationalEntrepreneurshipBorn2011}{article}{}
@@ -967,6 +855,34 @@
       \range{pages}{15}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/HI45FEA9/art00001.html
+      \endverb
+    \endentry
+    \entry{hannounInternationalisationFinancialServices2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b92fa0cf316a4f5ac9f04b9ba1b3995}{%
+           family={Hannoun},
+           familyi={H\bibinitperiod},
+           given={Hervé},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \strng{fullhash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \strng{bibnamehash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \strng{authorbibnamehash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \strng{authornamehash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \strng{authorfullhash}{3b92fa0cf316a4f5ac9f04b9ba1b3995}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Internationalisation of Financial Services}
+      \field{title}{Internationalisation of Financial Services: Implications and Challenges for Central Banks}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/58RXY5JD/sp060304.html
       \endverb
     \endentry
     \entry{hartDoingLiteratureReview1998}{article}{}
@@ -1616,6 +1532,44 @@
       \verb /Users/davidohayon/Zotero/storage/BWPJZZ4P/Oviatt and McDougall - 1994 - Toward a theory of international new ventures.pdf;/Users/davidohayon/Zotero/storage/SQTW6KSP/palgrave.jibs.html
       \endverb
     \endentry
+    \entry{parasuramanMarketingServingCustomers2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=983b9dc3e8c283a3c52c0956f96088ec}{%
+           family={Parasuraman},
+           familyi={P\bibinitperiod},
+           given={Arun},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8dce2f5e5fed0c512ba6087a40d53f66}{%
+           family={Zinkhan},
+           familyi={Z\bibinitperiod},
+           given={George\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0444d2f8f329d5f68ccb5cb3697449d}
+      \strng{fullhash}{cd812f18e98d0897a980c1a0c8eee6f8}
+      \strng{bibnamehash}{cd812f18e98d0897a980c1a0c8eee6f8}
+      \strng{authorbibnamehash}{cd812f18e98d0897a980c1a0c8eee6f8}
+      \strng{authornamehash}{b0444d2f8f329d5f68ccb5cb3697449d}
+      \strng{authorfullhash}{cd812f18e98d0897a980c1a0c8eee6f8}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Journal of the academy of marketing science}
+      \field{number}{4}
+      \field{shorttitle}{Marketing to and Serving Customers through the {{Internet}}}
+      \field{title}{Marketing to and Serving Customers through the {{Internet}}: {{An}} Overview and Research Agenda}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{pages}{286\bibrangedash 295}
+      \range{pages}{10}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/THZZ4EYK/Parasuraman and Zinkhan - 2002 - Marketing to and serving customers through the Int.pdf
+      \endverb
+    \endentry
     \entry{penroseTheoryGrowthFirm2009}{book}{}
       \name{author}{2}{}{%
         {{hash=10cd4ec7ed3baa917d9be6f8fde1d0cb}{%
@@ -1911,47 +1865,6 @@
       \verb /Users/davidohayon/Zotero/storage/26P9LK2F/Ruzzier et al. - 2006 - The resource-based approach to the internationalis.pdf;/Users/davidohayon/Zotero/storage/2C4GHNYU/index.html
       \endverb
     \endentry
-    \entry{shapiroInformationRulesStrategic1998}{book}{}
-      \name{author}{3}{}{%
-        {{hash=6340b85ec1efcd67833befbb9a1ff577}{%
-           family={Shapiro},
-           familyi={S\bibinitperiod},
-           given={Carl},
-           giveni={C\bibinitperiod}}}%
-        {{hash=c9c107c4bf050502e2de63589b0b6555}{%
-           family={Carl},
-           familyi={C\bibinitperiod},
-           given={Shapiro},
-           giveni={S\bibinitperiod}}}%
-        {{hash=affde3c8d511e90b7126c60a56e7ab49}{%
-           family={Varian},
-           familyi={V\bibinitperiod},
-           given={Hal\bibnamedelima R.},
-           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Press}%
-      }
-      \strng{namehash}{bafbbe1782794800a9e3b72f4562c692}
-      \strng{fullhash}{c3697510053f80f2e46a3333fc020a86}
-      \strng{bibnamehash}{c3697510053f80f2e46a3333fc020a86}
-      \strng{authorbibnamehash}{c3697510053f80f2e46a3333fc020a86}
-      \strng{authornamehash}{bafbbe1782794800a9e3b72f4562c692}
-      \strng{authorfullhash}{c3697510053f80f2e46a3333fc020a86}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{shorttitle}{Information Rules}
-      \field{title}{Information Rules: A Strategic Guide to the Network Economy}
-      \field{year}{1998}
-      \field{dateera}{ce}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/Y5TC4GAH/Shapiro et al. - 1998 - Information rules a strategic guide to the networ.pdf;/Users/davidohayon/Zotero/storage/68UBHWHT/books.html
-      \endverb
-    \endentry
     \entry{shneorInternetenabledInternationalizationProcess2008}{article}{}
       \name{author}{2}{}{%
         {{hash=a0576f2fb7b9740739b7c3ac43edafa1}{%
@@ -1988,6 +1901,54 @@
       \range{pages}{8}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/KFC4QWIV/papers.html
+      \endverb
+    \endentry
+    \entry{sinkovicsEmployingInformationCommunication2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c5a7162765954e43c5a672d37da1c4d9}{%
+           family={Sinkovics},
+           familyi={S\bibinitperiod},
+           given={Rudolf\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8a1ce4c90f69c99aec6e00f80e4a8089}{%
+           family={Salzberger},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=30e5af45eb7ca3ea54ec5cb42d54ed03}{%
+           family={Loane},
+           familyi={L\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a2646dec00d572ac00c31cc0f8f943ab}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a4f09f7847e3f653673fef70c65b05ba}{%
+           family={McNaughton},
+           familyi={M\bibinitperiod},
+           given={Rod},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e467186b6fc28d51c74d200e4112bc9a}
+      \strng{fullhash}{da48bf7622d70e7caea5b7d97d074d45}
+      \strng{bibnamehash}{e467186b6fc28d51c74d200e4112bc9a}
+      \strng{authorbibnamehash}{e467186b6fc28d51c74d200e4112bc9a}
+      \strng{authornamehash}{e467186b6fc28d51c74d200e4112bc9a}
+      \strng{authorfullhash}{da48bf7622d70e7caea5b7d97d074d45}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Marketing Review}
+      \field{title}{Employing Information Communication Technologies to Enhance Qualitative International Marketing Enquiry}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/SEMVESAH/html.html
       \endverb
     \endentry
     \entry{slagerInternationalizationBanksStrategic2005}{book}{}
@@ -2307,10 +2268,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Dunning_moremore}
-  \missing{eclectic_paradigm_dunning}
-  \missing{eclectic_paradigm_dunning_extension}
-  \missing{shapiroInformationRulesStrategic1998a}
 \endrefsection
 \endinput
 

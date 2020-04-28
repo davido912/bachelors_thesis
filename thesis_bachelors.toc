@@ -2,48 +2,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}The Fintech Industry}{2}% 
+\contentsline {section}{\numberline {2}Literature Review}{3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Literature Review}{4}% 
+\contentsline {subsection}{\numberline {2.1}Previous Studies in the field of Internationalisation}{3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Previous Studies in the field of Internationalisation}{4}% 
+\contentsline {subsection}{\numberline {2.2}Theoretical Framework}{6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Theoretical Framework}{8}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Uppsala Model of Internationalisation}{7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Uppsala Model of Internationalisation}{8}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Born Globals}{10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Born Globals}{12}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Dunning's Eclectic Paradigm}{12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}Dunning's Eclectic Paradigm}{13}% 
+\contentsline {subsubsection}{\numberline {2.2.4}The Resource Based View}{14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.4}The Resource Based View}{16}% 
+\contentsline {section}{\numberline {3}Methodology}{16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Methodology}{18}% 
+\contentsline {subsection}{\numberline {3.1}Research Approach}{17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Research Approach}{19}% 
+\contentsline {subsection}{\numberline {3.2}Research Design}{17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Research Design}{20}% 
+\contentsline {subsection}{\numberline {3.3}Data Collection}{19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Data Collection}{21}% 
+\contentsline {subsection}{\numberline {3.4}Data Analysis}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Limitations and Constraints}{22}% 
+\contentsline {section}{\numberline {4}Empirical Findings}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Empirical Findings}{22}% 
+\contentsline {subsection}{\numberline {4.1}Deutsche Bank AG}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}Deutsche Bank AG}{22}% 
+\contentsline {subsection}{\numberline {4.2}Company X}{22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Company X}{24}% 
+\contentsline {section}{\numberline {5}Comparison of Findings}{25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Comparison of Findings}{27}% 
+\contentsline {subsection}{\numberline {5.1}Internationalisation Drivers}{25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Internationalisation Drivers}{27}% 
+\contentsline {subsection}{\numberline {5.2}Internationalisation Strategy}{27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Internationalisation Strategy}{29}% 
+\contentsline {subsection}{\numberline {5.3}Internationalisation Barriers}{29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Internationalisation Barriers}{31}% 
+\contentsline {section}{\numberline {6}Limitations and Further Research}{32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}The E-Market Environment}{34}% 
+\contentsline {section}{\numberline {7}Conclusion}{32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Conclusion and Key Takeaways}{36}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{37}% 
+\contentsline {section}{References}{33}% 
