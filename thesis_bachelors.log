@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  28 APR 2020 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  1 MAY 2020 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -974,7 +974,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-[19] [20]
+[19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
@@ -982,63 +985,69 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/fig_db_internationalisation.png Graphic file (type png)
 <use figures/fig_db_internationalisation.png>
 Package pdftex.def Info: figures/fig_db_internationalisation.png  used on input
- line 506.
+ line 501.
 (pdftex.def)             Requested size: 256.0748pt x 161.9108pt.
 
-[22 <./figures/fig_db_internationalisation.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-<figures/fig_partner_dist.png, id=108, 840.13875pt x 640.3925pt>
+ [22]
+[23 <./figures/fig_db_internationalisation.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+<figures/fig_partner_dist.png, id=111, 840.13875pt x 640.3925pt>
 File: figures/fig_partner_dist.png Graphic file (type png)
 <use figures/fig_partner_dist.png>
-Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 532.
+Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 527.
 (pdftex.def)             Requested size: 256.0748pt x 195.1875pt.
 
-Underfull \vbox (badness 1112) has occurred while \output is active []
-
- [24 <./figures/fig_partner_dist.png>] [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [25 <./figures/fig_partner_dist.png>]
+Underfull \vbox (badness 1360) has occurred while \output is active []
+
  [26]
-[27]
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 592--603
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+[28]
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 587--598
  [][] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2103) has occurred while \output is active []
 
- [28]
-[29]
+ [29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
-[31] [32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 692--692
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+ [31]
+[32]
+Underfull \vbox (badness 2617) has occurred while \output is active []
+
+ [33]
+[34] [35]
+Underfull \hbox (badness 10000) in paragraph at lines 705--705
 [][]\OT1/cmr/m/n/10.95 Fletcher, Mar-garet, Sharon Loane, and Svante An-der-s-s
 on (2011). \  In-ter-na-tional
  []
 
-[34]
-Underfull \hbox (badness 1859) in paragraph at lines 692--692
+[36]
+Underfull \hbox (badness 1859) in paragraph at lines 705--705
 \OT1/cmr/m/n/10.95 Ex-pe-ri-ence and Ex-port In-ten-sity in SMEs: A Lon-gi-tu-d
 i-nal Ap-proach to Com-plex
  []
 
-
-Underfull \hbox (badness 1454) in paragraph at lines 692--692
-[][]\OT1/cmr/m/n/10.95 McCarthy, Niall (2019). \OT1/cmr/m/it/10.95 Amer-i-cans 
-Trust Tech Firms More Than Banks For Fi-nance
- []
-
-[35]
-Underfull \hbox (badness 2617) in paragraph at lines 692--692
+[37]
+Underfull \hbox (badness 2617) in paragraph at lines 705--705
 [][]\OT1/cmr/m/n/10.95 Porter, M. E. (1980). \OT1/cmr/m/it/10.95 Com-pet-i-tive
  Strat-egy: Tech-niques for An-a-lyz-ing In-dus-tries and
  []
 
-[36] [37]
+[38] [39]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1083,15 +1092,15 @@ Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 550 ({)
+### simple group (level 3) entered at line 545 ({)
 ### simple group (level 2) entered at line 332 ({)
 ### simple group (level 1) entered at line 290 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16191 strings out of 492616
- 277046 string characters out of 6129481
- 729962 words of memory out of 5000000
- 19869 multiletter control sequences out of 15000+600000
+ 16209 strings out of 492616
+ 277387 string characters out of 6129481
+ 730853 words of memory out of 5000000
+ 19887 multiletter control sequences out of 15000+600000
  11490 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,11n,78p,1617b,1674s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1107,10 +1116,10 @@ mr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 .pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on thesis_bachelors.pdf (41 pages, 826783 bytes).
+Output written on thesis_bachelors.pdf (43 pages, 832550 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 202 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

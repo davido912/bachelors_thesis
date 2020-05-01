@@ -424,6 +424,39 @@
       \endverb
       \keyw{Consumer behaviour,Cross‐cultural studies,Customer relations,Electronic commerce,Relationship marketing}
     \endentry
+    \entry{cooperBusinessResearchMethods2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ba7a60b961ed974bdf85a5ba85944913}{%
+           family={Cooper},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=23888cec8cf955633796a1f32d6da407}{%
+           family={Schindler},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The McGraw- Hill Companies}%
+      }
+      \strng{namehash}{034b42ada1e9000712da041fbdd5aa6b}
+      \strng{fullhash}{1400f5aa35e35238c020e43a22ffafdf}
+      \strng{bibnamehash}{1400f5aa35e35238c020e43a22ffafdf}
+      \strng{authorbibnamehash}{1400f5aa35e35238c020e43a22ffafdf}
+      \strng{authornamehash}{034b42ada1e9000712da041fbdd5aa6b}
+      \strng{authorfullhash}{1400f5aa35e35238c020e43a22ffafdf}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{12}
+      \field{title}{Business {{Research Methods}}.}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
     \entry{cruzesCaseStudiesSynthesis2015}{article}{}
       \name{author}{4}{}{%
         {{hash=f9821201496583060ea8d9137af0b2cb}{%
@@ -472,7 +505,7 @@
       \verb /Users/davidohayon/Zotero/storage/FBG4T7IP/Cruzes et al. - 2015 - Case studies synthesis a thematic, cross-case, an.pdf;/Users/davidohayon/Zotero/storage/G2ZUHVTI/s10664-014-9326-8.html
       \endverb
     \endentry
-    \entry{deutschebankagDeutscheBank1870}{article}{}
+    \entry{deutschebankagDeutscheBank1870}{misc}{}
       \name{author}{1}{}{%
         {{hash=0428ef39b87091d1f2741a0aeee99011}{%
            family={{Deutsche Bank AG}},
@@ -492,8 +525,6 @@
       \field{labeltitlesource}{title}
       \field{langid}{english}
       \field{title}{Deutsche {{Bank}} from 1870 until Today}
-      \field{pages}{11}
-      \range{pages}{1}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/5CVQI4AY/Delbrück - When the idea of founding Deutsche Bank became rea.pdf
       \endverb
@@ -855,6 +886,34 @@
       \range{pages}{15}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/HI45FEA9/art00001.html
+      \endverb
+    \endentry
+    \entry{gustafssonSingleCaseStudies2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=ab8058f6e905792aaf67781417133b07}{%
+           family={Gustafsson},
+           familyi={G\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab8058f6e905792aaf67781417133b07}
+      \strng{fullhash}{ab8058f6e905792aaf67781417133b07}
+      \strng{bibnamehash}{ab8058f6e905792aaf67781417133b07}
+      \strng{authorbibnamehash}{ab8058f6e905792aaf67781417133b07}
+      \strng{authornamehash}{ab8058f6e905792aaf67781417133b07}
+      \strng{authorfullhash}{ab8058f6e905792aaf67781417133b07}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Single Case Studies vs. Multiple Case Studies}
+      \field{title}{Single Case Studies vs. Multiple Case Studies: {{A}} Comparative Study}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/davidohayon/Zotero/storage/FPWPXXN3/Gustafsson - 2017 - Single case studies vs. multiple case studies A c.pdf
       \endverb
     \endentry
     \entry{hannounInternationalisationFinancialServices2006}{article}{}
@@ -1386,45 +1445,6 @@
       \field{dateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/S5BDMBRE/46.html
-      \endverb
-    \endentry
-    \entry{mccarthyAmericansTrustTech}{online}{}
-      \name{author}{1}{}{%
-        {{hash=41733eebee63ca33be086125a920b279}{%
-           family={McCarthy},
-           familyi={M\bibinitperiod},
-           given={Niall},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{41733eebee63ca33be086125a920b279}
-      \strng{fullhash}{41733eebee63ca33be086125a920b279}
-      \strng{bibnamehash}{41733eebee63ca33be086125a920b279}
-      \strng{authorbibnamehash}{41733eebee63ca33be086125a920b279}
-      \strng{authornamehash}{41733eebee63ca33be086125a920b279}
-      \strng{authorfullhash}{41733eebee63ca33be086125a920b279}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Trust levels in American financial institutions have plummeted over the past couple of years with a recent Gallup poll showing that a mere 28 percent of people in the United States have~confidence in the nation's banks. Interestingly, the financial capabilities of America's leading technology companies are now trusted more than [...]}
-      \field{journaltitle}{Forbes}
-      \field{langid}{english}
-      \field{title}{Americans {{Trust Tech Firms More Than Banks For Finance}} [{{Infographic}}]}
-      \field{urlday}{25}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb /Users/davidohayon/Zotero/storage/DP2JL35R/americans-trust-tech-firms-more-than-banks-for-finance-infographic.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.forbes.com/sites/niallmccarthy/2015/06/24/americans-trust-tech-firms-more-than-banks-for-finance-infographic/
-      \endverb
-      \verb{url}
-      \verb https://www.forbes.com/sites/niallmccarthy/2015/06/24/americans-trust-tech-firms-more-than-banks-for-finance-infographic/
       \endverb
     \endentry
     \entry{merriamQualitativeResearchCase1998}{book}{}

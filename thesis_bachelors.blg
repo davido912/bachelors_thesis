@@ -1,17 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'thesis_bachelors.blg'
-[42] biber-darwin:315> INFO - === Tue Apr 28, 2020, 13:48:56
-[77] Biber.pm:371> INFO - Reading 'thesis_bachelors.bcf'
-[196] Biber.pm:889> INFO - Found 61 citekeys in bib section 0
-[209] Biber.pm:4093> INFO - Processing section 0
-[222] Biber.pm:4254> INFO - Looking for bibtex format file 'references.bib' for section 0
-[228] bibtex.pm:1523> INFO - LaTeX decoding ...
-[335] bibtex.pm:1340> INFO - Found BibTeX data source 'references.bib'
-[380] Utils.pm:193> WARN - Entry 'thibodeauTIFirstHandheld2007' (references.bib): Invalid format '2007-09-26T01:00-05:00' of date field 'date' - ignoring
-[679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[679] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[679] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[679] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[744] bbl.pm:636> INFO - Writing 'thesis_bachelors.bbl' with encoding 'UTF-8'
-[765] bbl.pm:739> INFO - Output to thesis_bachelors.bbl
-[766] Biber.pm:110> INFO - WARNINGS: 1
+[40] biber-darwin:315> INFO - === Fri May  1, 2020, 18:11:47
+[69] Biber.pm:371> INFO - Reading 'thesis_bachelors.bcf'
+[190] Biber.pm:889> INFO - Found 62 citekeys in bib section 0
+[203] Biber.pm:4093> INFO - Processing section 0
+[216] Biber.pm:4254> INFO - Looking for bibtex format file 'references.bib' for section 0
+[221] bibtex.pm:1523> INFO - LaTeX decoding ...
+[328] bibtex.pm:1340> INFO - Found BibTeX data source 'references.bib'
+[376] Utils.pm:193> WARN - Entry 'thibodeauTIFirstHandheld2007' (references.bib): Invalid format '2007-09-26T01:00-05:00' of date field 'date' - ignoring
+[680] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[680] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[680] Biber.pm:3921> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[680] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[747] bbl.pm:636> INFO - Writing 'thesis_bachelors.bbl' with encoding 'UTF-8'
+[768] bbl.pm:739> INFO - Output to thesis_bachelors.bbl
+[768] Biber.pm:110> INFO - WARNINGS: 1
