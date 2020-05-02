@@ -28,22 +28,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Empirical Findings}{20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Deutsche Bank AG}{21}% 
+\contentsline {subsection}{\numberline {4.1}Deutsche Bank AG}{20}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Company X}{23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Comparison of Findings}{26}% 
+\contentsline {section}{\numberline {5}Comparison of Findings}{25}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1}Internationalisation Drivers}{26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Internationalisation Strategy}{28}% 
+\contentsline {subsection}{\numberline {5.2}Internationalisation Strategy}{27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Internationalisation Barriers}{30}% 
+\contentsline {subsection}{\numberline {5.3}Internationalisation Barriers}{29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Discussion}{33}% 
+\contentsline {section}{\numberline {6}Discussion}{32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Limitations and Further Research}{34}% 
+\contentsline {section}{\numberline {7}Conclusion}{34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Conclusion}{34}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{References}{35}% 
+\contentsline {section}{References}{36}% 

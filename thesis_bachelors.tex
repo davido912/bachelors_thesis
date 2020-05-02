@@ -37,6 +37,9 @@
 \usepackage{booktabs}
 \usepackage{multirow}
 
+\usepackage{chngcntr}
+\counterwithout{figure}{section}
+
 \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
 
 %RELEVANT PAPERS
@@ -78,6 +81,7 @@
 %----------------------------------------------------------------------------------------------------------- 
 %-------------------------------------------- Title Page -------------------------------------------------
 %-----------------------------------------------------------------------------------------------------------
+
 \begin{titlepage}    
 \begin{center} 
 
@@ -127,6 +131,8 @@ International Business}\\
 %----------------------------------------- Content Pages ----------------------------------------------
 %-----------------------------------------------------------------------------------------------------------
 % format text of content pages 
+\pagenumbering{Roman} 
+\setcounter{page}{2}
 \onehalfspacing
 \setcounter{tocdepth}{4}
 \parindent=0in
@@ -134,7 +140,7 @@ International Business}\\
 \setlength{\belowcaptionskip}{-10pt}
 %\raggedright
 %\parindent=1.5em % for indented paragraphs
-\pagenumbering{Roman} 
+
 
 \newpage
 \tableofcontents
@@ -170,10 +176,13 @@ International Business}\\
 \doublespacing
 \parindent=1cm
 
-%Define E-Commerce according to the paper of working student and 
-%https://s3.amazonaws.com/academia.edu.documents/54636375/Patelli2004.pdf?response-content-disposition=inline%3B%20filename%3DA_research_framework_for_analysing_eBusi.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200223T140357Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=70d6a4a6c5c2ba13c9f8bf7beed4239e635b1be861d9a19d096fa20f057ede01
+
+
 \section{Introduction}
 \label{intro}
+
+%remove double spacing after period punctuation. 
+\frenchspacing
 \noindent{The process of internationalisation is a complex construct that has been studied for almost a century and can be traced back to theories that are still used and applied up to this very day. Over the past couple of decades, with the onset of globalisation and the development of the internet, businesses all over the world laid their eyes on the international arena for expanding beyond their domestic markets. }\par
 Unlike the manufacturing sector where the pace of internationalisation was rapid, the service sector, in particular financial services, remained a couple of steps behind. However, in recent decades, foreign operations and foreign market entries of the financial sector have significantly accelerated (\cite{hannounInternationalisationFinancialServices2006}). Accordingly, with the financial sector lagging behind in terms of global development, so did the studies attempting to observe its internationalisation behaviour. In contrast to that, manufacturing companies have been widely researched and a variety of models (\cite{dunningEclecticTheoryInternational1980}, \citeyear{dunningEclecticParadigmEnvelope2000}; \cite{johansonInternationalizationProcessFirm1977}, \citeyear{johansonUppsalaInternationalizationProcess2009}; \cite{rennieGlobalCompetitivenessBorn1993}) have been developed to describe how these companies expand and what determines their success. \par
 Due to the use of internet technologies, a phenomenon referred to as FinTech emerged among the firms operating in the financial sector. FinTech, short for Financial Technology, describes the use of technology in the financial sector in order to provide applied financial solutions. \citeauthor{buckleyEvolutionFintechNew2016} (\citeyear{buckleyEvolutionFintechNew2016}) define three key periods in the evolution of FinTech: Fintech 1.0, FinTech 2.0 and FinTech 3.0.\par
@@ -197,14 +206,15 @@ Due to the financial crisis, the trust populations had in the banking system beg
 %\section{Previous Studies of Internationalisation}
 \section{Literature Review}
 \label{lit_review}
-  \vspace{-5mm}
+  \vspace{-1mm}
 \noindent{Exploring existing approaches or seeking newer directions of inquiry are among the reasons of why  literature can assist to improve, shape and give form to a research topic in mind. Rowley and Slack (\citeyear{rowleyConductingLiteratureReview2004}) argue that such reviews play a meaningful role in the identification of relevant literature to the research in question, while giving it context or seeking ways to provide added value. Additional aspects include constructing a better understanding of theories, concepts and terminology.}\par 
 Hart (\citeyear{hartDoingLiteratureReview1998}) contributes further benefits, among them are shedding light on any significant variables that may provide additional understanding to the topic while attempting to relate certain concepts, ideas and theory to applications. Therefore, this chapter will explore previous studies in the field of internationalisation in regard to EBCs and traditional theories in the field, while putting emphasis on assumptions, conclusions and key points.
 
+  \vspace{-3mm}
 
 \subsection{Previous Studies in the field of Internationalisation}
 \label{prev_studies}
-  \vspace{-5mm}
+  \vspace{-1mm}
 \noindent{Considerable amount of existing research demonstrates the benefits derived from using the internet as an enabler for breaking barriers previously set on the internationalisation borders (\cite{chaiAncientModernCross2004}; \cite{shneorInternetenabledInternationalizationProcess2008}; \cite{areniusRapidInternationalisationEnabled2005}). %borders is right to use as a term here?
 An exploratory research by Loane and Bell (\citeyear{loaneCrossnationalComparisonInternationalisation2002}) was set to inspect the internationalisation process of EBCs originating in New Zealand, Australia and the European Union. Eight firms were chosen and demographically analysed using measures including firm age, firm size, number of founders and the personal relationship between them (close family or not) and the speed in which those firms internationalised in terms of time. Many if not most of the case firms in the aforementioned research have undergone a rapid internationalisation, if not from their inception, in order to gain a competitive advantage. It was revealed that the case firms have used the means of internet technology across the organisation's departments and as a sales channel for their products; thus they have set themselves on the international stage in ways never possible pre-internet era, as "The 'old' rules of business are not obsolete for internet-enabled firms" (\cite{loaneCrossnationalComparisonInternationalisation2002}, p.1965).}   \par 
 %THIS CITATION OF FANG IS WRONG FIX IT 
@@ -256,20 +266,22 @@ Cultural Differences & \cite{loaneCrossnationalComparisonInternationalisation200
 \end{table} 
 
 
+\vspace{2mm}
 \subsection{Theoretical Framework}
-  \vspace{-3mm}
+  \vspace{-1mm}
 
 \noindent{Review of literature covered in the previous part of this dissertation and other academical work imply that while internationalisation belongs to a broad scope of research fields, they are mostly based on predominant theories in the field. Each of these theories attempts to explain why and how firms expand and engage in activities overseas.} \par 
 Through the exploration of these academical works and theories, a set of factors that impact the internationalisation process will be noted in order to better understand how these approaches attempt to explain and illustrate the internationalisation construct. This will assist in consolidating information scattered across the vast variety of existing research, while gaining insight leading to the clarification of the research question this paper deals with. 
-
+\newpage
 \subsubsection{Uppsala Model of Internationalisation}
 \label{uppsala_frame}
-
+  \vspace{-1mm}
 \noindent{Empirical studies involving Swedish firms and the observation of their international development have laid the grounds for the emergence of this theory. The Uppsala model of internationalisation describes the process in which firms incrementally increase foreign market commitment by using and integrating acquired knowledge in a way that shapes the way they internationalise. This behavioural approach was first brought to light by Johanson and Valhne (\citeyear{johansonInternationalizationProcessFirm1977}), and was consequently integrated in many other theoretical frameworks of internationalisation. }\par
 In their study, Johanson and Valhne (\citeyear{johansonInternationalizationProcessFirm1977}) describe the process and order in which several Swedish firms proceeded in the expansion of their business abroad. The behaviour, as previously indicated, was seen to be as one of an iterative nature, where the companies in question had enacted in actions and initiatives that further increased their commitment to target markets of interest. For example, one of the firms mentioned, a firm dealing in the pharmaceutical industry and operating in nine different countries, seemed to follow a certain pattern in which it would gradually further extend its reach and operations. Among these operations, it was said the firm had received orders from the foreign markets, and after some time and sense of establishment, continued to make agreements with agents and brokers, up until commencing in actual manufacturing activities, and thus further committing to the target markets. The Uppsala model sets a clear target: to find explanation behind the iterative pattern of firms. \par
 The model uses four core concepts: market commitment, market knowledge, current activities and commitment decisions. These core concepts are further categorised into two groups, one being state aspects, while the other is change aspects. \par
 State aspects include market commitment and market knowledge, these are naturally temporary, while change aspects include commitment decisions and current activities. However, they are not to be regarded separately as they both influence each other and as explicitly stated by Johanson and Valhne (\citeyear{johansonInternationalizationProcessFirm1977}, p.27): "Market knowledge and market commitment are assumed to affect both commitment decisions and
-the way current activities are performed. These in turn change knowledge and commitment". This statement enhances how these core concepts are interlinked and how one concept affects the other and is also affected by it.  The following figure is a depiction of this mechanism: \\
+the way current activities are performed. These in turn change knowledge and commitment". This statement enhances how these core concepts are interlinked and how one concept affects the other and is also affected by it.  The following figure is a depiction of this mechanism: 
+\newpage
 
 
 \begin{figure}[H]
@@ -312,10 +324,11 @@ The following table consolidates the core influential factors in a firm's intern
 \label{table:uppsala_factors}
 \end{table} 
 
-  \vspace{5mm}
+  \vspace{2mm}
 \subsubsection{Born Globals}
+  \vspace{-1mm}
 \label{born_global_th}
-The Born Globals (BG) model of internationalisation (\cite{rennieGlobalCompetitivenessBorn1993}) comes from a similar stream to the one the Uppsala model belongs to. However, whereas the Uppsala model sees internationalisation as an incremental and time consuming process enveloped by learning and skill development, the BG model notes exceptional cases where firms aim internationally and globally from their inception. Furthermore, the approach had been explored extensively in several different studies (\cite{madsenInternationalizationBornGlobals1997}; \cite{knightBornGlobalFirm1996}) and accordingly, the studies conclude the most common and relevant factors that give rise to the emergence of BG firms and the existence of this phenomenon. Among these factors are: market conditions, development of technology, global networks and partnerships, and the capabilities of people, which includes the managerial approach of the founders. The following figure illustrates the conceptual framework of the BG approach:\par
+\noindent{The Born Globals (BG) model of internationalisation (\cite{rennieGlobalCompetitivenessBorn1993}) comes from a similar stream to the one the Uppsala model belongs to. However, whereas the Uppsala model sees internationalisation as an incremental and time consuming process enveloped by learning and skill development, the BG model notes exceptional cases where firms aim internationally and globally from their inception. Furthermore, the approach had been explored extensively in several different studies (\cite{madsenInternationalizationBornGlobals1997}; \cite{knightBornGlobalFirm1996}) and accordingly, the studies conclude the most common and relevant factors that give rise to the emergence of BG firms and the existence of this phenomenon. Among these factors are: market conditions, development of technology, global networks and partnerships, and the capabilities of people, which includes the managerial approach of the founders. The following figure illustrates the conceptual framework of the BG approach:}\par
 \newpage
 
   \vspace{5mm}
@@ -333,13 +346,13 @@ The Born Globals (BG) model of internationalisation (\cite{rennieGlobalCompetiti
 \textit{Technology Development} is deemed to be a major key factor rooted in the BG theory as it is what actually kickstarts the companies into internationalisation faster and easier. It is therefore not surprising, that a large portion of current literature dealing with born global firms focuses on technology-intensive corporations, as the use of technology broke down barriers and reduced communication costs, in such way that the ability to discover and take advantage of business opportunities in a variety of countries is enhanced (\cite{oviattTheoryInternationalNew1994}; \cite{knightInternationalizationIncrementalBorn2016}). \par
 \textit{Global Networks} are used by rapidly growing BG firms and are referred to as partners, distributors or the internet itself, to achieve wider reach and easier internationalisation. This part of the BG theory puts emphasis on how the relationships a firm or the founders can create, or are available, play an important role and are vital for international endeavours (\cite{fletcherInternationalEntrepreneurshipBorn2011}). \par
 \textit{Capabilities} are described as the ability of people to take advantage of opportunities to foster and drive internationalisation. In recent years, people have gained significant experience in the international arena due to travelling becoming easier and technology connecting people across countries; thus, this results in competence to operate and handle oneself in foreign situations. These capabilities also include those of the founders of the firm, and due to these competences being attained easier in comparison to the past, managers tend to look outwards in terms of business, and perceive the world as the marketplace, instead of remaining in their domicile (\cite{madsenInternationalizationBornGlobals1997}; \cite{rialpBornglobalPhenomenonComparative2005}). \par
-To conclude, Born Globals is a relatively young theory in comparison to other internationalisation theories. It is, however, important to note, that this approach describes a phenomenon becoming common over the last couple of decades due to the onset of modernisation and technological advancement. Therefore, it can assist in explaining the internationalisation behaviour of firms characterised with heavy use of technology and the internet itself as a channel. 
+To conclude, Born Globals is a relatively young theory in comparison to other internationalisation theories. It is, however, important to note, that this approach describes a phenomenon becoming common over the last couple of decades due to the onset of modernisation and technological advancement. Therefore, it can assist in explaining the internationalisation behaviour of firms characterised with heavy use of technology and the internet itself as a channel.  
 
-
-
+\vspace{-2mm}
 \subsubsection{Dunning's Eclectic Paradigm}
-The eclectic approach first rose to awareness in 1976 by Dunning (\citeyear{dunningEclecticParadigmInternational2015}), who defines the functionality of enterprises as an entity that is supposed, by nature, to transform through production, inputs to outputs, while granting those outputs an added value in comparison to their previous form. \par
-Also referred to as the ownership, location and internalisation (OLI) approach (\cite{dunningEclecticTheoryInternational1980}), this theoretical work came to life in order to examine the international production of a firm and its determinants. The eclectic paradigm attempts to give reason and evaluate variables that shape a firm's production and its growth in external markets; it does so by dividing it into three different categories: ownership (O), location (L) and internalisation (I) advantages. Dunning uses these three independent variables as a basis leading to a firm entering a new market. \par
+\vspace{-2mm}
+\noindent{The eclectic approach first rose to awareness in 1976 by Dunning (\citeyear{dunningEclecticParadigmInternational2015}), who defines the functionality of enterprises as an entity that is supposed, by nature, to transform through production, inputs to outputs, while granting those outputs an added value in comparison to their previous form. \par
+Also referred to as the ownership, location and internalisation (OLI) approach (\cite{dunningEclecticTheoryInternational1980}), this theoretical work came to life in order to examine the international production of a firm and its determinants. The eclectic paradigm attempts to give reason and evaluate variables that shape a firm's production and its growth in external markets; it does so by dividing it into three different categories: ownership (O), location (L) and internalisation (I) advantages. Dunning uses these three independent variables as a basis leading to a firm entering a new market.} \par
 For a firm to be able to competitively produce alongside firms domiciled in target markets, it must possess ownership advantages in a satisfactory degree to breakeven the costs linked with entering a foreign market. In other words, ownership advantages can award a firm with competitive advantage over other local firms and potential entrants. In order for a firm to unlock these benefits, it must have access to both tangible and intangible assets, that other players in the target market do not have.  \par
 Location advantages speak of benefits that can be obtained by the process of a firm positioning its production or segments of it in foreign locations. Furthermore, these benefits are location specific, hence, they cannot be transferred (i.e. different legislation in comparison to home country that contributes to lower costs and access to natural resources). \par
 The third and last advantage Dunning speaks of is internalisation advantage. Unlocking these advantages is a result of a situation where there are more benefits to be reaped by the retention of specific skills, assets or production driving mechanisms. Internalisation is an additional way to reduce operational costs including transaction and transportation costs. \par
@@ -393,7 +406,8 @@ According to Dunning, each and one of these advantages, when fulfilled, will lea
 
 
 \subsubsection{The Resource Based View}
-The Resource Based View (RBV) approach was born out of the need to explain the successful internationalisation of a firm. The theory argues that a firm's competitive advantage is derived of the resources a firm controls, that are available to it and those which are "valuable, rare, imperfectly imitable, and not substitutable" (\cite{barneyResourcebasedViewFirm2001}, p.625). Resources are further defined as all "assets, capabilities, organisation processes, firm attributes, information, knowledge" (\cite{barneyFirmResourcesSustained1991}, p.101) that a firm possesses and are used in the development of a value generating strategy assisting the firm in improving its efficiency and effectiveness.  \par 
+\vspace{-1mm}
+\noindent{The Resource Based View (RBV) approach was born out of the need to explain the successful internationalisation of a firm. The theory argues that a firm's competitive advantage is derived of the resources a firm controls, that are available to it and those which are "valuable, rare, imperfectly imitable, and not substitutable" (\cite{barneyResourcebasedViewFirm2001}, p.625). Resources are further defined as all "assets, capabilities, organisation processes, firm attributes, information, knowledge" (\cite{barneyFirmResourcesSustained1991}, p.101) that a firm possesses and are used in the development of a value generating strategy assisting the firm in improving its efficiency and effectiveness. } \par 
 Penrose's (\citeyear{penroseTheoryGrowthFirm2009}) work had a direct impact on the theory of RBV.  Penrose provided theories covering the effective management of a firm's resources and suggesting that a diversified portfolio of resources (e.g. brand, capital) assists in achieving competitive advantage. In other words, firms within an industry can obtain competitive advantage due to the unique resources they own, however, it is not only the sole fact of ownership of the resources that grants a company with competitive benefits, but the efficient usage of them. \par
 Firms pursuing the international path need to evaluate whether their competitive advantage or advantages, can be placed or used in foreign markets in a way that sets them in a stronger position than other players in the market. \par
 Unlike other theories dealing with internationalisation, RBV sets its eye on internal factors rather than taking into account the interplay of both internal and external factors. More specifically explained, a company should use its internal strengths to respond appropriately to opportunities and threats (\cite{barneyFirmResourcesSustained1991}). The following figure illustrates the core concept of this theory and how it is distinguished in terms of internal and external factors: \\
@@ -418,7 +432,8 @@ RBV does not directly link the type of resource used to a specific entry mode ch
 % MAYBE WRITE MORE
 
 \section{Methodology}
-This chapter will outline the strategy and approach employed throughout the research, while pointing out how the data was collected and its nature. The following figure depicts a flowchart demonstrating the implementation of this research:
+\vspace{-2mm}
+\noindent{This chapter will outline the strategy and approach employed throughout the research, while pointing out how the data was collected and its nature. The following figure depicts a flowchart demonstrating the implementation of this research:}
 
 \begin{figure}[H]
 	\centering
@@ -434,7 +449,7 @@ As seen in figure \ref{fig:research_plan}, the author of this dissertation devel
 
 
 \subsection{Research Approach} % file:///Users/davidohayon/Downloads/Baxter_QualCaseStudyMethod%20(1).pdf
-The field of internationalisation is very broad and heavily researched in terms of traditional companies. However, this dissertation's research question deals with E-Business companies in the FinTech industry, and there seems to be a research gap when trying to compile all of these factors together. There are established studies dealing with the internationalisation of traditional companies in the financial sector and how these take place, but as covered in chapter \ref{prev_studies}, not many have investigated the internationalisation process of EBCs in the FinTech industry. \par
+\noindent{The field of internationalisation is very broad and heavily researched in terms of traditional companies. However, this dissertation's research question deals with E-Business companies in the FinTech industry, and there seems to be a research gap when trying to compile all of these factors together. There are established studies dealing with the internationalisation of traditional companies in the financial sector and how these take place, but as covered in chapter \ref{prev_studies}, not many have investigated the internationalisation process of EBCs in the FinTech industry.} \par
 %I THINK I SHOULD WRITE MORE ABOUT ABDUCTIVE APPROACH BEING STARTING WITH PUZZLES
 This dissertation employs a qualitative and exploratory type of research. Due to the nature of this field and the vast volume of academic literature it is possible to draw conclusions by using theoretical frameworks. Qualitative research holds a significant meaning in the field of international business (\cite{dozQualitativeResearchInternational2011}) as it is a part of theory development. Furthermore, this work, by its very nature, is abductive, as it attempts to reach a possible prediction while using observations. In doing so, it allows building on existing academical work, when relevant, and can be applied while consolidating several concepts that were never consolidated in the past. This can result in providing added value and generating new findings. \par %(explain abductive?)
 According to the research question this dissertation deals with, there are two aspects the research approach takes into consideration:
@@ -451,12 +466,12 @@ According to the research question this dissertation deals with, there are two a
 %binding the case by period of time until internationalisation and only a little after to actually understand the internationalisation process and be able to draw conclusions
 
 \subsection{Research Design}
-In order to better understand how do EBCs internationalise and in what way this differs, a qualitative case study approach was the most suitable way of investigating this phenomenon. A qualitative case study, assists in exploring a phenomenon by using a collection of data sources. This approach is of great advantage due to the fact that by doing so, the issue at hand is explored in more than one aspect and is viewed from many different angles. Moreover, it allows the phenomenon in being better understood (\cite{baxterQualitativeCaseStudy2008}) while pointing out gaps in applied theories, with the end goal of enhancing theoretical explanations (\cite{ridderCaseStudyResearch2019}). \par
+\vspace{-1mm}
+\noindent{In order to better understand how do EBCs internationalise and in what way this differs, a qualitative case study approach was the most suitable way of investigating this phenomenon. A qualitative case study, assists in exploring a phenomenon by using a collection of data sources. This approach is of great advantage due to the fact that by doing so, the issue at hand is explored in more than one aspect and is viewed from many different angles. Moreover, it allows the phenomenon in being better understood (\cite{baxterQualitativeCaseStudy2008}) while pointing out gaps in applied theories, with the end goal of enhancing theoretical explanations (\cite{ridderCaseStudyResearch2019}). }\par
 Three prominent frameworks of conducting a case study exist: the Yinian (\citeyear{yinCaseStudyResearch2017}), Stakian (\citeyear{stakeArtCaseStudy1995}) and Merriamian (\citeyear{merriamQualitativeResearchCase1998}) approaches. All of the approaches seek to provide a good coverage in terms of exploration and revelation of the phenomenon in question. However, each of the authors use different frameworks and definitions for a case study execution. \par 
 The approach chosen for the scope of this paper is the Yinian approach. According to Yin (\citeyear{yinCaseStudyResearch2017}), a case study is an empirical method that should be conducted when either of the following criteria are applicable: a study attempts to answer "how" and "why" questions; the researcher shouldn't be able to manipulate the relevant behaviour of events; the researcher wants to cover contextual conditions believed to be relevant to a phenomenon in question; or when the boundaries between phenomenon and context are not clear. The last two points are further simplified by Yin and are explained that a case study would be relevant in those cases where a real-world phenomenon is to be understood, and this understanding involves contextual factors pertinent to the case. \par
 This study deals with a "how" question and the relevant behaviour of events cannot be manipulated, as the case will observe the behaviours of firms using historical and current data in sequential and chronological order to derive patterns, behaviours and differences. Additionally, the research question deals with a real-world internationalisation behaviour of EBCs and traditional companies dealing in the financial sector, therefore, contextual relationship exists and further validates that this research stands in line with the conditions required to conduct a case study. \par
 Yin (\citeyear{yinCaseStudyResearch2017}) distinguishes between various types of case studies. As this research attempts to point out differences or similarities in internationalisation behaviour of firms, the type of case study chosen to be used in this thesis is multiple-case studies. This type of case design enables to explore differences and draw comparisons between cases. In addition, Yin (ibid) describes different ways, according to which, a case study can be structured. The structure chosen for this study is a chronological structure. Therefore, the case will cover events in the order in which they had happened.  \par
-%STUDIED TIMEFRAME?
 
 %What is the studied timeframe? Why?\\ % around the time of internationalisation to show how back then before technology was introduced it took longer to internationalise
 The Yinnian (\citeyear{yinCaseStudyResearch2017}) approach defines the case selection as a variable that considers two different steps. The first factor, case definition, describes the entity the case study focuses on. The comparative nature employed in this case study deals with two companies operating in the financial sector. One company is an EBC providing financial solutions and the other is a bank included in the list of global systemically important banks (\cite{2019ListGlobal2019}).  The second factor,  bounding the case, describes a scope given to the case in order to determine the scope the cases deal with. Yin (ibid) specifies time boundaries as an optional way of bounding the cases, while mentioning, that the lifecycle of the case entity can be observed partially or in full. Therefore, the cases are given time boundaries. However, these time boundaries cover the entire life cycle of the firms in question, from when they were established and up until their most recent international endeavours.   \par
@@ -465,14 +480,16 @@ The case study candidates were chosen by following an additional set of criteria
 %However, a stronger emphasis is laid on similar markets entered by both companies and the first market the companies internationalised into. The reason behind this is to further observe whether internationalisation constructs such as psychic distance and relative geographical distance differ, while allowing for comparisons where applicable.
 
 %WRITE AOBUT THE CONSTRAINTS OF THE SECOND CASE DUE TO THE FACT THAT THE BANK EXISTED DURING WORLD WAR
-
+\vspace{-2mm}
 
 \subsection{Data Collection}
-To allow for the study to be as thorough as possible, this dissertation made use of secondary data. In his approach, Yin (\citeyear{yinCaseStudyResearch2017}) specifies six different sources of evidence. Among these sources, are two categories: documentation and archival records. Accordingly, these were the sources of data used in this paper in order to compile the cases as accurately as possible.  \par
+\vspace{-1mm}
+\noindent{To allow for the study to be as thorough as possible, this dissertation made use of secondary data. In his approach, Yin (\citeyear{yinCaseStudyResearch2017}) specifies six different sources of evidence. Among these sources, are two categories: documentation and archival records. Accordingly, these were the sources of data used in this paper in order to compile the cases as accurately as possible. } \par
 In the case of DB, documentation in the form of administrative documents including yearly reports, progress reports and official historical reports were used. These were made available by DB to the public and are accessible through their different website domains. \par
 Similarly to DB, yearly reports, progress reports, archival records stored in company channels were used. Furthermore, this dissertation's author had access to Company X's database which stores a vast amount of business related data on the most granular level. This had assisted in describing the case in a more accurate manner.
-
+\vspace{-3mm}
 \subsection{Data Analysis}
+\vspace{-1mm}
 \noindent{In his book, \citeauthor{yinCaseStudyResearch2017} (\citeyear{yinCaseStudyResearch2017}) mentions five types of techniques used to analyse case studies. The techniques include: pattern matching, explanation building, time-series analysis, logic models and cross-case synthesis. The technique employed in this paper is the cross-case synthesis.} \par
 The cross-case technique is recommended and favourable when a case study is composed of only two cases. It is a method that promotes the comparison of events, processes, or in general, units of analyses. In doing so, this approach facilitates the identification of patterns occurring within the cases and assists in reaching conclusions in regard to how the cases differ, or are otherwise similar (ibid). This dissertation's case study consists two cases and attempts to assist in answering the research question that deals with possible differences and similarities between two units of analyses. This in turn, can be enriching and influential for existing literature (\cite{gustafssonSingleCaseStudies2017}). \par
 
@@ -483,7 +500,8 @@ The cross-case technique is recommended and favourable when a case study is comp
 \label{emp_findings}
 What are empirical findings and how do they assist
 \subsection{Deutsche Bank AG}
-In January 22, 1870, two private entrepreneurs set out to establish a bank in Germany. Couple of months down the road and the reigning government back then granted it a license to operate as a bank in the country. Shortly thereafter, Deutsche Bank (DB) opened its branches in Bremen and Hamburg and thus began its operations in Germany. It was not long after and alongside the opening of domestic branches that DB displayed a rather quick expansion of its foreign operations with the establishment of branches in Shanghai, Yokohama and London, with London being the most important foreign branch. The first decades of DB's operations could be described as a "period of rapid expansion" with the bank having an "eye for good business prospects and a sound feel for risk" (\cite{deutschebankagDeutscheBank1870}, p.4). However, due to the outbreak of World War One, shortly followed by World War Two, DB had closed most of its international activities. \par
+\vspace{-1mm}
+\noindent{In January 22, 1870, two private entrepreneurs set out to establish a bank in Germany. Couple of months down the road and the reigning government back then granted it a license to operate as a bank in the country. Shortly thereafter, Deutsche Bank (DB) opened its branches in Bremen and Hamburg and thus began its operations in Germany. It was not long after and alongside the opening of domestic branches that DB displayed a rather quick expansion of its foreign operations with the establishment of branches in Shanghai, Yokohama and London, with London being the most important foreign branch. The first decades of DB's operations could be described as a "period of rapid expansion" with the bank having an "eye for good business prospects and a sound feel for risk" (\cite{deutschebankagDeutscheBank1870}, p.4). However, due to the outbreak of World War One, shortly followed by World War Two, DB had closed most of its international activities.} \par
 Consequently to the Second World War, DB resumed its operations and entered the general retail banking, or in other words, commenced on servicing the general public. DB's strategy during this time was to operate uniquely in its domicile, servicing local customers and providing loans.  \par
 The start of the 1970s  is characterised by international expansion for DB, and once again, since the Second World War, DB opens representative offices in London. As DB becomes more global the company makes key acquisitions in Italy, Spain, United Kingdom (UK), and the US. DB's internationalisation strategy puts strong emphasis on settling in central economic and financial hubs while executing foreign bank acquisitions and converting representative offices to branches. \par
 In 1976 DB converts its office in London to a branch. Following the conversion, DB increased its commitment to the British market with a minor acquisition of the investment bank, Morgan Grenfell. Consequently, five years later, DB ended up acquiring Morgan Grenfell in full form and thus increasing its customer base in UK (\cite{deutschebankagDeutscheBankUnited}). \par % Write about how this acquisition increases knowhows.
@@ -507,9 +525,10 @@ A study by \citeauthor{slagerInternationalizationBanksStrategic2005} (\citeyear{
 
 As covered throughout this case study, DB's activities were described in a way that the company set up branches in financial hubs and continued expanding by acquisitions, and thus, it is possible to see the intensifying degree of internationalisation in figure \ref{fig:db_international} as time progresses.
 
-
+\vspace{-2mm}
 \subsection{Company X}
-Originally founded in 2013, based in Berlin, Company X deals in the investment and savings finance sector. The company aims to take over the competitive market of savings and investment in Europe by using advanced financial technology to assist private customers making the smartest and most efficient financial decisions. Since being founded, the company managed to raise hundred millions of euros from credible investors, including Goldman Sachs, the American multinational investment bank. Currently, the company is just shy of 310 employees, which means it is out of the Small-Medium Enterprise (SME) scope and is considered a large enterprise (\cite{majocchiFirmSizeBusiness2005}).
+\vspace{-1mm}
+\noindent{Originally founded in 2013, based in Berlin, Company X deals in the investment and savings finance sector. The company aims to take over the competitive market of savings and investment in Europe by using advanced financial technology to assist private customers making the smartest and most efficient financial decisions. Since being founded, the company managed to raise hundred millions of euros from credible investors, including Goldman Sachs, the American multinational investment bank. Currently, the company is just shy of 310 employees, which means it is out of the Small-Medium Enterprise (SME) scope and is considered a large enterprise (\cite{majocchiFirmSizeBusiness2005}).}
  \par Company X acts as a bank and a platform that consolidates financial offers all over the EU and also in the US. The company offers the possibility for its customers to invest their money in term deposits across different banks in Europe (OR THE US?) while offering very attractive interest rates in comparison to their local providers. This service was previously not available and the traditional way was for a customer to go to its local servicing bank in a physical branch and deposit money in a fixed account, however, the interest rates were usually relatively low. \par 
 Due to the FinTech era shining light on new and advanced technologies, Company X made it it possible to build bridges between customers in their domicile to banks far out of their reach, while trimming down the bureaucratic requirements on the customer side that would otherwise be required when dealing with money and economic means across different countries. Therefore, partnerships play an important role in the company's expansion and reach and it is thus one of its main strategies, as it builds partnerships with small and middle sized banks.  \par
 The business model of Company X is structured in such way that when a customer decides to purchase a financial product offered on Company X's platform, after identity validation and proper registration, the customer is required transferring the relevant funds to a servicing bank hosted and owned by Company X. This servicing bank effectively acts as a "middleman" and transfers the funds to the target partner bank offering the financial product purchased by the customer. When the relevant period defined for the product reaches its expiration, the customer can claim his funds and earned interest back, which are then transferred back from the partner bank to the servicing bank and eventually to the customer. \par 
@@ -533,15 +552,20 @@ The following figure exhibits the current distribution of Company X's partnershi
 
 As seen in figure \ref{fig:raisin_partnerbank_dist}, Company X holds a significant amount of partnerships in Europe, 133 to be exact. It is no surprise that partnerships are a key factor and leading strategy that influences the company's expansion, market penetration and extension of commitment. Nevertheless, partnerships, as seen in the last couple of years, are not the only strategies Company X enacted as it also makes business acquisitions. This is an aspect Company X will continue to put emphasis on as it has future plans for further acquisitions. 
 
+\vspace{-1mm}
+
 \section{Comparison of Findings}
+\vspace{-2mm}
 \label{findings_comparison}
-This section of the study aims to observe the juxtaposition of the two firms thoroughly covered in chapter \ref{emp_findings}. By pointing out similarities and differences in the companies' behaviour towards and during internationalisation, it is possible to draw important conclusions or make meaningful propositions that can assist in answering this study's research question. Therefore, the approach used to analyse the case study findings in this paper is a cross-case analysis. \par
+\noindent{This section of the study aims to observe the juxtaposition of the two firms thoroughly covered in chapter \ref{emp_findings}. By pointing out similarities and differences in the companies' behaviour towards and during internationalisation, it is possible to draw important conclusions or make meaningful propositions that can assist in answering this study's research question. Therefore, the approach used to analyse the case study findings in this paper is a cross-case analysis.} \par
 Cross-case analysis describes the process of transforming and simplifying findings in a comparative manner to detect commonalities, contradictions and differences. This approach is best used and encouraged in studies composed of two cases. This type of analysis requires the researcher to explore the empirical data gathered and question the meaning of things, while identifying patterns, explanations and causal relationships (\cite{cruzesCaseStudiesSynthesis2015}; \cite{yinCaseStudyResearch2017}). \par
 For the purpose of this study, the analysis encompasses three main aspects: market entry drivers, internationalisation strategy and internationalisation barriers. 
 
+\vspace{-2mm}
 \subsection{Internationalisation Drivers}
+\vspace{-1mm}
 \label{entry_motives}
-In order to be able to distinguish between possible differences in internationalisation drivers, this section attempts to distinguish what drove either of the companies reviewed to internationalise. \par
+\noindent{In order to be able to distinguish between possible differences in internationalisation drivers, this section attempts to distinguish what drove either of the companies reviewed to internationalise.} \par
 Since its inception, Company X aimed to become the first pan-European marketplace for savings. Therefore, remaining in its domicile was already out of the question. Company X first wished to take advantage of the fact that there was a market gap in its local market, therefore, launching such service may reward it with a competitive advantage. However, the market gap was not the only source of competitive advantage, but also the use of technology, special capabilities and knowledge Company X has access to. This stands in line with the Resource Based View ({\cite{barneyResourcebasedViewFirm2001}) that discusses competitive advantage as an internationalisation driver and performance enhancer. Consequent to the successful launch, Company X took off the fill this market gap all over Europe, performing a cross-country internationalisation. \par
 The use of the internet, advanced analytics and state of the art technology and infrastructure enabled Company X's internationalisation. This aligns with Dunning's (\citeyear{dunningEclecticTheoryInternational1980}) theoretical approach in the sense of whether to remain domestic or go international. Dunning speaks of three advantages covered in the literature review that are achieved by Company X: ownership advantages by owning advanced technology which results in enhanced market access; locational advantages due to the market gap existing and internationalisation advantages by the possibility to exploit said technology and reduce transaction costs.  \par
 
@@ -576,8 +600,9 @@ Table \ref{table:int_drivers_comp} illustrates commonalities and differences obs
 \end{center}
 
 \subsection{Internationalisation Strategy}
+\vspace{-1mm}
 \label{int_strategy}
-This section reviews what sort of strategy both of the companies undertook or in other words \textbf{how} did they internationalise. This study's literature review thoroughly covered two dominant theories in the academical world trying to explain internationalisation: The Uppsala and Born Globals models of internationalisation. Both of these theoretical frameworks describe the firm's orientations and its approach to expansion.  \par
+\noindent{This section reviews what sort of strategy both of the companies undertook or in other words \textbf{how} did they internationalise. This study's literature review thoroughly covered two dominant theories in the academical world trying to explain internationalisation: The Uppsala and Born Globals models of internationalisation. Both of these theoretical frameworks describe the firm's orientations and its approach to expansion. } \par
 When discussing DB, a clear strategy using partnerships and wholly owned subsidiaries in forms of acquisitions and greenfield investments. DB's internationalisation process can be described as rather iterative. When looking at the period before the wars, DB operated in its domicile, and slowly expanded to selected target markets. In the period after the way, after DB was reconstructed, it presented a rather conservative approach in the sense that it left its operations mostly in its domicile. However, when it resumed internationalisation, it again began entering markets in an iterative manner, one by one. The markets entries done by DB in that time can be described as cautious. One of the Uppsala's model (\citeyear{johansonInternationalizationProcessFirm1977}) core concepts is market commitment, which describes the iterative process a company goes through, slowly dedicating more resources to the target market until it is fully established. This approach aligns with DB internationalisation as it slowly opens representative office in the target markets to reach a position of stability and gain knowledge and important know-hows, which were deemed important in the scope of the Uppsala framework. Each different market entry assists DB in gaining knowledge about the local community, culture and important traits that can assist it to penetrate the market deeper. It is then that DB proceeded on making key acquisitions and establishment it's own branches in the markets it had already entered. \par 
 In comparison, when looking at Company X, a clear strategy was evident from the get-go. The company first established itself locally but had already looked over the international horizon. It was no surprise when the company, with the use of advanced technologies, had skipped many of the traditional steps a company would usually go through. Company X moved from being a local player in Germany to entering all the European markets all in one year, while increasing its presence in selected markets in which it already internationalised into. Furthermore, Company X employed heavy use of technology to assist it in its process of internationalisation, using electronic platforms to specifically reach foreign markets. Unlike DB, Company X did was not physically present at any of the foreign locations it operated in and handled most of its operations using electronic means. This not only reduced costs greatly but also allowed for Company X to internationalise in a faster pace with less risk. However, similar to DB, Company X did need to acquire cultural knowledge specific to the markets which it developed specific platforms for.   
 
@@ -610,6 +635,7 @@ According to the aforementioned criteria in table \ref{table:int_strategy_comp} 
 
 
 \subsection{Internationalisation Barriers}
+\vspace{-1mm}
 \label{int_barriers}
 \noindent{Both Company X and DB were susceptible to market entry barriers. This section will describe the main barriers faced by the companies, while putting emphasis on differences and the relative impact the barrier discussed had on either of the companies.} \par
 
@@ -667,7 +693,9 @@ Therefore and according to the barriers discussed in relation to both of the com
 %this chapter should speak about differneces between the thesis and previous research
 % find connections 
 \section{Discussion}
+\vspace{-2mm}
 \label{discussion}
+\frenchspacing
 \noindent{This chapter looks into the propositions made in chapter \ref{findings_comparison}, while highlighting possible connections between previous studies and academic work covered in the literature review of this dissertation.} \par %maybe add more 
 Generally, this dissertation differs from previous studies made in the way that it combines several aspects that have not been thoroughly studied: Internationalisation process, FinTech and EBCs. Each and one of these had been an object of studies, however, not many attempted to observe the possible interplay between them. \par
 \citeauthor{loaneCrossnationalComparisonInternationalisation2002}'s (\citeyear{loaneCrossnationalComparisonInternationalisation2002}) study of EBCs, concluded that the use of internet resulted in rapid internationalisation and gain of competitive advantage. This aligns with the observation done in this study, where Company X had used the internet to enable its rapid internationalisation and granting it competitive advantage. Similar indications were made in additional studies covered in this dissertation's literature review (\cite{fangParachutingInternationalizationStudy2017}; \cite{terziImpactEcommerceInternational2011}; \cite{petersenInternetForeignMarket2002}). Furthermore, the previously mentioned studies had additionally observed management structure and approach to be a factor playing a role in firm internationalisation. Comparable indication is also a result of this dissertation.  \par
@@ -678,15 +706,26 @@ When discussing market entry barriers, findings rising from the literature revie
 in relation to Company X, \citeauthor{fangParachutingInternationalizationStudy2017} (\citeyear{fangParachutingInternationalizationStudy2017}) study discussing the BG approach revealed that customer focus is of great importance. This reinforces the finding that customer trust is an important aspect of EBCs internationalisation. \par
 It is important to note that it is debatable whether the fact that both of the companies operate in the financial sector, was a factor that shaped the internationalisation process of traditional firms and EBCs in a way that differs from other manufacturing and servicing sectors. However, this study does contribute to existing research and literature covered in the scope of this paper.
 
-
-
-
-
-\section{Limitations and Further Research}
-\label{limitations}
-
+\newpage
 \section{Conclusion}
 \label{conclusion}
+\vspace{-1mm}
+\noindent{This dissertation's objective was to examine the internationalisation process of EBCs and traditional companies in the finance sector, and in particular, to derive differences and similarities assisting in drawing new conclusions or revelations, about the possible phenomena of using internet technology as means of doing business. Specifically, the following research question was investigated: \textit{"How do E-Business Companies internationalise in comparison to traditional companies in the financial sector?"}.}  \par
+In order to develop possible explanations, reasonings and answers to the research question, an extensive literature review was conducted. The literature explored in the course of this research covered factors that play a role in shaping the internationalisation process of traditional firms and EBCs. Additionally, four prominent approaches to internationalisation were thoroughly covered: the Uppsala Model of Internationalisation (\cite{johansonInternationalizationProcessFirm1977}), Born Globals (\cite{rennieGlobalCompetitivenessBorn1993}), Dunning's Eclectic Paradigm (\cite{dunningEclecticTheoryInternational1980}) and the Resource Based View (\cite{barneyFirmResourcesSustained1991}). The frameworks used in these approaches attempt in explaining how and why firms internationalise, and thus, they served as basis to this research. Furthermore, the literature review revealed that studies investigating internationalisation revolve mainly around three main aspects that encompass factors facilitating the international expansion of firms. These aspects are: \textit{Internationalisation Drivers}, \textit{Internationalisation Strategy}, \textit{Internationalisation Barriers}, and therefore, this study used these aspects as a main guideline for answering the research question.  \par
+Additional to the literature review, a multiple case study was conducted, in which two firms operating in the finance sector were used as units of analysis. The first firm, Company X, a FinTech EBC set out to conquer the international arena using internet technology as its means of expansion; and the second firm, Deutsche Bank AG, a traditional financial services provider. Both of the firms found themselves operating outside of their domicile in a certain stage of their lifecycle, however, the case study conducted laid emphasis on how each of the firms fared in comparison to the other. \par
+The case study findings showed that both Company X and DB were pushed to go abroad due to the managerial approach and culture of their firms. However, the use of technology in EBCs acts as a significant driver to expand. Furthermore, the use of internet technology allows \newpage
+
+EBCs to internationalise in a rapid manner, while traditional firms internationalise gradually and in an iterative manner, as knowledge and experience are slowly accumulated. Additionally, traditional firms establish physical presence as their means to enter a foreign market, while EBCs, conversely, handle most of their operations using the internet and its technologies as a business channel. Lastly, the barriers faced by both firms were similar in terms of how regulated they are, and due to the nature of the finance sector they both operate in. Nevertheless, EBCs internationalisation process is not as capital heavy as traditional firms, as the latter require branches in their target markets. \par
+The findings of this study aim to enhance, contribute and consolidate existing literature, and accordingly, indications relating to the use of internet technology as means to break down barriers previously set on firms attempting to internationalise, were duly noted. Furthermore, the motives and strategy of firms using internet technology proved to be different. This study had revealed that the application of prominent approaches in the field of internationalisation, may no longer be able to entirely envelope all cases. \par
+It is important to note, however, that the discussion of the findings raised questions as to whether the fact that both of the firms are players in the financial industry, had impact on the way both of the firms internationalised. Therefore, a conclusive answer as to whether the observed behaviours of the case study firms are pertinent to the financial industry is lacking. Furthermore, additional factors such as timing and possible events occurring during the internationalisation of firms (financial recessions or wars) were not taken into consideration. \par
+The FinTech era represents the possible underlying and untapped potential firms might acquire, in comparison to how firms used to previously internationalise. It would be advantageous to conduct future research beyond the scope of this study and to include additional EBCs leveraging the power of FinTech, while comparing them to their traditional counterparts. This could unlock findings that have not been distinguished in this paper, or further validate existing findings. Furthermore, this study enacted a qualitative approach, and further research using quantitative methods may allow for results with a higher degree of accuracy.
+
+
+
+
+%The use of literature, in conjunction with the application of a multiple case study using two firms operating in the finance sector, 
+
+%. In particular, this study's goal was to observe differences and similarities between EBCs and traditional companies. The motivation behind 
 % write in the conclusion how this study contributes and can be used as basis or enhancement
 
 \newpage
