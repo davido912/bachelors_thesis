@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  2 MAY 2020 20:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  3 MAY 2020 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -531,7 +531,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count195
@@ -635,6 +635,11 @@ File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 \c@biburllcpenalty=\count334
 \c@smartand=\count335
 )
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/authoryear-comp.bbx
+File: authoryear-comp.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
@@ -647,7 +652,7 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count336
 \c@bbx:relatedtotal=\count337
-))
+)))
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
 
@@ -702,7 +707,7 @@ Package csquotes Info: ... none found.
 
 
 Package csquotes Warning: No multilingual support.
-(csquotes)                Cannot enable multilingual quotes on input line 72.
+(csquotes)                Cannot enable multilingual quotes on input line 112.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -712,18 +717,18 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 (./thesis_bachelors.aux)
 \openout1 = `thesis_bachelors.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -811,20 +816,13 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_bachelors.bbl' found.
-(./thesis_bachelors.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'thibodeauTIFirstHandheld2007':
-(biblatex)                - Entry 'thibodeauTIFirstHandheld2007' (references.bi
-b): Invalid format '2007-09-26T01:00-05:00' of date field 'date' - ignoring.
-
-)
-Package biblatex Info: Reference section=0 on input line 72.
-Package biblatex Info: Reference segment=0 on input line 72.
+(./thesis_bachelors.bbl)
+Package biblatex Info: Reference section=0 on input line 112.
+Package biblatex Info: Reference segment=0 on input line 112.
  [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./thesis_bachelors.toc)
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./thes
+is_bachelors.toc)
 \tf@toc=\write4
 \openout4 = `thesis_bachelors.toc'.
 
@@ -832,12 +830,12 @@ Package biblatex Info: Reference segment=0 on input line 72.
 \tf@lof=\write5
 \openout5 = `thesis_bachelors.lof'.
 
- (./thesis_bachelors.lot)
+
+(./thesis_bachelors.lot)
 \tf@lot=\write6
 \openout6 = `thesis_bachelors.lot'.
 
-
-[3] [4]
+ [3] [4]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -883,7 +881,7 @@ Underfull \vbox (badness 1418) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 234--265
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 274--305
  [][] 
  []
 
@@ -896,19 +894,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/fig4_uppsala_core_concepts.png Graphic file (type png)
 <use figures/fig4_uppsala_core_concepts.png>
 Package pdftex.def Info: figures/fig4_uppsala_core_concepts.png  used on input 
-line 289.
+line 329.
 (pdftex.def)             Requested size: 256.0748pt x 110.34125pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./figures/fig4_uppsala_core_concepts.png>]
-Underfull \hbox (badness 1221) in paragraph at lines 301--301
+Underfull \hbox (badness 1221) in paragraph at lines 341--341
 []\OT1/cmr/bx/it/10.95 Commitment De-ci-sions \OT1/cmr/m/n/10.95 are pre-sum-ab
 ly made in the pres-ence of prob-lems or
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 323--323
+Underfull \hbox (badness 1762) in paragraph at lines 363--363
 []\OT1/cmr/m/n/10 Table 2: |The Up-p-sala Model of In-ter-na-tion-al-i-sa-tion:
  Con-sol-i-dated
  []
@@ -921,58 +919,58 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/fig_born_global_frm.png, id=58, 578.16pt x 493.845pt>
 File: figures/fig_born_global_frm.png Graphic file (type png)
 <use figures/fig_born_global_frm.png>
-Package pdftex.def Info: figures/fig_born_global_frm.png  used on input line 33
+Package pdftex.def Info: figures/fig_born_global_frm.png  used on input line 37
 7.
 (pdftex.def)             Requested size: 256.0748pt x 218.7242pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11 <./figures/fig_born_global_frm.png>]
-Underfull \hbox (badness 1342) in paragraph at lines 349--350
+Underfull \hbox (badness 1342) in paragraph at lines 389--390
 []\OT1/cmr/m/n/10.95 To con-clude, Born Glob-als is a rel-a-tively young the-or
 y in com-par-i-son to other
  []
 
 [12]
-Overfull \hbox (7.54723pt too wide) in paragraph at lines 363--378
+Overfull \hbox (7.54723pt too wide) in paragraph at lines 403--419
  [][] 
  []
 
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
 <figures/fig5_rbv_model.png, id=72, 615.29875pt x 300.12125pt>
 File: figures/fig5_rbv_model.png Graphic file (type png)
 <use figures/fig5_rbv_model.png>
-Package pdftex.def Info: figures/fig5_rbv_model.png  used on input line 417.
+Package pdftex.def Info: figures/fig5_rbv_model.png  used on input line 459.
 (pdftex.def)             Requested size: 256.0748pt x 124.9052pt.
 [15 <./figures/fig5_rbv_model.png>]
 <figures/fig_research_plan.png, id=78, 667.49374pt x 959.585pt>
 File: figures/fig_research_plan.png Graphic file (type png)
 <use figures/fig_research_plan.png>
-Package pdftex.def Info: figures/fig_research_plan.png  used on input line 440.
+Package pdftex.def Info: figures/fig_research_plan.png  used on input line 482.
 
 (pdftex.def)             Requested size: 256.0748pt x 368.1309pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16 <./figures/fig_research_plan.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 457.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 499.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 457.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 499.
  [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 [19]
-Underfull \hbox (badness 1270) in paragraph at lines 496--497
+Underfull \hbox (badness 1270) in paragraph at lines 538--539
 \OT1/cmr/m/n/10.95 busi-ness re-search. The au-thors (ibid) dis-tin-guish be-tw
 een propo-si-tions and hy-pothe-ses.
  []
@@ -985,28 +983,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/fig_db_internationalisation.png Graphic file (type png)
 <use figures/fig_db_internationalisation.png>
 Package pdftex.def Info: figures/fig_db_internationalisation.png  used on input
- line 519.
+ line 561.
 (pdftex.def)             Requested size: 256.0748pt x 161.9108pt.
 
-[22 <./figures/fig_db_internationalisation.png>] [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./figures/fig_db_internationalisation.png>] [23]
 <figures/fig_partner_dist.png, id=108, 840.13875pt x 640.3925pt>
 File: figures/fig_partner_dist.png Graphic file (type png)
 <use figures/fig_partner_dist.png>
-Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 546.
+Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 588.
 (pdftex.def)             Requested size: 256.0748pt x 195.1875pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-[25 <./figures/fig_partner_dist.png>] [26] [27]
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 612--623
+[25 <./figures/fig_partner_dist.png>]
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 2564) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 4739) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 655--666
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
 [29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1016,21 +1021,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
 [33] [34] [35] [36]
-Underfull \hbox (badness 10000) in paragraph at lines 744--744
+Underfull \hbox (badness 10000) in paragraph at lines 787--787
 [][]\OT1/cmr/m/n/10.95 Fletcher, Mar-garet, Sharon Loane, and Svante An-der-s-s
 on (2011). \  In-ter-na-tional
  []
 
 [37]
-Underfull \hbox (badness 1859) in paragraph at lines 744--744
+Underfull \hbox (badness 1859) in paragraph at lines 787--787
 \OT1/cmr/m/n/10.95 Ex-pe-ri-ence and Ex-port In-ten-sity in SMEs: A Lon-gi-tu-d
 i-nal Ap-proach to Com-plex
  []
 
 [38]
-Underfull \hbox (badness 2617) in paragraph at lines 744--744
+Underfull \hbox (badness 2617) in paragraph at lines 787--787
 [][]\OT1/cmr/m/n/10.95 Porter, M. E. (1980). \OT1/cmr/m/it/10.95 Com-pet-i-tive
  Strat-egy: Tech-niques for An-a-lyz-ing In-dus-tries and
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 787--787
+\OT1/cmr/m/n/10.95 Phe-nomenon: A Com-par-a-tive Case Study Re-search". In: \OT
+1/cmr/m/it/10.95 Jour-nal of In-ter-na-tional
  []
 
 [39] [40]
@@ -1078,18 +1089,18 @@ Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 569 ({)
-### simple group (level 2) entered at line 345 ({)
-### simple group (level 1) entered at line 302 ({)
+### simple group (level 3) entered at line 612 ({)
+### simple group (level 2) entered at line 385 ({)
+### simple group (level 1) entered at line 342 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16212 strings out of 492616
- 277422 string characters out of 6129481
- 730993 words of memory out of 5000000
- 19890 multiletter control sequences out of 15000+600000
+ 16221 strings out of 492616
+ 277753 string characters out of 6129481
+ 731461 words of memory out of 5000000
+ 19896 multiletter control sequences out of 15000+600000
  11490 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,78p,1617b,1684s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,78p,1641b,1846s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1102,7 +1113,7 @@ mr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 .pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on thesis_bachelors.pdf (44 pages, 834979 bytes).
+Output written on thesis_bachelors.pdf (44 pages, 836538 bytes).
 PDF statistics:
  205 PDF objects out of 1000 (max. 8388607)
  134 compressed objects within 2 object streams

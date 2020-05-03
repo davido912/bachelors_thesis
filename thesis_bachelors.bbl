@@ -2081,7 +2081,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
       \field{extradatescope}{labelyear}
-      \field{labeldatesource}{url}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{At a ceremony in Washington, the Smithsonian Institution honored the first handheld electronic calculator, which was developed by a team at Texas Instruments.}
@@ -2091,6 +2091,8 @@
       \field{urlday}{21}
       \field{urlmonth}{12}
       \field{urlyear}{2019}
+      \field{year}{2007}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/E3GV5UC9/ti-s-first-handheld-calculator-is-now-a-museum-piece.html
@@ -2101,7 +2103,6 @@
       \verb{url}
       \verb https://www.computerworld.com/article/2541155/ti-s-first-handheld-calculator-is-now-a-museum-piece.html
       \endverb
-      \warn{\item Entry 'thibodeauTIFirstHandheld2007' (references.bib): Invalid format '2007-09-26T01:00-05:00' of date field 'date' - ignoring}
     \endentry
     \entry{tihanyiEffectCulturalDistance2005}{article}{}
       \name{author}{3}{}{%
