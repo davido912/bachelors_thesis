@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  21 MAY 2020 22:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.19)  2 JUN 2020 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -456,12 +456,37 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count150
+\c@Blindtext=\count151
+\c@blind@countparstart=\count152
+\blind@countxx=\count153
+\blindtext@numBlindtext=\count154
+\blind@countyy=\count155
+\c@blindlist=\count156
+\c@blindlistlevel=\count157
+\c@blindlist@level=\count158
+\blind@listitem=\count159
+\c@blind@listcount=\count160
+\c@blind@levelcount=\count161
+\blind@mathformula=\count162
+\blind@Mathformula=\count163
+\c@blind@randomcount=\count164
+\c@blind@randommax=\count165
+\c@blind@pangramcount=\count166
+\c@blind@pangrammax=\count167
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count150
+\lrq@indent=\count168
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -470,47 +495,47 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count151
-\c@listtotal=\count152
-\c@listcount=\count153
-\c@liststart=\count154
-\c@liststop=\count155
-\c@citecount=\count156
-\c@citetotal=\count157
-\c@multicitecount=\count158
-\c@multicitetotal=\count159
-\c@instcount=\count160
-\c@maxnames=\count161
-\c@minnames=\count162
-\c@maxitems=\count163
-\c@minitems=\count164
-\c@citecounter=\count165
-\c@maxcitecounter=\count166
-\c@savedcitecounter=\count167
-\c@uniquelist=\count168
-\c@uniquename=\count169
-\c@refsection=\count170
-\c@refsegment=\count171
-\c@maxextratitle=\count172
-\c@maxextratitleyear=\count173
-\c@maxextraname=\count174
-\c@maxextradate=\count175
-\c@maxextraalpha=\count176
-\c@abbrvpenalty=\count177
-\c@highnamepenalty=\count178
-\c@lownamepenalty=\count179
-\c@maxparens=\count180
-\c@parenlevel=\count181
-\blx@tempcnta=\count182
-\blx@tempcntb=\count183
-\blx@tempcntc=\count184
-\blx@maxsection=\count185
-\blx@maxsegment@0=\count186
-\blx@notetype=\count187
-\blx@parenlevel@text=\count188
-\blx@parenlevel@foot=\count189
-\blx@sectionciteorder@0=\count190
-\blx@entrysetcounter=\count191
+\c@tabx@nest=\count169
+\c@listtotal=\count170
+\c@listcount=\count171
+\c@liststart=\count172
+\c@liststop=\count173
+\c@citecount=\count174
+\c@citetotal=\count175
+\c@multicitecount=\count176
+\c@multicitetotal=\count177
+\c@instcount=\count178
+\c@maxnames=\count179
+\c@minnames=\count180
+\c@maxitems=\count181
+\c@minitems=\count182
+\c@citecounter=\count183
+\c@maxcitecounter=\count184
+\c@savedcitecounter=\count185
+\c@uniquelist=\count186
+\c@uniquename=\count187
+\c@refsection=\count188
+\c@refsegment=\count189
+\c@maxextratitle=\count190
+\c@maxextratitleyear=\count191
+\c@maxextraname=\count192
+\c@maxextradate=\count193
+\c@maxextraalpha=\count194
+\c@abbrvpenalty=\count195
+\c@highnamepenalty=\count196
+\c@lownamepenalty=\count197
+\c@maxparens=\count198
+\c@parenlevel=\count199
+\blx@tempcnta=\count266
+\blx@tempcntb=\count267
+\blx@tempcntc=\count268
+\blx@maxsection=\count269
+\blx@maxsegment@0=\count270
+\blx@notetype=\count271
+\blx@parenlevel@text=\count272
+\blx@parenlevel@foot=\count273
+\blx@sectionciteorder@0=\count274
+\blx@entrysetcounter=\count275
 \labelnumberwidth=\skip56
 \labelalphawidth=\skip57
 \biblabelsep=\skip58
@@ -521,9 +546,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip63
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count192
-\c@maxcomprange=\count193
-\c@mincompwidth=\count194
+\c@mincomprange=\count276
+\c@maxcomprange=\count277
+\c@mincompwidth=\count278
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -534,74 +559,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count195
-\c@savedafterword=\count196
-\c@annotator=\count197
-\c@savedannotator=\count198
-\c@author=\count199
-\c@savedauthor=\count266
-\c@bookauthor=\count267
-\c@savedbookauthor=\count268
-\c@commentator=\count269
-\c@savedcommentator=\count270
-\c@editor=\count271
-\c@savededitor=\count272
-\c@editora=\count273
-\c@savededitora=\count274
-\c@editorb=\count275
-\c@savededitorb=\count276
-\c@editorc=\count277
-\c@savededitorc=\count278
-\c@foreword=\count279
-\c@savedforeword=\count280
-\c@holder=\count281
-\c@savedholder=\count282
-\c@introduction=\count283
-\c@savedintroduction=\count284
-\c@namea=\count285
-\c@savednamea=\count286
-\c@nameb=\count287
-\c@savednameb=\count288
-\c@namec=\count289
-\c@savednamec=\count290
-\c@translator=\count291
-\c@savedtranslator=\count292
-\c@shortauthor=\count293
-\c@savedshortauthor=\count294
-\c@shorteditor=\count295
-\c@savedshorteditor=\count296
-\c@labelname=\count297
-\c@savedlabelname=\count298
-\c@institution=\count299
-\c@savedinstitution=\count300
-\c@lista=\count301
-\c@savedlista=\count302
-\c@listb=\count303
-\c@savedlistb=\count304
-\c@listc=\count305
-\c@savedlistc=\count306
-\c@listd=\count307
-\c@savedlistd=\count308
-\c@liste=\count309
-\c@savedliste=\count310
-\c@listf=\count311
-\c@savedlistf=\count312
-\c@location=\count313
-\c@savedlocation=\count314
-\c@organization=\count315
-\c@savedorganization=\count316
-\c@origlocation=\count317
-\c@savedoriglocation=\count318
-\c@origpublisher=\count319
-\c@savedorigpublisher=\count320
-\c@publisher=\count321
-\c@savedpublisher=\count322
-\c@language=\count323
-\c@savedlanguage=\count324
-\c@origlanguage=\count325
-\c@savedoriglanguage=\count326
-\c@pageref=\count327
-\c@savedpageref=\count328
+\c@afterword=\count279
+\c@savedafterword=\count280
+\c@annotator=\count281
+\c@savedannotator=\count282
+\c@author=\count283
+\c@savedauthor=\count284
+\c@bookauthor=\count285
+\c@savedbookauthor=\count286
+\c@commentator=\count287
+\c@savedcommentator=\count288
+\c@editor=\count289
+\c@savededitor=\count290
+\c@editora=\count291
+\c@savededitora=\count292
+\c@editorb=\count293
+\c@savededitorb=\count294
+\c@editorc=\count295
+\c@savededitorc=\count296
+\c@foreword=\count297
+\c@savedforeword=\count298
+\c@holder=\count299
+\c@savedholder=\count300
+\c@introduction=\count301
+\c@savedintroduction=\count302
+\c@namea=\count303
+\c@savednamea=\count304
+\c@nameb=\count305
+\c@savednameb=\count306
+\c@namec=\count307
+\c@savednamec=\count308
+\c@translator=\count309
+\c@savedtranslator=\count310
+\c@shortauthor=\count311
+\c@savedshortauthor=\count312
+\c@shorteditor=\count313
+\c@savedshorteditor=\count314
+\c@labelname=\count315
+\c@savedlabelname=\count316
+\c@institution=\count317
+\c@savedinstitution=\count318
+\c@lista=\count319
+\c@savedlista=\count320
+\c@listb=\count321
+\c@savedlistb=\count322
+\c@listc=\count323
+\c@savedlistc=\count324
+\c@listd=\count325
+\c@savedlistd=\count326
+\c@liste=\count327
+\c@savedliste=\count328
+\c@listf=\count329
+\c@savedlistf=\count330
+\c@location=\count331
+\c@savedlocation=\count332
+\c@organization=\count333
+\c@savedorganization=\count334
+\c@origlocation=\count335
+\c@savedoriglocation=\count336
+\c@origpublisher=\count337
+\c@savedorigpublisher=\count338
+\c@publisher=\count339
+\c@savedpublisher=\count340
+\c@language=\count341
+\c@savedlanguage=\count342
+\c@origlanguage=\count343
+\c@savedoriglanguage=\count344
+\c@pageref=\count345
+\c@savedpageref=\count346
 \shorthandwidth=\skip64
 \shortjournalwidth=\skip65
 \shortserieswidth=\skip66
@@ -627,13 +652,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count329
-\c@textcitetotal=\count330
-\c@textcitemaxnames=\count331
-\c@biburlnumpenalty=\count332
-\c@biburlucpenalty=\count333
-\c@biburllcpenalty=\count334
-\c@smartand=\count335
+\c@textcitecount=\count347
+\c@textcitetotal=\count348
+\c@textcitemaxnames=\count349
+\c@biburlnumpenalty=\count350
+\c@biburlucpenalty=\count351
+\c@biburllcpenalty=\count352
+\c@smartand=\count353
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.bbx' found.
@@ -650,8 +675,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count336
-\c@bbx:relatedtotal=\count337
+\c@bbx:relatedcount=\count354
+\c@bbx:relatedtotal=\count355
 )))
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
@@ -681,7 +706,7 @@ File: biblatex.cfg
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count338
+\c@float@type=\count356
 \float@exts=\toks33
 \float@box=\box39
 \@float@everytoks=\toks34
@@ -707,7 +732,7 @@ Package csquotes Info: ... none found.
 
 
 Package csquotes Warning: No multilingual support.
-(csquotes)                Cannot enable multilingual quotes on input line 98.
+(csquotes)                Cannot enable multilingual quotes on input line 105.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -717,31 +742,31 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 (./thesis_bachelors.aux)
 \openout1 = `thesis_bachelors.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count339
+\scratchcounter=\count357
 \scratchdimen=\dimen181
 \scratchbox=\box43
-\nofMPsegments=\count340
-\nofMParguments=\count341
+\nofMPsegments=\count358
+\nofMParguments=\count359
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count342
+\MPscratchCnt=\count360
 \MPscratchDim=\dimen182
-\MPnumerator=\count343
-\makeMPintoPDFobject=\count344
+\MPnumerator=\count361
+\makeMPintoPDFobject=\count362
 \everyMPtoPDFconversion=\toks37
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -768,7 +793,7 @@ Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count345
+\c@lstlisting=\count363
 \AtBeginShipoutBox=\box44
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/pdflscape.sty
@@ -817,8 +842,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_bachelors.bbl' found.
 (./thesis_bachelors.bbl)
-Package biblatex Info: Reference section=0 on input line 98.
-Package biblatex Info: Reference segment=0 on input line 98.
+Package biblatex Info: Reference section=0 on input line 105.
+Package biblatex Info: Reference segment=0 on input line 105.
  [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./
@@ -826,21 +851,26 @@ thesis_bachelors.toc)
 \tf@toc=\write4
 \openout4 = `thesis_bachelors.toc'.
 
- [3] (./thesis_bachelors.lof)
-\tf@lof=\write5
-\openout5 = `thesis_bachelors.lof'.
-
-
-(./thesis_bachelors.lot)
-\tf@lot=\write6
-\openout6 = `thesis_bachelors.lot'.
-
- [4]
-Overfull \hbox (39.13968pt too wide) in paragraph at lines 193--201
+ [3]
+Overfull \hbox (39.13968pt too wide) in paragraph at lines 202--210
 [][] 
  []
 
-[5]
+[4
+
+] (./thesis_bachelors.lof)
+\tf@lof=\write5
+\openout5 = `thesis_bachelors.lof'.
+
+ [5
+
+] (./thesis_bachelors.lot)
+\tf@lot=\write6
+\openout6 = `thesis_bachelors.lot'.
+
+ [6
+
+]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -886,7 +916,7 @@ Underfull \vbox (badness 1418) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (23.99997pt too wide) in paragraph at lines 262--293
+Overfull \hbox (23.99997pt too wide) in paragraph at lines 287--318
  [][] 
  []
 
@@ -895,23 +925,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 [6] [7]
-<figures/fig4_uppsala_core_concepts.png, id=48, 1104.125pt x 475.7775pt>
+<figures/fig4_uppsala_core_concepts.png, id=52, 1104.125pt x 475.7775pt>
 File: figures/fig4_uppsala_core_concepts.png Graphic file (type png)
 <use figures/fig4_uppsala_core_concepts.png>
 Package pdftex.def Info: figures/fig4_uppsala_core_concepts.png  used on input 
-line 317.
+line 342.
 (pdftex.def)             Requested size: 256.0748pt x 110.34125pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./figures/fig4_uppsala_core_concepts.png>]
-Underfull \hbox (badness 1221) in paragraph at lines 329--329
+Underfull \hbox (badness 1221) in paragraph at lines 354--354
 []\OT1/cmr/bx/it/10.95 Commitment De-ci-sions \OT1/cmr/m/n/10.95 are pre-sum-ab
 ly made in the pres-ence of prob-lems or
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 351--351
+Underfull \hbox (badness 1762) in paragraph at lines 376--376
 []\OT1/cmr/m/n/10 Table 2: |The Up-p-sala Model of In-ter-na-tion-al-i-sa-tion:
  Con-sol-i-dated
  []
@@ -921,55 +951,55 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 [10]
-<figures/fig_born_global_frm.png, id=61, 578.16pt x 493.845pt>
+<figures/fig_born_global_frm.png, id=64, 578.16pt x 493.845pt>
 File: figures/fig_born_global_frm.png Graphic file (type png)
 <use figures/fig_born_global_frm.png>
-Package pdftex.def Info: figures/fig_born_global_frm.png  used on input line 36
-5.
+Package pdftex.def Info: figures/fig_born_global_frm.png  used on input line 39
+0.
 (pdftex.def)             Requested size: 256.0748pt x 218.7242pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11 <./figures/fig_born_global_frm.png>]
-Underfull \hbox (badness 1342) in paragraph at lines 377--378
+Underfull \hbox (badness 1342) in paragraph at lines 402--403
 []\OT1/cmr/m/n/10.95 To con-clude, Born Glob-als is a rel-a-tively young the-or
 y in com-par-i-son to other
  []
 
 [12]
-Overfull \hbox (7.54723pt too wide) in paragraph at lines 391--406
+Overfull \hbox (7.54723pt too wide) in paragraph at lines 416--431
  [][] 
  []
 
 [13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 441--442
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
 
  []
 
-<figures/fig5_rbv_model.png, id=76, 615.29875pt x 300.12125pt>
+<figures/fig5_rbv_model.png, id=79, 615.29875pt x 300.12125pt>
 File: figures/fig5_rbv_model.png Graphic file (type png)
 <use figures/fig5_rbv_model.png>
-Package pdftex.def Info: figures/fig5_rbv_model.png  used on input line 445.
+Package pdftex.def Info: figures/fig5_rbv_model.png  used on input line 470.
 (pdftex.def)             Requested size: 256.0748pt x 124.9052pt.
 [15 <./figures/fig5_rbv_model.png>]
-<figures/fig_research_plan.png, id=81, 667.49374pt x 959.585pt>
+<figures/fig_research_plan.png, id=84, 667.49374pt x 959.585pt>
 File: figures/fig_research_plan.png Graphic file (type png)
 <use figures/fig_research_plan.png>
-Package pdftex.def Info: figures/fig_research_plan.png  used on input line 464.
+Package pdftex.def Info: figures/fig_research_plan.png  used on input line 489.
 
 (pdftex.def)             Requested size: 256.0748pt x 368.1309pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16 <./figures/fig_research_plan.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 481.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 506.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 481.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 506.
  [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -978,11 +1008,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<figures/fig_db_internationalisation.png, id=103, 690.58pt x 436.63126pt>
+<figures/fig_db_internationalisation.png, id=106, 690.58pt x 436.63126pt>
 File: figures/fig_db_internationalisation.png Graphic file (type png)
 <use figures/fig_db_internationalisation.png>
 Package pdftex.def Info: figures/fig_db_internationalisation.png  used on input
- line 544.
+ line 569.
 (pdftex.def)             Requested size: 256.0748pt x 161.9108pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -994,25 +1024,25 @@ Underfull \vbox (badness 3088) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-<figures/fig_partner_dist.png, id=114, 840.13875pt x 640.3925pt>
+<figures/fig_partner_dist.png, id=117, 840.13875pt x 640.3925pt>
 File: figures/fig_partner_dist.png Graphic file (type png)
 <use figures/fig_partner_dist.png>
-Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 572.
+Package pdftex.def Info: figures/fig_partner_dist.png  used on input line 597.
 (pdftex.def)             Requested size: 256.0748pt x 195.1875pt.
 
 Underfull \vbox (badness 7576) has occurred while \output is active []
 
  [25 <./figures/fig_partner_dist.png>] [26]
-Underfull \vbox (badness 5189) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
 [28]
-Overfull \hbox (35.99997pt too wide) in paragraph at lines 640--651
+Overfull \hbox (35.99997pt too wide) in paragraph at lines 665--676
  [][] 
  []
 
 
-Underfull \vbox (badness 1009) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
 [30]
@@ -1024,32 +1054,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
 [34] [35] [36] [37]
-Underfull \hbox (badness 10000) in paragraph at lines 764--764
+Underfull \hbox (badness 10000) in paragraph at lines 782--782
 [][]\OT1/cmr/m/n/10.95 Fletcher, Mar-garet, Sharon Loane, and Svante An-der-s-s
 on (2011). \  In-ter-na-tional
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 764--764
+Underfull \hbox (badness 3780) in paragraph at lines 782--782
 [][]\OT1/cmr/m/it/10.95 Internationalization of Deutsche Bank \OT1/cmr/m/n/10.9
 5 (2020). \OT1/cmr/m/sc/10.95 url\OT1/cmr/m/n/10.95 : $\OT1/cmtt/m/n/10.95 http
 s : / / lawaspect . com /
  []
 
 [38]
-Underfull \hbox (badness 1859) in paragraph at lines 764--764
+Underfull \hbox (badness 1859) in paragraph at lines 782--782
 \OT1/cmr/m/n/10.95 Ex-pe-ri-ence and Ex-port In-ten-sity in SMEs: A Lon-gi-tu-d
 i-nal Ap-proach to Com-plex
  []
 
 [39]
-Underfull \hbox (badness 2617) in paragraph at lines 764--764
+Underfull \hbox (badness 2617) in paragraph at lines 782--782
 [][]\OT1/cmr/m/n/10.95 Porter, M. E. (1980). \OT1/cmr/m/it/10.95 Com-pet-i-tive
  Strat-egy: Tech-niques for An-a-lyz-ing In-dus-tries and
  []
 
 
-Underfull \hbox (badness 2556) in paragraph at lines 764--764
+Underfull \hbox (badness 2556) in paragraph at lines 782--782
 \OT1/cmr/m/n/10.95 Phe-nomenon: A Com-par-a-tive Case Study Re-search". In: \OT
 1/cmr/m/it/10.95 Jour-nal of In-ter-na-tional
  []
@@ -1099,18 +1129,18 @@ Package logreq Info: Writing requests to 'thesis_bachelors.run.xml'.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 597 ({)
-### simple group (level 2) entered at line 373 ({)
-### simple group (level 1) entered at line 330 ({)
+### simple group (level 3) entered at line 622 ({)
+### simple group (level 2) entered at line 398 ({)
+### simple group (level 1) entered at line 355 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16244 strings out of 492616
- 278537 string characters out of 6129481
- 732053 words of memory out of 5000000
- 19919 multiletter control sequences out of 15000+600000
+ 16415 strings out of 492616
+ 281375 string characters out of 6129481
+ 740865 words of memory out of 5000000
+ 20083 multiletter control sequences out of 15000+600000
  11490 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,78p,1834b,1846s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,78p,1844b,1843s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1123,10 +1153,10 @@ mr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 .pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.p
 fb>
-Output written on thesis_bachelors.pdf (47 pages, 841562 bytes).
+Output written on thesis_bachelors.pdf (48 pages, 842135 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
+ 217 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
