@@ -68,9 +68,9 @@
       \field{langid}{american}
       \field{month}{6}
       \field{title}{Confidence in {{U}}.{{S}}. {{Banks Low}} but {{Rising}}}
-      \field{urlday}{22}
-      \field{urlmonth}{12}
-      \field{urlyear}{2019}
+      \field{urlday}{4}
+      \field{urlmonth}{10}
+      \field{urlyear}{2020}
       \field{year}{2015}
       \field{dateera}{ce}
       \field{urldateera}{ce}
@@ -401,13 +401,9 @@
       \field{number}{6}
       \field{shorttitle}{From “Ancient” to “Modern”}
       \field{title}{From “Ancient” to “Modern”: A Cross‐cultural Investigation of Electronic Commerce Adoption in {{Greece}} and the {{United States}}}
-      \field{urlday}{1}
-      \field{urlmonth}{2}
-      \field{urlyear}{2020}
       \field{volume}{17}
       \field{year}{2004}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \field{pages}{416\bibrangedash 423}
       \range{pages}{8}
       \verb{doi}
@@ -550,8 +546,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deutsche {{Bank Italy}} - {{History}}}
-      \field{urlday}{10}
-      \field{urlmonth}{4}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{file}
@@ -585,8 +581,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deutsche {{Bank United Kingdom}} - {{History}}}
-      \field{urlday}{10}
-      \field{urlmonth}{4}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{file}
@@ -620,8 +616,8 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deutsche {{Bank US}} - {{History}}}
-      \field{urlday}{10}
-      \field{urlmonth}{4}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{file}
@@ -1012,8 +1008,8 @@
       \field{journaltitle}{Lawaspect.com}
       \field{langid}{american}
       \field{title}{Internationalization of {{Deutsche Bank}}}
-      \field{urlday}{8}
-      \field{urlmonth}{5}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
       \field{urlyear}{2020}
       \field{urldateera}{ce}
       \verb{file}
@@ -1773,20 +1769,10 @@
       \field{langid}{american}
       \field{shorttitle}{Competitive {{Strategy}}}
       \field{title}{Competitive {{Strategy}}: {{Techniques}} for {{Analyzing Industries}} and {{Competitors}}}
-      \field{urlday}{25}
-      \field{urlmonth}{4}
-      \field{urlyear}{2020}
       \field{year}{1980}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/RU5TRDK7/item.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.hbs.edu/faculty/Pages/item.aspx?num=195
-      \endverb
-      \verb{url}
-      \verb https://www.hbs.edu/faculty/Pages/item.aspx?num=195
       \endverb
     \endentry
     \entry{porterStrategyInternet2001}{article}{}
@@ -2207,9 +2193,9 @@
       \field{journaltitle}{Computerworld}
       \field{langid}{english}
       \field{title}{{{TI}}'s First Handheld Calculator Is Now a Museum Piece}
-      \field{urlday}{21}
+      \field{urlday}{4}
       \field{urlmonth}{12}
-      \field{urlyear}{2019}
+      \field{urlyear}{2020}
       \field{year}{2007}
       \field{dateera}{ce}
       \field{urldateera}{ce}
@@ -2317,20 +2303,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deutsche {{Bank}} ({{Insider Guide}})}
-      \field{urlday}{8}
-      \field{urlmonth}{5}
-      \field{urlyear}{2020}
       \field{year}{2010}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
       \verb{file}
       \verb /Users/davidohayon/Zotero/storage/46RIBPHF/1582076286.html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.amazon.com/-/es/WetFeet/dp/1582076286
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/-/es/WetFeet/dp/1582076286
       \endverb
     \endentry
     \entry{xuInstitutionalDistanceMultinational2002}{article}{}
